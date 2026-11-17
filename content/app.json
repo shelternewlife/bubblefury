@@ -1,9 +1,31 @@
 {
-"name":"Job Connect","developer":"DevImpact","package_id":"com.jobsearch.jobconnect.work.jobs.devimpact",
-"google_play_url":"https://play.google.com/store/apps/details?id=com.jobsearch.jobconnect.work.jobs.devimpact",
-"website_url":"https://shelternewlife.github.io/bubblefury/","ga4_measurement_id":"G-2JMZS90324","category":"Business","contains_ads":true,
-"distribution_status":"published_on_google_play","languages":["en","ar"],
-"privacy_policy_url":"https://sites.google.com/view/regles-2-confidentialite","support_email":"carta.net.play@gmail.com",
-"tagline":{"en":"Discover opportunities before they get crowded.","ar":"اكتشف الفرص المهنية مبكراً، قبل أن تزدحم المنافسة."},
-"description":{"en":"A focused job-opportunity discovery experience built around fresh signals, opportunity intelligence and personal collections. Explore roles, review compensation and location signals, understand why an opportunity surfaced, and organize opportunities worth following.","ar":"تجربة متخصصة لاكتشاف فرص العمل، ترتكز على الإشارات الحديثة وذكاء تحليل الفرص والمجموعات الشخصية. استكشف الأدوار الوظيفية، وراجع مؤشرات الرواتب والمواقع، وافهم أسباب ظهور الفرصة، ونظّم الفرص التي تستحق المتابعة."}
+  "name": "Bubble Fury",
+  "developer": "DevImpact",
+  "package_id": "com.game.bubblefury.devimpact",
+  "google_play_url": "https://play.google.com/store/apps/details?id=com.game.bubblefury.devimpact",
+  "website_url": "https://shelternewlife.github.io/bubblefury/",
+  "ga4_measurement_id": "G-2JMZS90324",
+  "category": "Arcade",
+  "contains_ads": true,
+  "distribution_status": "published_on_google_play",
+  "languages": [
+    "en-US",
+    "en-CA",
+    "fr-CA",
+    "es-ES",
+    "pt-PT",
+    "fr-FR",
+    "de-DE",
+    "it-IT"
+  ],
+  "privacy_policy_url": "https://sites.google.com/view/regles-2-confidentialite",
+  "support_email": "carta.net.play@gmail.com",
+  "tagline": {
+    "en": "Quick runs. Precise shots. Bigger scores.",
+    "ar": "جولات سريعة، تصويب دقيق، ونتائج أعلى."
+  },
+  "description": {
+    "en": "Bubble Fury is a fast arcade bubble shooter. Drag to aim and release to shoot, match three or more bubbles of the same color, build combo chains, use wall rebounds, collect coins, and keep playing as the board grows more challenging.",
+    "ar": "Bubble Fury لعبة فقاعات أركيد سريعة. اسحب للتصويب واترك للإطلاق، وطابق ثلاث فقاعات أو أكثر من اللون نفسه، وابنِ سلاسل كومبو، واستفد من ارتداد الفقاعات عن الجدران، واجمع العملات مع ازدياد تحدي اللوحة."
+  }
 }

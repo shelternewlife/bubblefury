@@ -517,47 +517,46 @@
     "en-US": {
       "language": "English (United States)",
       "market": "United States",
-      "intent": "Discover and evaluate job opportunities with an Android app; do not imply a guaranteed live inventory, application service or job-board comparison.",
+      "intent": "Reach people searching for an Android arcade bubble shooter and describe only the mechanics verified on the Google Play listing.",
       "primary": [
-        "job search app",
-        "job opportunities",
-        "job opportunity discovery app"
+        "bubble shooter game",
+        "bubble shooter",
+        "arcade bubble shooter"
       ],
       "secondary": [
-        "Android job search app",
-        "discover job opportunities",
-        "job listings",
-        "organize job opportunities"
+        "bubble pop game",
+        "match three bubbles",
+        "bubble shooting game",
+        "bubble shooter combos",
+        "bubble shooter Android game"
       ],
       "excluded_terms": [
-        "best job search apps",
-        "jobs hiring now",
-        "remote jobs",
-        "entry level jobs",
-        "jobs near me",
-        "guaranteed jobs"
+        "multiplayer bubble shooter",
+        "ad-free bubble shooter",
+        "unlimited bubble shooter levels",
+        "bubble shooter power-ups"
       ],
-      "exclusion_reason": "These imply comparison rankings, live hiring inventory, geographic availability, or specialist filters that are not verified as core app capabilities.",
+      "exclusion_reason": "Multiplayer, ad-free play, unlimited levels and power-ups are not confirmed as app features.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "game discovery",
           "primary": [
-            "job search app",
-            "job opportunities"
+            "bubble shooter game",
+            "arcade bubble shooter"
           ],
           "secondary": [
-            "Android job search app",
-            "discover job opportunities"
+            "bubble shooter Android game",
+            "bubble pop game"
           ]
         },
         {
-          "intent": "opportunity discovery and organization",
+          "intent": "game mechanics",
           "primary": [
-            "job opportunity discovery app"
+            "match three bubbles"
           ],
           "secondary": [
-            "job listings",
-            "organize job opportunities"
+            "bubble shooter combos",
+            "wall rebound bubble shooter"
           ]
         }
       ]
@@ -565,48 +564,44 @@
     "en-CA": {
       "language": "English (Canada)",
       "market": "Canada",
-      "intent": "Localize terminology for Canadian English while describing discovery and review features without promising Canadian vacancy coverage.",
+      "intent": "Use natural Canadian English terms for arcade bubble shooting, colour matching and combo gameplay.",
       "primary": [
-        "job search app Canada",
-        "job search app",
-        "job postings",
-        "job opportunities"
+        "bubble shooter game",
+        "bubble shooter Android game",
+        "arcade bubble shooter"
       ],
       "secondary": [
-        "Android job search app",
-        "employment opportunities",
-        "discover job opportunities",
-        "organize job postings"
+        "bubble pop game",
+        "match three bubbles",
+        "bubble shooting game",
+        "bubble shooter combos"
       ],
       "excluded_terms": [
-        "find jobs in Canada",
-        "jobs in Canada",
-        "jobs hiring now",
-        "remote jobs Canada",
-        "entry level jobs Canada"
+        "multiplayer bubble shooter",
+        "ad-free bubble shooter",
+        "unlimited bubble shooter levels"
       ],
-      "exclusion_reason": "Avoid claims that the app guarantees Canadian inventory, current hiring, remote-only listings or entry-level coverage until verified against live app data.",
+      "exclusion_reason": "Do not claim multiplayer, ad-free play or unlimited levels without store confirmation.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "game discovery",
           "primary": [
-            "job search app Canada",
-            "job search app"
+            "bubble shooter game",
+            "arcade bubble shooter"
           ],
           "secondary": [
-            "Android job search app",
-            "employment opportunities"
+            "bubble shooter Android game",
+            "bubble pop game"
           ]
         },
         {
-          "intent": "opportunity discovery and organization",
+          "intent": "game mechanics",
           "primary": [
-            "job postings",
-            "job opportunities"
+            "match three bubbles"
           ],
           "secondary": [
-            "discover job opportunities",
-            "organize job postings"
+            "bubble shooter combos",
+            "wall rebound bubble shooter"
           ]
         }
       ]
@@ -614,78 +609,87 @@
     "fr-CA": {
       "language": "Français canadien",
       "market": "Canada",
-      "intent": "Use natural Canadian French terms for job-search discovery and opportunity organization; do not imply guaranteed local vacancy coverage.",
+      "intent": "Cibler les recherches canadiennes en français sur les jeux de tir de bulles et les mécaniques confirmées.",
       "primary": [
-        "application de recherche d’emploi",
-        "application pour trouver un emploi",
-        "offres d’emploi"
+        "jeu de tir de bulles",
+        "jeu de bulles Android",
+        "jeu d’arcade de bulles"
       ],
       "secondary": [
-        "possibilités d’emploi",
-        "recherche d’emploi",
-        "application Android pour l’emploi",
-        "organiser les offres d’emploi"
+        "éclater des bulles",
+        "associer trois bulles",
+        "combos de bulles",
+        "rebonds sur les murs"
       ],
       "excluded_terms": [
-        "emplois au Canada",
-        "emplois à distance",
-        "emplois débutant",
-        "emplois près de moi",
-        "meilleure application de recherche d’emploi"
+        "jeu de bulles multijoueur",
+        "jeu de bulles sans publicité",
+        "niveaux illimités"
       ],
-      "exclusion_reason": "These can imply a verified Canadian job inventory, remote or entry-level filters, nearby listings or an unsupported comparative ranking.",
+      "exclusion_reason": "Le multijoueur, l’absence de publicité et les niveaux illimités ne sont pas confirmés.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "découverte du jeu",
           "primary": [
-            "application de recherche d’emploi",
-            "application pour trouver un emploi"
+            "jeu de tir de bulles"
           ],
           "secondary": [
-            "possibilités d’emploi",
-            "recherche d’emploi"
+            "jeu de bulles Android",
+            "jeu d’arcade de bulles"
           ]
         },
         {
-          "intent": "opportunity discovery and organization",
+          "intent": "mécaniques",
           "primary": [
-            "offres d’emploi"
+            "associer trois bulles"
           ],
           "secondary": [
-            "application Android pour l’emploi",
-            "organiser les offres d’emploi"
+            "éclater des bulles",
+            "combos de bulles"
           ]
         }
       ]
     },
     "es-ES": {
-      "language": "Français (France)",
-      "market": "Spain",
-      "intent": "Describe verified opportunity discovery and organization without claiming guaranteed local vacancy inventory or application services.",
+      "language": "Español (España)",
+      "market": "España",
+      "intent": "Describir el juego arcade de burbujas y las mecánicas confirmadas sin prometer funciones no verificadas.",
       "primary": [
-        "aplicación para buscar empleo",
-        "ofertas de empleo"
+        "juego de disparar burbujas",
+        "bubble shooter",
+        "juego arcade de burbujas"
       ],
       "secondary": [
-        "buscar trabajo",
-        "organizar oportunidades"
+        "explotar burbujas",
+        "combinar tres burbujas",
+        "combos de burbujas",
+        "rebotes en paredes"
       ],
       "excluded_terms": [
-        "remote jobs",
-        "jobs hiring now",
-        "guaranteed jobs"
+        "bubble shooter multijugador",
+        "juego sin anuncios",
+        "niveles ilimitados"
       ],
-      "exclusion_reason": "Remote-work availability and country-specific vacancy coverage are not guaranteed by the app.",
+      "exclusion_reason": "No se han confirmado multijugador, ausencia de anuncios ni niveles ilimitados.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "descubrimiento del juego",
           "primary": [
-            "aplicación para buscar empleo",
-            "ofertas de empleo"
+            "juego de disparar burbujas"
           ],
           "secondary": [
-            "buscar trabajo",
-            "organizar oportunidades"
+            "bubble shooter",
+            "juego arcade de burbujas"
+          ]
+        },
+        {
+          "intent": "mecánicas",
+          "primary": [
+            "combinar tres burbujas"
+          ],
+          "secondary": [
+            "explotar burbujas",
+            "combos de burbujas"
           ]
         }
       ]
@@ -693,31 +697,43 @@
     "pt-PT": {
       "language": "Português (Portugal)",
       "market": "Portugal",
-      "intent": "Describe verified opportunity discovery and organization without claiming guaranteed local vacancy inventory or application services.",
+      "intent": "Descrever o jogo arcade de bolhas e as mecânicas confirmadas sem prometer funcionalidades não verificadas.",
       "primary": [
-        "aplicação para procurar emprego",
-        "ofertas de emprego"
+        "jogo de disparar bolhas",
+        "bubble shooter",
+        "jogo arcade de bolhas"
       ],
       "secondary": [
-        "procurar trabalho",
-        "organizar oportunidades"
+        "rebentar bolhas",
+        "combinar três bolhas",
+        "combos de bolhas",
+        "ressaltos nas paredes"
       ],
       "excluded_terms": [
-        "remote jobs",
-        "jobs hiring now",
-        "guaranteed jobs"
+        "bubble shooter multijogador",
+        "jogo sem anúncios",
+        "níveis ilimitados"
       ],
-      "exclusion_reason": "Remote-work availability and country-specific vacancy coverage are not guaranteed by the app.",
+      "exclusion_reason": "O modo multijogador, a ausência de anúncios e os níveis ilimitados não estão confirmados.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "descoberta do jogo",
           "primary": [
-            "aplicação para procurar emprego",
-            "ofertas de emprego"
+            "jogo de disparar bolhas"
           ],
           "secondary": [
-            "procurar trabalho",
-            "organizar oportunidades"
+            "bubble shooter",
+            "jogo arcade de bolhas"
+          ]
+        },
+        {
+          "intent": "mecânicas",
+          "primary": [
+            "combinar três bolhas"
+          ],
+          "secondary": [
+            "rebentar bolhas",
+            "combos de bolhas"
           ]
         }
       ]
@@ -725,95 +741,132 @@
     "fr-FR": {
       "language": "Français (France)",
       "market": "France",
-      "intent": "Describe verified opportunity discovery and organization without claiming guaranteed local vacancy inventory or application services.",
+      "intent": "Cibler les recherches françaises sur les jeux de tir de bulles et les mécaniques confirmées.",
       "primary": [
-        "application de recherche d’emploi",
-        "offres d’emploi"
+        "jeu de tir de bulles",
+        "bubble shooter",
+        "jeu d’arcade de bulles"
       ],
       "secondary": [
-        "recherche d’emploi",
-        "organiser les offres"
+        "éclater des bulles",
+        "associer trois bulles",
+        "combos de bulles",
+        "rebonds sur les murs"
       ],
       "excluded_terms": [
-        "remote jobs",
-        "jobs hiring now",
-        "guaranteed jobs"
+        "jeu de bulles multijoueur",
+        "jeu sans publicité",
+        "niveaux illimités"
       ],
-      "exclusion_reason": "Remote-work availability and country-specific vacancy coverage are not guaranteed by the app.",
+      "exclusion_reason": "Le multijoueur, l’absence de publicité et les niveaux illimités ne sont pas confirmés.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "découverte du jeu",
           "primary": [
-            "application de recherche d’emploi",
-            "offres d’emploi"
+            "jeu de tir de bulles"
           ],
           "secondary": [
-            "recherche d’emploi",
-            "organiser les offres"
+            "bubble shooter",
+            "jeu d’arcade de bulles"
+          ]
+        },
+        {
+          "intent": "mécaniques",
+          "primary": [
+            "associer trois bulles"
+          ],
+          "secondary": [
+            "éclater des bulles",
+            "combos de bulles"
           ]
         }
       ]
     },
     "de-DE": {
       "language": "Deutsch (Deutschland)",
-      "market": "Germany",
-      "intent": "Describe verified opportunity discovery and organization without claiming guaranteed local vacancy inventory or application services.",
+      "market": "Deutschland",
+      "intent": "Auf Arcade-Bubble-Shooter und bestätigte Spielmechaniken ausrichten, ohne nicht belegte Funktionen zu versprechen.",
       "primary": [
-        "Jobsuche App",
-        "Stellenangebote"
+        "Bubble Shooter Spiel",
+        "Bubble Shooter",
+        "Bubble Shooter Arcade-Spiel"
       ],
       "secondary": [
-        "Jobs entdecken",
-        "Stellenangebote organisieren"
+        "Blasen platzen lassen",
+        "drei Blasen kombinieren",
+        "Bubble-Shooter-Combos",
+        "Wandabpraller"
       ],
       "excluded_terms": [
-        "remote jobs",
-        "jobs hiring now",
-        "guaranteed jobs"
+        "Bubble Shooter Multiplayer",
+        "Bubble Shooter ohne Werbung",
+        "unbegrenzte Level"
       ],
-      "exclusion_reason": "Remote-work availability and country-specific vacancy coverage are not guaranteed by the app.",
+      "exclusion_reason": "Mehrspieler, werbefreies Spielen und unbegrenzte Level sind nicht bestätigt.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "Spiel entdecken",
           "primary": [
-            "Jobsuche App",
-            "Stellenangebote"
+            "Bubble Shooter Spiel",
+            "Bubble Shooter Arcade-Spiel"
           ],
           "secondary": [
-            "Jobs entdecken",
-            "Stellenangebote organisieren"
+            "Bubble Shooter Android",
+            "Blasen platzen lassen"
+          ]
+        },
+        {
+          "intent": "Spielmechanik",
+          "primary": [
+            "drei Blasen kombinieren"
+          ],
+          "secondary": [
+            "Bubble-Shooter-Combos",
+            "Wandabpraller"
           ]
         }
       ]
     },
     "it-IT": {
       "language": "Italiano (Italia)",
-      "market": "Italy",
-      "intent": "Describe verified opportunity discovery and organization without claiming guaranteed local vacancy inventory or application services.",
+      "market": "Italia",
+      "intent": "Descrivere il gioco arcade sparabolle e le meccaniche confermate senza promettere funzioni non verificate.",
       "primary": [
-        "app per cercare lavoro",
-        "offerte di lavoro"
+        "gioco spara bolle",
+        "bubble shooter",
+        "gioco arcade di bolle"
       ],
       "secondary": [
-        "opportunità di lavoro",
-        "organizzare offerte"
+        "scoppia bolle",
+        "abbina tre bolle",
+        "combo di bolle",
+        "rimbalzi sulle pareti"
       ],
       "excluded_terms": [
-        "remote jobs",
-        "jobs hiring now",
-        "guaranteed jobs"
+        "bubble shooter multigiocatore",
+        "gioco senza pubblicità",
+        "livelli illimitati"
       ],
-      "exclusion_reason": "Remote-work availability and country-specific vacancy coverage are not guaranteed by the app.",
+      "exclusion_reason": "Multigiocatore, assenza di annunci e livelli illimitati non sono confermati.",
       "clusters": [
         {
-          "intent": "app discovery",
+          "intent": "scoperta del gioco",
           "primary": [
-            "app per cercare lavoro",
-            "offerte di lavoro"
+            "gioco spara bolle"
           ],
           "secondary": [
-            "opportunità di lavoro",
-            "organizzare offerte"
+            "bubble shooter",
+            "gioco arcade di bolle"
+          ]
+        },
+        {
+          "intent": "meccaniche",
+          "primary": [
+            "abbina tre bolle"
+          ],
+          "secondary": [
+            "scoppia bolle",
+            "combo di bolle"
           ]
         }
       ]
@@ -821,65 +874,65 @@
   },
   "europe_keyword_research": {
     "status": "research-seeds-only",
-    "note": "European language keyword clusters must be researched and validated per country before publishing. Do not translate North American terms literally or assume one phrase fits every country.",
+    "note": "These are localized seed phrases for future research, not verified search-volume or ranking estimates. Validate each term by country before expanding content.",
     "first_wave_locales": [
       "en-GB",
       "fr-FR",
       "de-DE",
       "es-ES",
       "it-IT",
-      "pt-PT",
       "nl-NL",
-      "pl-PL"
+      "pl-PL",
+      "pt-PT"
     ],
     "examples": {
       "fr-FR": [
-        "application recherche emploi",
-        "offres d'emploi",
-        "recherche d'emploi",
-        "emploi à distance"
+        "jeu de tir de bulles",
+        "bubble shooter",
+        "éclater des bulles",
+        "associer trois bulles"
       ],
       "de-DE": [
-        "Jobsuche App",
-        "Stellenangebote",
-        "Jobs finden",
-        "Remote Jobs"
+        "Bubble Shooter Spiel",
+        "Bubble Shooter",
+        "Blasen platzen lassen",
+        "drei Blasen kombinieren"
       ],
       "es-ES": [
-        "aplicación para buscar empleo",
-        "ofertas de empleo",
-        "buscar trabajo",
-        "trabajo remoto"
+        "juego de disparar burbujas",
+        "bubble shooter",
+        "explotar burbujas",
+        "combinar tres burbujas"
       ],
       "it-IT": [
-        "app ricerca lavoro",
-        "offerte di lavoro",
-        "cercare lavoro",
-        "lavoro da remoto"
+        "gioco spara bolle",
+        "bubble shooter",
+        "scoppia bolle",
+        "abbina tre bolle"
       ],
       "nl-NL": [
-        "vacatures app",
-        "vacatures zoeken",
-        "werk zoeken",
-        "thuiswerk vacatures"
+        "bubbelschietspel",
+        "bubble shooter",
+        "bubbels laten knappen",
+        "drie bubbels combineren"
       ],
       "pl-PL": [
-        "aplikacja do szukania pracy",
-        "oferty pracy",
-        "szukanie pracy",
-        "praca zdalna"
+        "gra w strzelanie do baniek",
+        "bubble shooter",
+        "pękające bańki",
+        "łączenie trzech baniek"
       ],
       "en-GB": [
-        "job search app",
-        "find a job",
-        "job vacancies",
-        "remote jobs"
+        "bubble shooter game",
+        "arcade bubble shooter",
+        "match three bubbles",
+        "bubble pop game"
       ],
       "pt-PT": [
-        "aplicação para procurar emprego",
-        "ofertas de emprego",
-        "procurar trabalho",
-        "organizar oportunidades"
+        "jogo de disparar bolhas",
+        "bubble shooter",
+        "rebentar bolhas",
+        "combinar três bolhas"
       ]
     }
   },
@@ -901,7 +954,7 @@
   "publishing_policy": "Only locales listed in published_locales and backed by complete locale content are generated, indexed and included in sitemaps. Market status alone never publishes a locale.",
   "keyword_quality_policy": {
     "source_of_truth": "Locale-specific keyword clusters in this file; legacy broad-language seeds are not market-volume research.",
-    "claim_guardrail": "Target only app capabilities confirmed by the current product and store listing. Do not promise live vacancies, hiring-now status, geographic coverage, remote-only or entry-level inventory, application submission, or best-app rankings unless verified.",
+    "claim_guardrail": "Target only Bubble Fury features confirmed by the Google Play listing: arcade bubble shooting, drag-to-aim and release-to-shoot controls, matching at least three same-colour bubbles, combo scoring, wall rebounds, coin collection and increasing challenge. Do not promise multiplayer, ad-free play, unlimited levels, power-ups or other unverified features.",
     "volume_policy": "No search-volume, difficulty or traffic estimates are asserted. Validate demand by country and language in Google Keyword Planner and Search Console after sufficient impressions accrue.",
     "localization_policy": "Use natural regional terminology in titles, descriptions and page copy; do not insert country names into every page or repeat keywords unnaturally."
   }

@@ -1,7 +1,57 @@
 [
-{"id":"discovery","title":{"en":"Discover fresh opportunity signals","ar":"اكتشف إشارات الفرص الحديثة"},"description":{"en":"Explore a discovery feed with newly surfaced opportunities, freshness labels and alignment indicators.","ar":"استكشف موجز اكتشاف يبرز الفرص الحديثة ومؤشرات حداثة الإعلان والتوافق."}},
-{"id":"opportunity-cards","title":{"en":"Review opportunities at a glance","ar":"راجع الفرص بنظرة سريعة"},"description":{"en":"Compare roles, organizations, locations and compensation signals in focused opportunity cards.","ar":"قارن المسميات والجهات والمواقع ومؤشرات التعويضات ضمن بطاقات واضحة."}},
-{"id":"opportunity-intelligence","title":{"en":"Understand why an opportunity stands out","ar":"افهم لماذا تبرز فرصة معينة"},"description":{"en":"Inspect compensation, location, remote flexibility, freshness and the reasons surfaced by the app. Displayed values are indicators, not guarantees.","ar":"افحص مؤشرات الراتب والموقع والعمل عن بُعد والحداثة وأسباب إبراز التطبيق للفرصة. القيم مؤشرات وليست ضمانات."}},
-{"id":"derived-metrics","title":{"en":"Explore derived intelligence metrics","ar":"استكشف مؤشرات الذكاء المستنتجة"},"description":{"en":"Review data completeness, post freshness, uniqueness and competition indicators, alongside detected capabilities and requisites. These are estimates.","ar":"راجع مؤشرات اكتمال البيانات وحداثة الإعلان والتفرد والمنافسة والمهارات والمتطلبات المستنتجة. وهي تقديرات تحليلية."}},
-{"id":"collections","title":{"en":"Organize opportunities into collections","ar":"نظّم الفرص داخل مجموعات"},"description":{"en":"Create personal buckets such as Remote Hub, Elite Leap and My Watchlist to categorize and revisit opportunities.","ar":"أنشئ مجموعات مثل Remote Hub وElite Leap وMy Watchlist لتصنيف الفرص والعودة إليها."}}
+  {
+    "id": "arcade-gameplay",
+    "title": {
+      "en": "Fast arcade bubble shooter action",
+      "ar": "حركة إطلاق فقاعات سريعة بنمط أركيد"
+    },
+    "description": {
+      "en": "Drag to aim, release to shoot, and keep each run moving with quick, skill-focused bubble shooter gameplay.",
+      "ar": "اسحب للتصويب واترك للإطلاق، واستمتع بجولات سريعة تعتمد على مهارتك في لعبة إطلاق الفقاعات."
+    }
+  },
+  {
+    "id": "match-three-bubbles",
+    "title": {
+      "en": "Match three or more bubbles",
+      "ar": "طابق ثلاث فقاعات أو أكثر"
+    },
+    "description": {
+      "en": "Match groups of at least three bubbles in the same color to pop them and clear space on the board.",
+      "ar": "طابق مجموعات من ثلاث فقاعات على الأقل من اللون نفسه لتفجيرها وإخلاء مساحة على اللوحة."
+    }
+  },
+  {
+    "id": "combo-scoring",
+    "title": {
+      "en": "Build combos and chase high scores",
+      "ar": "اصنع سلاسل كومبو واطارد النتائج العالية"
+    },
+    "description": {
+      "en": "Keep successful matches flowing to build combo chains, earn larger score rewards, and aim for a new personal best.",
+      "ar": "واصل المطابقات الناجحة لبناء سلاسل كومبو والحصول على نقاط أكبر والسعي إلى تحقيق أفضل نتيجة شخصية."
+    }
+  },
+  {
+    "id": "wall-rebound-shots",
+    "title": {
+      "en": "Use wall rebounds for tricky angles",
+      "ar": "استفد من ارتداد الجدران للزوايا الصعبة"
+    },
+    "description": {
+      "en": "Use precise aiming and wall rebounds to reach difficult angles and create more opportunities to clear matching bubbles.",
+      "ar": "استخدم التصويب الدقيق وارتداد الفقاعات عن الجدران للوصول إلى زوايا صعبة وفتح فرص إضافية لإزالة الفقاعات المتطابقة."
+    }
+  },
+  {
+    "id": "coins-and-progression",
+    "title": {
+      "en": "Collect coins as the challenge grows",
+      "ar": "اجمع العملات مع ازدياد التحدي"
+    },
+    "description": {
+      "en": "Earn coins through gameplay and adapt as additional bubble types appear and the board becomes more crowded.",
+      "ar": "اكسب العملات أثناء اللعب وتكيف مع ظهور أنواع إضافية من الفقاعات وازدياد ازدحام اللوحة."
+    }
+  }
 ]

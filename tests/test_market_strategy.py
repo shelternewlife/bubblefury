@@ -34,6 +34,8 @@ class MarketStrategyTests(unittest.TestCase):
     def test_keyword_seeds_exist_for_initial_markets_without_volume_claims(self):
         clusters = STRATEGY["initial_keyword_clusters"]
         self.assertTrue({"en-US", "en-CA", "fr-CA"}.issubset(clusters))
+        self.assertIn("bubble shooter game", clusters["en-US"]["primary"])
+        self.assertIn("jeu de tir de bulles", clusters["fr-CA"]["primary"])
         for locale, data in clusters.items():
             self.assertTrue(data["clusters"], locale)
             for cluster in data["clusters"]:

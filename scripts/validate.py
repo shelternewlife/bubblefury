@@ -14,6 +14,7 @@ STRATEGY = json.loads((ROOT / "content/market-strategy.json").read_text(encoding
 GA_MEASUREMENT_ID = APP["ga4_measurement_id"]
 SCREENSHOTS = json.loads((ROOT / "content/screenshots.json").read_text(encoding="utf-8"))
 FEATURES = json.loads((ROOT / "content/features.json").read_text(encoding="utf-8"))
+FAQ = json.loads((ROOT / "content/faq.json").read_text(encoding="utf-8"))
 BASE = APP["website_url"].rstrip("/")
 NS = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
 ERRORS = []
@@ -71,7 +72,6 @@ def fail(message):
 required_files = [
     DIST / "index.html", DIST / "robots.txt", DIST / "sitemap.xml",
     DIST / "sitemap.txt", DIST / "llms.txt", DIST / "assets/style.css",
-    DIST / "assets/screens/screen-1.webp",
 ]
 if not (ROOT / "content/screenshots.json").is_file():
     fail("Missing source screenshot manifest: content/screenshots.json")
@@ -101,8 +101,8 @@ for lang in ("en", "ar"):
         page_html = path.read_text(encoding="utf-8")
         if '"@type": "Organization"' not in page_html or '"@type": "SoftwareApplication"' not in page_html:
             fail(f"Missing Organization or SoftwareApplication JSON-LD on {path.relative_to(DIST)}")
-        if section == "faq" and ('"@type": "FAQPage"' not in page_html or page_html.count('"@type": "Question"') != 12):
-            fail(f"FAQPage JSON-LD must describe all 12 visible FAQ entries: {path.relative_to(DIST)}")
+        if section == "faq" and ('"@type": "FAQPage"' not in page_html or page_html.count('"@type": "Question"') != len(FAQ)):
+            fail(f"FAQPage JSON-LD must describe all visible FAQ entries: {path.relative_to(DIST)}")
         if section != "faq" and '"@type": "FAQPage"' in page_html:
             fail(f"FAQPage JSON-LD must only appear on the FAQ page: {path.relative_to(DIST)}")
         if f"https://www.googletagmanager.com/gtag/js?id={GA_MEASUREMENT_ID}" not in page_html:

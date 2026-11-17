@@ -1,122 +1,82 @@
 [
   {
     "q": {
-      "en": "What is Job Connect?",
-      "ar": "ما هو Job Connect؟"
+      "en": "What is Bubble Fury?",
+      "ar": "ما هي Bubble Fury؟"
     },
     "a": {
-      "en": "A job-opportunity discovery app focused on fresh signals, opportunity context and personal collections.",
-      "ar": "تطبيق لاكتشاف فرص العمل يركز على الإشارات الحديثة وسياق الفرص والمجموعات الشخصية."
+      "en": "Bubble Fury is a fast arcade bubble shooter where you aim, shoot, match colors, build combos, and chase high scores.",
+      "ar": "Bubble Fury لعبة إطلاق فقاعات سريعة بنمط أركيد، تصوّب فيها وتطلق الفقاعات وتطابق الألوان وتصنع سلاسل كومبو وتسعى إلى نتائج عالية."
     }
   },
   {
     "q": {
-      "en": "What does an alignment score mean?",
-      "ar": "ماذا تعني درجة التوافق؟"
+      "en": "How do I play Bubble Fury?",
+      "ar": "كيف ألعب Bubble Fury؟"
     },
     "a": {
-      "en": "It is an app-displayed indicator, not a promise that a role is a perfect match or that an application will succeed.",
-      "ar": "مؤشر يعرضه التطبيق، وليس ضماناً بأن الوظيفة مناسبة تماماً أو بأن طلب التوظيف سينجح."
+      "en": "Drag to aim and release to shoot. Match three or more bubbles of the same color to pop them and clear space.",
+      "ar": "اسحب للتصويب واترك للإطلاق. طابق ثلاث فقاعات أو أكثر من اللون نفسه لتفجيرها وإخلاء مساحة."
     }
   },
   {
     "q": {
-      "en": "What are the intelligence metrics?",
-      "ar": "ما المقصود بمؤشرات الذكاء؟"
+      "en": "Can I use the walls to reach bubbles?",
+      "ar": "هل يمكنني استخدام الجدران للوصول إلى الفقاعات؟"
     },
     "a": {
-      "en": "Screens show derived indicators such as data completeness, post freshness, uniqueness and competition, plus detected capabilities and requisites. They are estimates.",
-      "ar": "تعرض الشاشات مؤشرات مستنتجة مثل اكتمال البيانات والحداثة والتفرد والمنافسة والمهارات والمتطلبات. وهي تقديرات."
+      "en": "Yes. The game description highlights wall rebounds as a way to reach difficult angles with precise shots.",
+      "ar": "نعم. يذكر وصف اللعبة ارتداد الفقاعات عن الجدران كطريقة للوصول إلى زوايا صعبة باستخدام التصويب الدقيق."
     }
   },
   {
     "q": {
-      "en": "Can I organize opportunities?",
-      "ar": "هل يمكنني تنظيم الفرص؟"
+      "en": "How do combos and scoring work?",
+      "ar": "كيف تعمل سلاسل الكومبو والنقاط؟"
     },
     "a": {
-      "en": "Yes. Collections include examples such as Remote Hub, Elite Leap and My Watchlist.",
-      "ar": "نعم. تشمل أمثلة المجموعات Remote Hub وElite Leap وMy Watchlist."
+      "en": "Successful matches can build combo chains. Keeping the chain going can increase score rewards as you clear bubbles.",
+      "ar": "يمكن للمطابقات الناجحة بناء سلاسل كومبو. ويساعد استمرار السلسلة على زيادة مكافآت النقاط أثناء إزالة الفقاعات."
     }
   },
   {
     "q": {
-      "en": "Where can I install Job Connect?",
-      "ar": "من أين أثبّت Job Connect؟"
+      "en": "Does Bubble Fury get harder as I play?",
+      "ar": "هل تزداد صعوبة Bubble Fury أثناء اللعب؟"
     },
     "a": {
-      "en": "Install the Android app from its official Google Play listing.",
-      "ar": "ثبّت تطبيق Android من صفحته الرسمية على Google Play."
+      "en": "Yes. The board becomes more crowded and additional bubble types appear as you survive longer, making each shot more important.",
+      "ar": "نعم. تصبح اللوحة أكثر ازدحاماً وتظهر أنواع إضافية من الفقاعات كلما استمررت مدة أطول، فتزداد أهمية كل طلقة."
     }
   },
   {
     "q": {
-      "en": "Does Job Connect contain ads?",
-      "ar": "هل يحتوي Job Connect على إعلانات؟"
+      "en": "Can I earn coins while playing?",
+      "ar": "هل يمكنني جمع العملات أثناء اللعب؟"
     },
     "a": {
-      "en": "The Google Play listing identifies the app as containing ads.",
-      "ar": "توضح صفحة Google Play أن التطبيق يحتوي على إعلانات."
+      "en": "Yes. The Google Play description says you collect coins while popping bubbles and scoring points.",
+      "ar": "نعم. يوضح وصف Google Play أنك تجمع العملات أثناء تفجير الفقاعات وتحقيق النقاط."
     }
   },
   {
     "q": {
-      "en": "Does Job Connect apply to jobs for me?",
-      "ar": "هل يتقدم Job Connect إلى الوظائف نيابةً عني؟"
+      "en": "Does Bubble Fury contain ads?",
+      "ar": "هل تحتوي Bubble Fury على إعلانات؟"
     },
     "a": {
-      "en": "No. Job Connect helps you discover and review opportunities. Follow the employer's official application instructions to apply.",
-      "ar": "لا. يساعدك Job Connect على اكتشاف الفرص ومراجعتها. اتبع تعليمات التقديم الرسمية لدى صاحب العمل لإرسال طلبك."
+      "en": "Yes. Google Play identifies Bubble Fury as an app that contains ads.",
+      "ar": "نعم. توضح صفحة Google Play أن Bubble Fury تحتوي على إعلانات."
     }
   },
   {
     "q": {
-      "en": "Does an opportunity indicator guarantee a successful application?",
-      "ar": "هل تضمن مؤشرات الفرصة نجاح طلب التوظيف؟"
+      "en": "Where can I install Bubble Fury?",
+      "ar": "من أين يمكنني تثبيت Bubble Fury؟"
     },
     "a": {
-      "en": "No. Alignment, freshness and intelligence indicators are estimates that support your review. They do not predict hiring decisions or guarantee an interview.",
-      "ar": "لا. مؤشرات التوافق والحداثة والذكاء تقديرات تساعدك على المراجعة، ولا تتنبأ بقرارات التوظيف أو تضمن مقابلة."
-    }
-  },
-  {
-    "q": {
-      "en": "How can I check whether a job listing is genuine?",
-      "ar": "كيف أتحقق من أن إعلان الوظيفة حقيقي؟"
-    },
-    "a": {
-      "en": "Find the employer's official website independently, compare the job details and application domain, and be cautious of requests for money, passwords or verification codes.",
-      "ar": "ابحث بنفسك عن الموقع الرسمي لصاحب العمل، وقارن تفاصيل الوظيفة ونطاق التقديم، واحذر طلبات المال أو كلمات المرور أو رموز التحقق."
-    }
-  },
-  {
-    "q": {
-      "en": "Are all jobs remote or available in every country?",
-      "ar": "هل جميع الوظائف عن بُعد أو متاحة في كل الدول؟"
-    },
-    "a": {
-      "en": "No. Work location and country eligibility depend on each employer and listing. Check the original vacancy for geographic restrictions and remote-work terms.",
-      "ar": "لا. يعتمد موقع العمل وأهلية الدول على كل صاحب عمل وإعلان. راجع الإعلان الأصلي لمعرفة القيود الجغرافية وشروط العمل عن بُعد."
-    }
-  },
-  {
-    "q": {
-      "en": "Why might a job listing have no salary information?",
-      "ar": "لماذا قد لا يتضمن إعلان الوظيفة معلومات عن الراتب؟"
-    },
-    "a": {
-      "en": "Some employers do not publish compensation details. Treat the missing information as a question to clarify with the employer before proceeding.",
-      "ar": "لا ينشر بعض أصحاب العمل تفاصيل التعويض. اعتبر غيابها نقطة تحتاج إلى استيضاح من صاحب العمل قبل المتابعة."
-    }
-  },
-  {
-    "q": {
-      "en": "Can I install Job Connect outside Google Play?",
-      "ar": "هل يمكنني تثبيت Job Connect من خارج Google Play؟"
-    },
-    "a": {
-      "en": "For the safest official installation route, use the Job Connect listing on Google Play linked from this website.",
-      "ar": "للحصول على مسار التثبيت الرسمي الأكثر أماناً، استخدم صفحة Job Connect على Google Play المرتبطة من هذا الموقع."
+      "en": "Install Bubble Fury for Android from its official Google Play listing linked on this website.",
+      "ar": "ثبّت Bubble Fury لنظام Android من صفحة Google Play الرسمية المرتبطة بهذا الموقع."
     }
   }
 ]

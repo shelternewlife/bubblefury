@@ -1,25 +1,39 @@
-# Job Connect — App Discovery
+# Bubble Fury — Arcade Bubble Shooter
 
-A free, bilingual (English/Arabic), static discovery and SEO site for **Job Connect** by **DevImpact**.
+A free static website and SEO resource hub for **Bubble Fury** by **DevImpact**.
 
-- Google Play: https://play.google.com/store/apps/details?id=com.jobsearch.jobconnect.work.jobs.devimpact
-- Android application ID: com.jobsearch.jobconnect.work.jobs.devimpact
-- Website (after GitHub Pages is enabled): https://shelternewlife.github.io/tobemotif-app-discovery/
+- Google Play: https://play.google.com/store/apps/details?id=com.game.bubblefury.devimpact
+- Android application ID: com.game.bubblefury.devimpact
+- Website: https://shelternewlife.github.io/bubblefury/
 
-## What this repository provides
+## Verified game scope
 
-- Pre-rendered HTML pages in /en/ and /ar/, readable without JavaScript.
-- About, features, and FAQ pages in both languages.
-- Canonical URLs, hreflang, Open Graph metadata, and Schema.org JSON-LD.
-- Generated sitemap.xml, robots.txt, and llms.txt.
-- Python standard-library build, validation, and automated tests.
-- GitHub Actions build, test, and GitHub Pages deployment.
+The website follows the official Google Play listing. Bubble Fury is an arcade bubble shooter: drag to aim and release to shoot, match at least three bubbles of the same color, build combo chains, use wall rebounds, collect coins, and adapt as the board becomes more crowded and additional bubble types appear. The listing identifies the game as containing ads.
 
-## Verified product scope
+The site does not promise multiplayer, ad-free play, unlimited levels, power-ups, or other features that are not confirmed by the store description.
 
-The public Google Play listing describes job listing search, job alerts, and saving jobs. Content is intentionally limited to those store-described capabilities and general career discovery wording. No previous-app features or unverified Android compatibility claims are carried over.
+## Published markets and languages
 
-## Build and test locally
+The primary markets are the United States and Canada. Europe is the secondary expansion region. The published locale routes are:
+
+- English (United States): `/en-us/`
+- English (Canada): `/en-ca/`
+- French (Canada): `/fr-ca/`
+- Spanish (Spain): `/es-es/`
+- Portuguese (Portugal): `/pt-pt/`
+- French (France): `/fr-fr/`
+- German (Germany): `/de-de/`
+- Italian (Italy): `/it-it/`
+
+Each localized page has its own canonical URL, reciprocal hreflang links, localized metadata, navigation and country-flag selector.
+
+## Site structure and SEO
+
+The generated site includes About, Features, Download and FAQ pages, feature detail pages, plus localized Tips, Blog, User Guide and Gameplay resources. It publishes XML and text sitemaps, robots.txt, llms.txt, Open Graph metadata, SoftwareApplication and FAQPage JSON-LD, and GA4 Google Play click events.
+
+Keyword seeds are based on the store-described bubble shooter gameplay. Search volume and ranking difficulty are not asserted; validate them by market in Google Keyword Planner and Google Search Console.
+
+## Build and test
 
 ```bash
 python -m unittest discover -s tests -v
@@ -27,16 +41,12 @@ python scripts/build.py
 python scripts/validate.py
 ```
 
-The generated site is written to dist/ and is not committed.
-
-## GitHub Pages setup
-
-In repository Settings → Pages → Build and deployment, select **GitHub Actions** as the source. The workflow deploys the generated dist/ artifact on pushes to main and on manual dispatch.
+The generated website is written to `dist/` and is not committed. GitHub Actions runs the tests, builds the site, validates output and deploys GitHub Pages from `main`.
 
 ## Free-tier architecture and limitations
 
-This project uses GitHub Pages, GitHub Actions, static JSON content, and Python's standard library. It has no database, server-side API, user accounts, Firebase, Cloudflare, or paid runtime dependency. GitHub plan limits and product terms may change. Search engines and AI crawlers decide independently whether and when to crawl or index pages; sitemap publication does not guarantee indexing. GitHub Pages does not provide comprehensive crawler logs.
+The project uses GitHub Pages, GitHub Actions, static JSON content and Python's standard library. It has no database, server-side API, user accounts, Firebase, Cloudflare or paid runtime dependency. Search engines decide independently when to crawl and index pages; publishing a sitemap does not guarantee indexing.
 
 ## Content maintenance
 
-Edit content/app.json, content/features.json, and content/faq.json, then commit changes to main. Keep descriptions aligned with the live Google Play listing. Review store links, privacy policy, and support details periodically.
+Edit `content/app.json`, `content/features.json`, `content/faq.json`, `content/locales.json`, `content/resource-locales.json`, `content/screenshots.json`, `content/seo-keywords.json` and `content/market-strategy.json`. Keep every claim aligned with the live Google Play listing.

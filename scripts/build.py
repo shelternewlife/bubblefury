@@ -14,106 +14,52 @@ BASE_URL = APP["website_url"].rstrip("/")
 GA_MEASUREMENT_ID = APP["ga4_measurement_id"]
 
 TEXT = {
-    "en": {
-        "about": "About Job Connect",
-        "skip_to_content": "Skip to main content",
-        "features": "Explore the features",
-        "faq": "Frequently asked questions",
-        "download_nav": "Download",
-        "download_title": "Download Job Connect for Android",
-        "download_intro": "Get the official Job Connect Android app from Google Play and start exploring job opportunities, useful context and personal collections.",
-        "download_steps_title": "Install in three simple steps",
-        "download_step_1": "Open the official Google Play listing.",
-        "download_step_2": "Tap Install on your Android device.",
-        "download_step_3": "Open Job Connect and explore opportunities.",
-        "download_note": "For your security, install the app only through its official Google Play listing.",
-        "download_facts": "App information",
-        "platform": "Platform",
-        "developer": "Developer",
-        "package": "Package ID",
-        "home": "Discover your next opportunity",
-        "cta": "Open on Google Play",
-        "tag": "JOB OPPORTUNITY DISCOVERY",
-        "gallery": "A look inside the app",
-        "gallery_intro": "Real screenshots from the Google Play listing.",
-        "download": "Get started with Job Connect",
-        "privacy": "Privacy policy",
-        "support": "Support",
-        "about_intro": "Learn what Job Connect is designed to help you discover and organize.",
-        "features_intro": "Explore the discovery and organization capabilities described for Job Connect.",
-        "faq_intro": "Answers to common questions about Job Connect.",
-        "language": "Choose your language",
-        "english": "English",
-        "arabic": "العربية",
-        "home_intro": "Explore job opportunities, review useful context and keep track of roles that matter to you.",
-    },
-    "ar": {
-        "about": "عن Job Connect",
-        "skip_to_content": "تجاوز إلى المحتوى الرئيسي",
-        "features": "استكشف المزايا",
-        "faq": "الأسئلة الشائعة",
-        "download_nav": "تنزيل التطبيق",
-        "download_title": "تنزيل Job Connect لنظام Android",
-        "download_intro": "احصل على تطبيق Job Connect الرسمي لنظام Android من Google Play، وابدأ باستكشاف فرص العمل وسياقها المفيد ومجموعاتك الشخصية.",
-        "download_steps_title": "ثبّت التطبيق في ثلاث خطوات بسيطة",
-        "download_step_1": "افتح صفحة التطبيق الرسمية على Google Play.",
-        "download_step_2": "اضغط على تثبيت من جهاز Android.",
-        "download_step_3": "افتح Job Connect وابدأ استكشاف الفرص.",
-        "download_note": "لحمايتك، ثبّت التطبيق من صفحته الرسمية على Google Play فقط.",
-        "download_facts": "معلومات التطبيق",
-        "platform": "النظام",
-        "developer": "المطور",
-        "package": "معرّف الحزمة",
-        "home": "اكتشف فرصتك المهنية القادمة",
-        "cta": "افتح التطبيق على Google Play",
-        "tag": "اكتشاف فرص العمل",
-        "gallery": "نظرة إلى واجهة التطبيق",
-        "gallery_intro": "لقطات شاشة فعلية منشورة في صفحة التطبيق على Google Play.",
-        "download": "ابدأ مع Job Connect",
-        "privacy": "سياسة الخصوصية",
-        "support": "الدعم",
-        "about_intro": "تعرّف على Job Connect وما صُمم لمساعدتك على اكتشافه وتنظيمه.",
-        "features_intro": "استكشف إمكانات الاكتشاف والتنظيم الموضحة لتطبيق Job Connect.",
-        "faq_intro": "إجابات عن الأسئلة الشائعة حول Job Connect.",
-        "language": "اختر لغتك",
-        "english": "English",
-        "arabic": "العربية",
-        "home_intro": "استكشف فرص العمل وراجع سياقها المفيد واحتفظ بالوظائف التي تهمك للمتابعة.",
-    },
+ "en": {
+  "about":"About Bubble Fury","skip_to_content":"Skip to main content","features":"Explore features","faq":"Frequently asked questions",
+  "download_nav":"Download","download_title":"Download Bubble Fury for Android",
+  "download_intro":"Get Bubble Fury, the arcade bubble shooter, from its official Google Play listing. Aim, match colors, build combos and chase a higher score.",
+  "download_steps_title":"Install in three simple steps","download_step_1":"Open the official Google Play listing.","download_step_2":"Tap Install on your Android device.","download_step_3":"Open Bubble Fury and start popping bubbles.",
+  "download_note":"For the official Android version, install Bubble Fury from Google Play.","download_facts":"Game information","platform":"Platform","developer":"Developer","package":"Package ID",
+  "home":"Aim. Shoot. Pop. Repeat.","cta":"Get it on Google Play","tag":"ARCADE BUBBLE SHOOTER","gallery":"See Bubble Fury in action",
+  "gallery_intro":"Screenshots from the official Google Play listing.","download":"Play Bubble Fury","privacy":"Privacy policy","support":"Support",
+  "about_intro":"Bubble Fury is an arcade bubble shooter built around precise aiming, color matches, combo chains and increasingly challenging rounds.",
+  "features_intro":"Explore the aiming, matching, combo and progression features described on Google Play.","faq_intro":"Answers about Bubble Fury gameplay, matching bubbles, combos, coins and installation.",
+  "language":"Choose your language","english":"English","arabic":"العربية",
+  "home_intro":"Drag to aim and release to shoot. Match three or more bubbles of the same color, use wall rebounds, build combos and collect coins as the board becomes more challenging."
+ },
+ "ar": {
+  "about":"عن Bubble Fury","skip_to_content":"تجاوز إلى المحتوى الرئيسي","features":"استكشف المزايا","faq":"الأسئلة الشائعة",
+  "download_nav":"تنزيل اللعبة","download_title":"تنزيل Bubble Fury لنظام Android",
+  "download_intro":"احصل على Bubble Fury، لعبة إطلاق الفقاعات بنمط أركيد، من صفحتها الرسمية على Google Play. صوّب وطابق الألوان واصنع سلاسل كومبو.",
+  "download_steps_title":"ثبّت اللعبة في ثلاث خطوات بسيطة","download_step_1":"افتح صفحة اللعبة الرسمية على Google Play.","download_step_2":"اضغط على تثبيت من جهاز Android.","download_step_3":"افتح Bubble Fury وابدأ بتفجير الفقاعات.",
+  "download_note":"للحصول على نسخة Android الرسمية، ثبّت Bubble Fury من Google Play فقط.","download_facts":"معلومات اللعبة","platform":"النظام","developer":"المطور","package":"معرّف الحزمة",
+  "home":"صوّب. أطلق. فجّر. وكرّر.","cta":"احصل عليها من Google Play","tag":"لعبة إطلاق فقاعات أركيد","gallery":"شاهد Bubble Fury أثناء اللعب",
+  "gallery_intro":"لقطات شاشة من صفحة اللعبة الرسمية على Google Play.","download":"العب Bubble Fury","privacy":"سياسة الخصوصية","support":"الدعم",
+  "about_intro":"Bubble Fury لعبة إطلاق فقاعات بنمط أركيد تعتمد على التصويب الدقيق ومطابقة الألوان وسلاسل الكومبو وجولات تزداد تحدياً.",
+  "features_intro":"استكشف ميزات التصويب والمطابقة والكومبو والتقدم المذكورة في صفحة Google Play.","faq_intro":"إجابات عن طريقة اللعب ومطابقة الفقاعات وسلاسل الكومبو والعملات والتثبيت.",
+  "language":"اختر اللغة","english":"English","arabic":"العربية",
+  "home_intro":"اسحب للتصويب واترك للإطلاق. طابق ثلاث فقاعات أو أكثر من اللون نفسه، واستفد من ارتداد الجدران، واجمع العملات مع ازدياد تحدي اللوحة."
+ }
 }
-
 PAGE_TITLES = {
-    "en": {
-        "home": "Job Search App for Finding Work Opportunities | Job Connect",
-        "about": "Job Connect: About the Job Search and Opportunity Discovery App",
-        "features": "Job Search App Features: Discover, Compare and Organize Jobs | Job Connect",
-        "download": "Download Job Connect: Android Job Search App | Google Play",
-        "faq": "Job Connect FAQ: Job Search, Job Listings and App Features",
-    },
-    "ar": {
-        "home": "البحث عن عمل واكتشاف الوظائف | Job Connect",
-        "about": "Job Connect: تطبيق للبحث عن عمل واكتشاف الوظائف",
-        "features": "مزايا تطبيق Job Connect لاكتشاف فرص العمل وتنظيمها",
-        "download": "تنزيل تطبيق Job Connect للبحث عن عمل | Google Play",
-        "faq": "الأسئلة الشائعة حول Job Connect والبحث عن الوظائف",
-    },
+ "en":{"home":"Bubble Fury: Bubble Shooter Game | Android","about":"About Bubble Fury | Arcade Bubble Shooter","features":"Bubble Fury Features | Bubble Pop & Combos","download":"Download Bubble Fury for Android | Google Play","faq":"Bubble Fury FAQ | Bubble Shooter Game"},
+ "ar":{"home":"Bubble Fury: لعبة إطلاق الفقاعات","about":"عن Bubble Fury | لعبة فقاعات أركيد","features":"مزايا Bubble Fury | الفقاعات والكومبو","download":"تنزيل Bubble Fury لنظام Android | Google Play","faq":"الأسئلة الشائعة حول Bubble Fury"}
 }
-
 PAGE_DESCRIPTIONS = {
-    "en": {
-        "home": "Explore job opportunities, compare role details and organize jobs to follow with Job Connect, an Android job search app.",
-        "about": "Learn how the Job Connect Android app helps you discover job listings, review opportunity details and organize roles to follow.",
-        "features": "Explore job search tools for discovering fresh opportunities, comparing job details, reviewing indicators and organizing job listings.",
-        "download": "Download Job Connect, an Android job search app for discovering and organizing job opportunities. Install it from Google Play.",
-        "faq": "Get answers about job listings, opportunity indicators, personal collections and downloading the Job Connect Android app.",
-    },
-    "ar": {
-        "home": "اكتشف فرص العمل والوظائف الشاغرة، وراجع تفاصيلها ونظّم الفرص التي تريد متابعتها باستخدام تطبيق Job Connect لنظام Android.",
-        "about": "تعرّف على تطبيق Job Connect للبحث عن عمل واكتشاف إعلانات الوظائف ومراجعة تفاصيل الفرص وتنظيمها.",
-        "features": "اكتشف أدوات البحث عن وظائف: متابعة الفرص الحديثة ومقارنة تفاصيل الوظائف ومراجعة المؤشرات وتنظيم إعلانات العمل.",
-        "download": "نزّل تطبيق Job Connect للبحث عن عمل واكتشاف فرص العمل على Android من صفحة Google Play الرسمية.",
-        "faq": "إجابات عن البحث عن وظائف وإعلانات العمل ومؤشرات الفرص والمجموعات وتنزيل تطبيق Job Connect.",
-    },
+ "en":{
+  "home":"Play Bubble Fury, an arcade bubble shooter. Aim, match colors, build combos and chase high scores on Android.",
+  "about":"Learn about Bubble Fury, a fast arcade bubble shooter with color matches, combo chains, wall rebounds and coin rewards.",
+  "features":"Explore Bubble Fury gameplay: precise aiming, match-three bubbles, combo scoring, wall rebounds and rising challenge.",
+  "download":"Download Bubble Fury for Android from Google Play. Start aiming, popping matching bubbles and building combo scores.",
+  "faq":"Find answers about Bubble Fury, how to aim and match bubbles, combos, wall rebounds, coins, ads and Android installation."
+ },
+ "ar":{
+  "home":"العب Bubble Fury، لعبة إطلاق فقاعات أركيد. صوّب وطابق الألوان واصنع سلاسل كومبو واطارد النتائج العالية على Android.",
+  "about":"تعرّف على Bubble Fury، لعبة فقاعات سريعة تعتمد على مطابقة الألوان والكومبو وارتداد الجدران ومكافآت العملات.",
+  "features":"استكشف أسلوب لعب Bubble Fury: التصويب الدقيق ومطابقة ثلاث فقاعات والكومبو وارتداد الجدران والتحدي المتزايد.",
+  "download":"نزّل Bubble Fury لنظام Android من Google Play وابدأ بتفجير الفقاعات المتطابقة وبناء نتائج الكومبو.",
+  "faq":"إجابات عن Bubble Fury وطريقة التصويب ومطابقة الفقاعات والكومبو وارتداد الجدران والعملات والإعلانات والتثبيت."
+ }
 }
 
 CSS = """*{box-sizing:border-box}body{margin:0;background:#080b12;color:#f4f7fb;font:16px/1.75 system-ui,sans-serif}a{color:inherit}a:focus-visible{outline:3px solid #00c4df;outline-offset:4px}.btn{min-height:48px;display:inline-flex;align-items:center;justify-content:center}.skip-link{position:absolute;z-index:10;top:8px;left:8px;padding:10px 14px;background:#00c4df;color:#061018;border-radius:8px;font-weight:800;transform:translateY(-160%)}.skip-link:focus{transform:translateY(0)}header,main,footer{width:min(1120px,calc(100% - 36px));margin:auto}header{display:flex;flex-direction:row;justify-content:flex-start;align-items:center;gap:18px;flex-wrap:wrap;padding:22px 0;border-bottom:1px solid #263246}.home-header{flex-direction:column;align-items:flex-start;gap:0}.home-header>.header-main{align-self:stretch;width:100%}.standard-header .locale-switch{margin:0;flex:0 0 auto}.home-header .locale-switch{margin:0 0 12px}.brand{font-weight:900;text-decoration:none;letter-spacing:.08em}.brand b,.tag{color:#00c4df}nav{display:flex;gap:22px;flex-wrap:wrap}nav a{color:#c4ccda;text-decoration:none;display:inline-flex;align-items:center;min-height:44px;padding:8px 0}.hero{padding:70px 0;display:grid;grid-template-columns:1fr .8fr;gap:44px;align-items:center}.tag{font-size:.8rem;letter-spacing:.16em;font-weight:700}.hero h1{font-size:clamp(2.5rem,6vw,4.6rem);line-height:1.12;margin:18px 0}.lead,.muted{color:#aab6c8}.btn{display:inline-block;background:#00c4df;color:#061018;text-decoration:none;padding:13px 20px;border-radius:9px;font-weight:800;margin-top:20px}.preview{padding:16px;background:#121a28;border:1px solid #29364b;border-radius:22px;text-align:center}.preview img{height:480px;max-width:100%;object-fit:contain;border-radius:12px}.section{padding:48px 0;border-top:1px solid #ffffff18}.section h2{font-size:2rem}.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}.item,.faq{background:#111925;border:1px solid #283449;border-radius:14px;padding:22px}.item h3,.faq h3{margin-top:0}.item p,.faq p{color:#aab6c8}.feature-shot{display:block;width:100%;max-height:230px;object-fit:contain;object-position:left center;background:#080b12;border-radius:9px;margin:0 0 16px}.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.step{background:#111925;border:1px solid #283449;border-radius:14px;padding:20px}.step b{display:block;color:#00c4df;font-size:1.3rem}.facts{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.fact{padding:16px;background:#111925;border:1px solid #283449;border-radius:12px;overflow-wrap:anywhere}.fact small{display:block;color:#aab6c8}.download-hero{padding:58px 0;display:grid;grid-template-columns:1fr .65fr;gap:36px;align-items:center}.download-hero h1{font-size:clamp(2.2rem,5vw,3.8rem);line-height:1.15}.num{color:#00c4df;font:700 .8rem monospace}.faqgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}.gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:16px}.shot{margin:0;padding:12px;background:#111925;border:1px solid #283449;border-radius:14px}.shot img{display:block;width:100%;height:auto;aspect-ratio:auto;object-fit:contain;background:#080b12;border-radius:9px}.shot figcaption{padding:10px 2px 2px;color:#d6deeb;font-size:.92rem;line-height:1.5}.end{text-align:center;background:#11242d;border:1px solid #236071;border-radius:18px;padding:34px}.language{min-height:70vh;display:grid;place-items:center;text-align:center}.language a{display:inline-block;margin:8px;padding:14px 22px;border:1px solid #236071;border-radius:10px;text-decoration:none}footer{padding:30px 0;color:#aab6c8;border-top:1px solid #ffffff18;display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}.locale-switch{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:9px;width:100%;margin:0 0 12px}.header-main>.locale-switch{flex:0 0 100%;margin:0 0 10px}.social-links{display:flex;align-items:center;justify-content:flex-end;gap:10px;margin-inline-start:auto}.social-link{width:36px;height:36px;display:inline-flex;align-items:center;justify-content:center;border:1px solid #34445c;border-radius:9px;background:#111925;color:#dce6f4;text-decoration:none;transition:border-color .15s,transform .15s}.social-link:hover,.social-link:focus-visible{border-color:#00c4df;color:#00c4df;transform:translateY(-1px)}.social-link svg{width:19px;height:19px;fill:currentColor}.social-link:focus-visible{outline:3px solid #00c4df;outline-offset:3px}.locale-flag{width:42px;height:34px;display:inline-flex;align-items:center;justify-content:center;border:1px solid #34445c;border-radius:9px;background:#111925;text-decoration:none;line-height:1;transition:border-color .15s,transform .15s}.locale-flag img{display:block;width:28px;height:21px;object-fit:cover;border-radius:2px}.locale-flag:hover,.locale-flag:focus-visible{border-color:#00c4df;transform:translateY(-1px)}.locale-flag[aria-current="page"]{border-color:#00c4df;box-shadow:0 0 0 1px #00c4df55}.header-main{display:flex;justify-content:space-between;align-items:center;gap:18px;flex:1;min-width:0;flex-wrap:wrap}.header-main>nav{margin-inline-start:auto;justify-content:flex-end}.language-header{justify-content:flex-start;align-items:flex-start}.language-header .locale-switch{margin:0}html[dir=rtl] body{text-align:right}html[dir=rtl] header{direction:rtl}html[dir=rtl] .locale-switch{justify-content:flex-start}@media(max-width:760px){.hero,.download-hero{grid-template-columns:1fr;padding:42px 0}.preview img{height:360px}.grid,.faqgrid,.steps,.facts{grid-template-columns:1fr}header.standard-header{flex-direction:row;align-items:center;gap:10px}.standard-header .header-main{flex:1 1 260px;align-items:center;flex-direction:row;flex-wrap:wrap}.home-header{align-items:flex-start;flex-direction:column}.home-header .header-main{align-items:flex-start;flex-direction:column}nav{gap:14px}}"""
@@ -178,14 +124,24 @@ def render_header(lang, section):
         f'<a data-nav-item="{key}" href="{page_url(lang, key)}">{esc(label)}</a>'
         for key, label in nav_items
     )
+    resource_items = (
+        (("tips", "Tips"), ("blog", "Blog"), ("guide", "User guide"), ("comparison", "Gameplay"))
+        if lang == "en" else
+        (("tips", "نصائح"), ("blog", "المدونة"), ("guide", "دليل اللعب"), ("comparison", "أسلوب اللعب"))
+    )
+    resource_links = "".join(
+        f'<a data-nav-item="{key}" href="{page_url(lang, key)}">{esc(label)}</a>'
+        for key, label in resource_items
+    )
     tail = "" if section == "home" else f"{section}/"
     switch = render_market_flags(tail)
+    primary_group, resource_group = ("Explore", "Resources") if lang == "en" else ("استكشف", "الموارد")
     return (
         f'<header class="{"home-header" if section == "home" else "standard-header"}"><div class="locale-switch" aria-label="Country and region">{switch}{render_social_links()}</div>'
-        f'<div class="header-main"><a class="brand" href="{BASE_URL}/">JOB <b>CONNECT</b></a>'
+        f'<div class="header-main"><a class="brand" href="{BASE_URL}/">BUBBLE <b>FURY</b></a>'
         f'<nav aria-label="Primary navigation">'
-        f'<details class="nav-menu" data-nav-group="primary"><summary>{"Explore" if lang == "en" else "استكشف"}</summary>'
-        f'<div class="nav-dropdown">{nav}</div></details>'
+        f'<details class="nav-menu" data-nav-group="primary"><summary>{primary_group}</summary><div class="nav-dropdown">{nav}</div></details>'
+        f'<details class="nav-menu" data-nav-group="resources"><summary>{resource_group}</summary><div class="nav-dropdown">{resource_links}</div></details>'
         f'</nav></div></header>'
     )
 
@@ -231,7 +187,7 @@ def render_gallery(lang):
 def render_download(lang):
     t = TEXT[lang]
     return (
-        f'<section class="download-hero"><div><div class="tag">JOB CONNECT · ANDROID</div>'
+        f'<section class="download-hero"><div><div class="tag">BUBBLE FURY · ANDROID</div>'
         f'<h1>{t["download_title"]}</h1><p class="lead">{esc(t["download_intro"])}</p>'
         f'<a class="btn" href="{esc(APP["google_play_url"])}" '
         f'target="_blank" rel="noopener noreferrer" aria-label="{esc(t["cta"])}" '
@@ -272,7 +228,7 @@ def render_content(lang, section):
         )
     if section == "about":
         return (
-            f'<section class="section"><div class="tag">JOB CONNECT</div>'
+            f'<section class="section"><div class="tag">BUBBLE FURY</div>'
             f'<h1>{t["about"]}</h1><p class="lead">{esc(APP["description"][lang])}</p>'
             f'<p>{esc(t["about_intro"])}</p>'
             f'<p><strong>{esc(APP["developer"])}</strong></p>'
@@ -281,7 +237,7 @@ def render_content(lang, section):
         )
     if section == "features":
         return (
-            f'<section class="section"><div class="tag">JOB CONNECT · ANDROID</div>'
+            f'<section class="section"><div class="tag">BUBBLE FURY · ANDROID</div>'
             f'<h1>{t["features"]}</h1><p class="lead">{t["features_intro"]}</p>'
             f'{render_features(lang)}'
             f'<section class="section end"><h2>{t["download"]}</h2>'
@@ -293,7 +249,7 @@ def render_content(lang, section):
         return render_download(lang)
     if section == "faq":
         return (
-            f'<section class="section"><div class="tag">JOB CONNECT</div>'
+            f'<section class="section"><div class="tag">BUBBLE FURY</div>'
             f'<h1>{t["faq"]}</h1><p class="lead">{t["faq_intro"]}</p>'
             f'{render_faq(lang)}</section>'
             f'<section class="section end"><h2>{t["download"]}</h2>'
@@ -316,7 +272,7 @@ def render_page(lang, section):
     software = {
         "@type": "SoftwareApplication", "@id": f"{BASE_URL}/#softwareapplication",
         "name": APP["name"], "operatingSystem": "Android",
-        "applicationCategory": "BusinessApplication",
+        "applicationCategory": "GameApplication",
         "description": APP["description"][lang],
         "downloadUrl": APP["google_play_url"], "installUrl": APP["google_play_url"],
         "url": canonical, "image": SCREENSHOTS[0]["src"],
@@ -368,7 +324,7 @@ def render_page(lang, section):
 <a class="skip-link" href="#main-content">{t["skip_to_content"]}</a>
 {render_header(lang, section)}
 <main id="main-content">{content}</main>
-<footer><span>© DevImpact · JOB CONNECT</span>
+<footer><span>© DevImpact · BUBBLE FURY</span>
 <span><a href="{esc(APP["privacy_policy_url"])}">{t["privacy"]}</a> ·
 <a href="mailto:{esc(APP["support_email"])}">{t["support"]}</a></span></footer>
 </body>
@@ -383,12 +339,12 @@ def render_language_root():
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="google-site-verification" content="8mOiNMu4Tn477yFaR-IWrNQGhdqH1TpF6NKKoN94Oms">
 <meta name="robots" content="noindex,follow">
-<title>Job Connect</title>
+<title>Bubble Fury</title>
 <link rel="canonical" href="{target}">
 <meta http-equiv="refresh" content="0; url={target}">
 <script>window.location.replace("{target}");</script>
 </head>
-<body><p><a href="{target}">Continue to Job Connect</a></p></body>
+<body><p><a href="{target}">Continue to Bubble Fury</a></p></body>
 </html>'''
 
 def write(relative_path, content):
@@ -400,7 +356,7 @@ def main():
     if DIST.exists():
         shutil.rmtree(DIST)
     write(pathlib.Path("assets/style.css"), CSS)
-    shutil.copytree(ROOT / "assets/screens", DIST / "assets/screens")
+    (DIST / "assets/screens").mkdir(parents=True, exist_ok=True)
     write(pathlib.Path("index.html"), render_language_root())
     for lang in ("en", "ar"):
         for section in ("home", "about", "features", "download", "faq"):
@@ -432,7 +388,7 @@ def main():
     sitemap_txt = "\n".join(url for url, _, _ in sitemap_entries) + "\n"
     write(pathlib.Path("sitemap.txt"), sitemap_txt)
     write(pathlib.Path("llms.txt"), (
-        f"# Job Connect\n\n{APP['description']['en']}\n\n"
+        f"# Bubble Fury\n\n{APP['description']['en']}\n\n"
         f"- Google Play: {APP['google_play_url']}\n"
         f"- English: {page_url('en')}\n- Arabic: {page_url('ar')}\n"
     ))
@@ -444,6 +400,8 @@ def main():
     build_localized_pages()
     from build_locale_resources import build_localized_resource_pages
     build_localized_resource_pages()
+    from build_bubble_pages import build_bubble_pages
+    build_bubble_pages()
 
 if __name__ == "__main__":
     main()

@@ -1,908 +1,1041 @@
 {
-  "fr-CA": {
+  "en-US": {
+    "language_name": "English (United States)",
     "text": {
-      "about": "À propos de Job Connect",
-      "skip_to_content": "Passer au contenu principal",
-      "features": "Explorer les fonctionnalités",
-      "faq": "Foire aux questions",
-      "download_nav": "Télécharger",
-      "download_title": "Télécharger Job Connect pour Android",
-      "download_intro": "Obtenez l’application Android officielle Job Connect sur Google Play pour découvrir des possibilités d’emploi, consulter leur contexte et organiser vos favoris.",
-      "download_steps_title": "Installer en trois étapes simples",
-      "download_step_1": "Ouvrez la fiche officielle sur Google Play.",
-      "download_step_2": "Touchez Installer sur votre appareil Android.",
-      "download_step_3": "Ouvrez Job Connect et explorez les possibilités.",
-      "download_note": "Pour votre sécurité, installez l’application uniquement à partir de sa fiche officielle sur Google Play.",
-      "download_facts": "Renseignements sur l’application",
-      "platform": "Plateforme",
-      "developer": "Développeur",
-      "package": "Identifiant du package",
-      "home": "Découvrez votre prochaine possibilité",
-      "cta": "Voir sur Google Play",
-      "tag": "DÉCOUVERTE DE POSSIBILITÉS D’EMPLOI",
-      "gallery": "Un aperçu de l’application",
-      "gallery_intro": "Captures d’écran réelles de la fiche Google Play.",
-      "download": "Commencez avec Job Connect",
-      "privacy": "Politique de confidentialité",
-      "support": "Soutien",
-      "about_intro": "Découvrez comment Job Connect vous aide à repérer et à organiser des possibilités d’emploi.",
-      "features_intro": "Explorez les outils de découverte et d’organisation proposés par Job Connect.",
-      "faq_intro": "Réponses aux questions courantes sur Job Connect.",
-      "language": "Choisir la langue",
+      "about": "About Bubble Fury",
+      "skip_to_content": "Skip to main content",
+      "features": "Explore features",
+      "faq": "Frequently asked questions",
+      "download_nav": "Download",
+      "download_title": "Download Bubble Fury for Android",
+      "download_intro": "Get Bubble Fury, the arcade bubble shooter from its official Google Play listing. Aim, match colors, build combos and chase a higher score.",
+      "download_steps_title": "Install in three simple steps",
+      "download_step_1": "Open the official Google Play listing.",
+      "download_step_2": "Tap Install on your Android device.",
+      "download_step_3": "Open Bubble Fury and start popping bubbles.",
+      "download_note": "For the official Android version, install Bubble Fury from Google Play.",
+      "download_facts": "Game information",
+      "platform": "Platform",
+      "developer": "Developer",
+      "package": "Package ID",
+      "home": "Aim. Shoot. Pop. Repeat.",
+      "cta": "Get it on Google Play",
+      "tag": "ARCADE BUBBLE SHOOTER",
+      "gallery": "See Bubble Fury in action",
+      "gallery_intro": "Screenshots from the official Google Play listing.",
+      "download": "Play Bubble Fury",
+      "privacy": "Privacy policy",
+      "support": "Support",
+      "about_intro": "Bubble Fury is an arcade bubble shooter built around precise aiming, color matches, combo chains and increasingly challenging rounds.",
+      "features_intro": "Explore the aiming, matching, combo and progression features described on Google Play.",
+      "faq_intro": "Answers about Bubble Fury gameplay, matching bubbles, combos, coins and installation.",
+      "language": "Choose your language",
       "english": "English",
       "arabic": "العربية",
-      "home_intro": "Explorez les possibilités d’emploi, consultez les renseignements utiles et gardez à portée de main les postes qui vous intéressent."
+      "home_intro": "Drag to aim and release to shoot. Match three or more bubbles of the same color, use wall rebounds, build combos and collect coins as the board becomes more challenging."
     },
     "titles": {
-      "home": "Application de recherche d’emploi | Job Connect",
-      "about": "À propos de Job Connect | Offres d’emploi",
-      "features": "Fonctionnalités Job Connect | Recherche d’emploi",
-      "download": "Télécharger Job Connect pour Android | Google Play",
-      "faq": "FAQ Job Connect | Offres et recherche d’emploi"
+      "home": "Bubble Fury: Bubble Shooter Game | Android",
+      "about": "About Bubble Fury | Arcade Bubble Shooter",
+      "features": "Bubble Fury Features | Bubble Pop & Combos",
+      "download": "Download Bubble Fury for Android | Google Play",
+      "faq": "Bubble Fury FAQ | Bubble Shooter Game"
     },
     "descriptions": {
-      "home": "Découvrez des possibilités d’emploi avec Job Connect, une application Android pour examiner les détails des postes et organiser les offres à suivre.",
-      "about": "Découvrez comment Job Connect aide à repérer des possibilités d’emploi, à examiner les renseignements sur les postes et à organiser les offres à suivre.",
-      "features": "Explorez les fonctions de découverte, les fiches de postes, les indicateurs de rémunération et de lieu, ainsi que les collections personnelles.",
-      "download": "Téléchargez Job Connect pour Android sur Google Play. Découvrez des possibilités d’emploi, examinez les détails des postes et organisez vos favoris.",
-      "faq": "Consultez les réponses sur la recherche d’emploi, les offres, les indicateurs, les collections personnelles et l’installation de Job Connect."
+      "home": "Play Bubble Fury, an arcade bubble shooter. Aim, match colors, build combos and chase high scores on Android.",
+      "about": "Learn about Bubble Fury, a fast arcade bubble shooter with color matches, combo chains, wall rebounds and coin rewards.",
+      "features": "Explore Bubble Fury gameplay: precise aiming, match-three bubbles, combo scoring, wall rebounds and rising challenge.",
+      "download": "Download Bubble Fury for Android from Google Play. Start aiming, popping matching bubbles and building combo scores.",
+      "faq": "Find answers about Bubble Fury, how to aim and match bubbles, combos, wall rebounds, coins, ads and Android installation."
     },
-    "app_description": "Une expérience de découverte de possibilités d’emploi axée sur les nouveaux signaux, l’analyse des occasions et les collections personnelles. Explorez les postes, consultez les indications de rémunération et de lieu, comprenez pourquoi une possibilité est présentée et organisez celles à suivre.",
-    "tagline": "Découvrez les possibilités avant que la concurrence ne s’intensifie.",
+    "app_description": "Bubble Fury is a fast arcade bubble shooter. Drag to aim and release to shoot, match three or more bubbles of the same color, build combo chains, use wall rebounds, collect coins, and keep playing as the board grows more challenging.",
+    "tagline": "Quick runs. Precise shots. Bigger scores.",
     "features": [
       [
-        "Repérez les nouveaux signaux d’emploi",
-        "Consultez un fil de découverte présentant les possibilités récemment repérées, leur fraîcheur et des indicateurs de correspondance."
+        "Fast arcade bubble shooter action",
+        "Drag to aim, release to shoot, and keep each run moving with quick, skill-focused bubble shooter gameplay."
       ],
       [
-        "Évaluez les possibilités en un coup d’œil",
-        "Comparez les postes, les organisations, les lieux et les indications de rémunération dans des fiches faciles à parcourir."
+        "Match three or more bubbles",
+        "Match groups of at least three bubbles in the same color to pop them and clear space on the board."
       ],
       [
-        "Comprenez pourquoi une possibilité ressort",
-        "Examinez les indications de rémunération, de lieu, de flexibilité à distance, de fraîcheur et les raisons mises de l’avant par l’application. Ces valeurs ne sont pas des garanties."
+        "Build combos and chase high scores",
+        "Keep successful matches flowing to build combo chains, earn larger score rewards, and aim for a new personal best."
       ],
       [
-        "Explorez les indicateurs d’analyse",
-        "Consultez les indicateurs de complétude des données, de fraîcheur, d’unicité et de concurrence, ainsi que les compétences et exigences détectées. Il s’agit d’estimations."
+        "Use wall rebounds for tricky angles",
+        "Use precise aiming and wall rebounds to reach difficult angles and create more opportunities to clear matching bubbles."
       ],
       [
-        "Organisez les possibilités en collections",
-        "Créez des collections personnelles comme Remote Hub, Elite Leap et Ma liste de suivi pour classer les possibilités et les retrouver."
+        "Collect coins as the challenge grows",
+        "Earn coins through gameplay and adapt as additional bubble types appear and the board becomes more crowded."
       ]
     ],
     "faq": [
       [
-        "Qu’est-ce que Job Connect?",
-        "Une application de découverte de possibilités d’emploi axée sur les nouveaux signaux, le contexte des postes et les collections personnelles."
+        "What is Bubble Fury?",
+        "Bubble Fury is a fast arcade bubble shooter where you aim, shoot, match colors, build combos, and chase high scores."
       ],
       [
-        "Que signifie un indicateur de correspondance?",
-        "Il s’agit d’un indicateur affiché dans l’application, et non d’une promesse qu’un poste vous convient parfaitement ou que votre candidature sera retenue."
+        "How do I play Bubble Fury?",
+        "Drag to aim and release to shoot. Match three or more bubbles of the same color to pop them and clear space."
       ],
       [
-        "Que sont les indicateurs d’analyse?",
-        "L’application présente des indicateurs calculés, comme la complétude des données, la fraîcheur de l’annonce, l’unicité et la concurrence, ainsi que des compétences et exigences détectées. Ce sont des estimations."
+        "Can I use the walls to reach bubbles?",
+        "Yes. The game description highlights wall rebounds as a way to reach difficult angles with precise shots."
       ],
       [
-        "Puis-je organiser les possibilités d’emploi?",
-        "Oui. Les collections comprennent des exemples comme Remote Hub, Elite Leap et Ma liste de suivi."
+        "How do combos and scoring work?",
+        "Successful matches can build combo chains. Keeping the chain going can increase score rewards as you clear bubbles."
       ],
       [
-        "Où puis-je installer Job Connect?",
-        "Installez l’application Android à partir de sa fiche officielle sur Google Play."
+        "Does Bubble Fury get harder as I play?",
+        "Yes. The board becomes more crowded and additional bubble types appear as you survive longer, making each shot more important."
       ],
       [
-        "Job Connect contient-elle des publicités?",
-        "La fiche Google Play indique que l’application contient des publicités."
+        "Can I earn coins while playing?",
+        "Yes. The Google Play description says you collect coins while popping bubbles and scoring points."
       ],
       [
-        "Job Connect postule-t-elle à ma place?",
-        "Non. Job Connect vous aide à découvrir et à examiner des possibilités. Suivez les instructions officielles de l’employeur pour présenter votre candidature."
+        "Does Bubble Fury contain ads?",
+        "Yes. Google Play identifies Bubble Fury as an app that contains ads."
       ],
       [
-        "Un indicateur garantit-il que ma candidature sera retenue?",
-        "Non. Les indicateurs de correspondance, de fraîcheur et d’analyse sont des estimations qui facilitent votre examen. Ils ne prédisent pas les décisions d’embauche et ne garantissent pas une entrevue."
-      ],
-      [
-        "Comment vérifier qu’une offre d’emploi est authentique?",
-        "Trouvez le site officiel de l’employeur de façon indépendante, comparez les détails du poste et le domaine utilisé pour postuler, et méfiez-vous des demandes d’argent, de mots de passe ou de codes de vérification."
-      ],
-      [
-        "Tous les emplois sont-ils à distance ou accessibles dans chaque pays?",
-        "Non. Le lieu de travail et l’admissibilité géographique dépendent de chaque employeur et de chaque offre. Consultez l’annonce originale pour connaître les restrictions et les modalités de télétravail."
-      ],
-      [
-        "Pourquoi une offre peut-elle ne pas indiquer le salaire?",
-        "Certains employeurs ne publient pas les détails de rémunération. Demandez des précisions à l’employeur avant de poursuivre."
-      ],
-      [
-        "Puis-je installer Job Connect ailleurs que sur Google Play?",
-        "Pour obtenir l’application officielle en toute sécurité, utilisez la fiche Job Connect sur Google Play accessible à partir de ce site."
+        "Where can I install Bubble Fury?",
+        "Install Bubble Fury for Android from its official Google Play listing linked on this website."
       ]
     ],
     "screenshots": [
       [
-        "Écran Découvrir de Job Connect présentant de nouveaux signaux de possibilités d’emploi",
-        "Découvrez les nouveaux signaux d’emploi"
+        "Bubble Fury game home screen with Play, Store and Settings options",
+        "Bubble Fury start screen"
       ],
       [
-        "Liste de possibilités Job Connect avec le poste, le salaire et le lieu",
-        "Comparez les postes et les renseignements clés"
+        "Bubble Fury arcade gameplay with rows of colorful bubbles and a shooter",
+        "Aim and pop matching bubbles"
       ],
       [
-        "Détails d’une possibilité et raisons de sa mise en évidence dans Job Connect",
-        "Comprenez pourquoi une possibilité est présentée"
+        "Bubble Fury gameplay showing a crowded board and combo score",
+        "Keep combos going"
       ],
       [
-        "Indicateurs d’analyse des possibilités et de concurrence dans Job Connect",
-        "Examinez les indicateurs d’analyse"
+        "Bubble Fury treasure store screen displaying coin packs",
+        "Explore the coin store"
       ],
       [
-        "Collections personnelles de possibilités d’emploi dans Job Connect",
-        "Organisez vos possibilités"
+        "Bubble Fury bubble shooter gameplay with colorful matching bubbles",
+        "Clear the board with precise shots"
       ]
     ]
   },
-  "en-US": {
-    "titles": {
-      "home": "Job Search App to Discover Opportunities | Job Connect",
-      "about": "About Job Connect | Job Opportunity Discovery App",
-      "features": "Job Search App Features & Opportunity Insights | Job Connect",
-      "download": "Download Job Connect for Android | Google Play",
-      "faq": "Job Connect FAQ | Job Search App & Features"
-    },
-    "descriptions": {
-      "home": "Discover job opportunities with Job Connect, an Android app for reviewing role, pay and location signals and organizing opportunities to follow.",
-      "about": "Learn how Job Connect helps you discover job opportunities, review role details and organize opportunities to revisit. Available for Android.",
-      "features": "Explore Job Connect features for discovering opportunities, reviewing role details and indicators, and organizing opportunities in personal collections.",
-      "download": "Get Job Connect for Android on Google Play. Discover job opportunities, review role details and organize the opportunities you want to follow.",
-      "faq": "Answers about Job Connect, job opportunity discovery, role indicators, personal collections and installing the Android app."
-    }
-  },
   "en-CA": {
+    "language_name": "English (Canada)",
+    "text": {
+      "about": "About Bubble Fury",
+      "skip_to_content": "Skip to main content",
+      "features": "Explore features",
+      "faq": "Frequently asked questions",
+      "download_nav": "Download",
+      "download_title": "Download Bubble Fury for Android",
+      "download_intro": "Get Bubble Fury, the arcade bubble shooter from its official Google Play listing. Aim, match colors, build combos and chase a higher score.",
+      "download_steps_title": "Install in three simple steps",
+      "download_step_1": "Open the official Google Play listing.",
+      "download_step_2": "Tap Install on your Android device.",
+      "download_step_3": "Open Bubble Fury and start popping bubbles.",
+      "download_note": "For the official Android version, install Bubble Fury from Google Play.",
+      "download_facts": "Game information",
+      "platform": "Platform",
+      "developer": "Developer",
+      "package": "Package ID",
+      "home": "Aim. Shoot. Pop. Repeat.",
+      "cta": "Get it on Google Play",
+      "tag": "ARCADE BUBBLE SHOOTER",
+      "gallery": "See Bubble Fury in action",
+      "gallery_intro": "Screenshots from the official Google Play listing.",
+      "download": "Play Bubble Fury",
+      "privacy": "Privacy policy",
+      "support": "Support",
+      "about_intro": "Bubble Fury is an arcade bubble shooter built around precise aiming, color matches, combo chains and increasingly challenging rounds.",
+      "features_intro": "Explore the aiming, matching, combo and progression features described on Google Play.",
+      "faq_intro": "Answers about Bubble Fury gameplay, matching bubbles, combos, coins and installation.",
+      "language": "Choose your language",
+      "english": "English",
+      "arabic": "العربية",
+      "home_intro": "Drag to aim and release to shoot. Match three or more bubbles of the same color, use wall rebounds, build combos and collect coins as the board becomes more challenging."
+    },
     "titles": {
-      "home": "Job Search App Canada | Job Connect",
-      "about": "About Job Connect | Canada Job Search App",
-      "features": "Job Search App Features | Job Connect Canada",
-      "download": "Download Job Connect for Android in Canada",
-      "faq": "Job Connect FAQ | Job Postings & Opportunities"
+      "home": "Bubble Fury: Bubble Shooter Game",
+      "about": "About Bubble Fury | Bubble Shooter",
+      "features": "Bubble Fury Features | Combos & Pops",
+      "download": "Download Bubble Fury for Android",
+      "faq": "Bubble Fury FAQ | Bubble Shooter"
     },
     "descriptions": {
-      "home": "Explore job opportunities with Job Connect, an Android job search app. Review role, pay and location signals, then organize roles to follow.",
-      "about": "Learn how Job Connect helps you discover job opportunities, review role details and organize job postings to revisit. Available for Android.",
-      "features": "Explore discovery tools, job details, compensation and location indicators, and personal collections in Job Connect for Android.",
-      "download": "Download Job Connect for Android on Google Play. Discover opportunities, review role details and organize the job postings you want to follow.",
-      "faq": "Answers about Job Connect, job postings, opportunity indicators, personal collections and installing the Android app."
-    }
+      "home": "Play Bubble Fury, an arcade bubble shooter. Aim, match colours, build combos and chase high scores on Android.",
+      "about": "Learn about Bubble Fury, an arcade bubble shooter with precise aiming, colour matches, wall rebounds and coin rewards.",
+      "features": "Explore Bubble Fury gameplay: precise aiming, match-three bubbles, combo scoring, wall rebounds and rising challenge.",
+      "download": "Download Bubble Fury for Android from Google Play. Start popping matching bubbles and building combo scores.",
+      "faq": "Find answers about Bubble Fury gameplay, matching bubbles, combos, wall rebounds, coins, ads and installation."
+    },
+    "app_description": "Bubble Fury is a fast arcade bubble shooter. Drag to aim and release to shoot, match three or more bubbles of the same color, build combo chains, use wall rebounds, collect coins, and keep playing as the board grows more challenging.",
+    "tagline": "Quick runs. Precise shots. Bigger scores.",
+    "features": [
+      [
+        "Fast arcade bubble shooter action",
+        "Drag to aim, release to shoot, and keep each run moving with quick, skill-focused bubble shooter gameplay."
+      ],
+      [
+        "Match three or more bubbles",
+        "Match groups of at least three bubbles in the same color to pop them and clear space on the board."
+      ],
+      [
+        "Build combos and chase high scores",
+        "Keep successful matches flowing to build combo chains, earn larger score rewards, and aim for a new personal best."
+      ],
+      [
+        "Use wall rebounds for tricky angles",
+        "Use precise aiming and wall rebounds to reach difficult angles and create more opportunities to clear matching bubbles."
+      ],
+      [
+        "Collect coins as the challenge grows",
+        "Earn coins through gameplay and adapt as additional bubble types appear and the board becomes more crowded."
+      ]
+    ],
+    "faq": [
+      [
+        "What is Bubble Fury?",
+        "Bubble Fury is a fast arcade bubble shooter where you aim, shoot, match colors, build combos, and chase high scores."
+      ],
+      [
+        "How do I play Bubble Fury?",
+        "Drag to aim and release to shoot. Match three or more bubbles of the same color to pop them and clear space."
+      ],
+      [
+        "Can I use the walls to reach bubbles?",
+        "Yes. The game description highlights wall rebounds as a way to reach difficult angles with precise shots."
+      ],
+      [
+        "How do combos and scoring work?",
+        "Successful matches can build combo chains. Keeping the chain going can increase score rewards as you clear bubbles."
+      ],
+      [
+        "Does Bubble Fury get harder as I play?",
+        "Yes. The board becomes more crowded and additional bubble types appear as you survive longer, making each shot more important."
+      ],
+      [
+        "Can I earn coins while playing?",
+        "Yes. The Google Play description says you collect coins while popping bubbles and scoring points."
+      ],
+      [
+        "Does Bubble Fury contain ads?",
+        "Yes. Google Play identifies Bubble Fury as an app that contains ads."
+      ],
+      [
+        "Where can I install Bubble Fury?",
+        "Install Bubble Fury for Android from its official Google Play listing linked on this website."
+      ]
+    ],
+    "screenshots": [
+      [
+        "Bubble Fury game home screen with Play, Store and Settings options",
+        "Bubble Fury start screen"
+      ],
+      [
+        "Bubble Fury arcade gameplay with rows of colorful bubbles and a shooter",
+        "Aim and pop matching bubbles"
+      ],
+      [
+        "Bubble Fury gameplay showing a crowded board and combo score",
+        "Keep combos going"
+      ],
+      [
+        "Bubble Fury treasure store screen displaying coin packs",
+        "Explore the coin store"
+      ],
+      [
+        "Bubble Fury bubble shooter gameplay with colorful matching bubbles",
+        "Clear the board with precise shots"
+      ]
+    ]
+  },
+  "fr-CA": {
+    "language_name": "Français (Canada)",
+    "text": {
+      "about": "À propos de Bubble Fury",
+      "skip_to_content": "Passer au contenu principal",
+      "features": "Découvrir les fonctionnalités",
+      "faq": "Foire aux questions",
+      "download_nav": "Télécharger",
+      "download_title": "Télécharger Bubble Fury pour Android",
+      "download_intro": "Obtenez Bubble Fury, le jeu d’arcade de tir de bulles, depuis sa fiche officielle sur Google Play. Visez, associez les couleurs et enchaînez les combos.",
+      "download_steps_title": "Installer en trois étapes simples",
+      "download_step_1": "Ouvrez la fiche officielle sur Google Play.",
+      "download_step_2": "Touchez Installer sur votre appareil Android.",
+      "download_step_3": "Ouvrez Bubble Fury et commencez à éclater des bulles.",
+      "download_note": "Pour obtenir la version Android officielle, installez Bubble Fury depuis Google Play.",
+      "download_facts": "Renseignements sur le jeu",
+      "platform": "Plateforme",
+      "developer": "Développeur",
+      "package": "Identifiant du package",
+      "home": "Visez. Tirez. Éclatez. Recommencez.",
+      "cta": "Obtenir sur Google Play",
+      "tag": "JEU D’ARCADE DE TIR DE BULLES",
+      "gallery": "Découvrez Bubble Fury en images",
+      "gallery_intro": "Captures d’écran de la fiche officielle Google Play.",
+      "download": "Jouer à Bubble Fury",
+      "privacy": "Politique de confidentialité",
+      "support": "Soutien",
+      "about_intro": "Bubble Fury est un jeu d’arcade de tir de bulles axé sur la précision, les associations de couleurs, les combos et des manches de plus en plus difficiles.",
+      "features_intro": "Découvrez la visée, les associations, les combos et la progression décrits sur Google Play.",
+      "faq_intro": "Réponses sur Bubble Fury, les associations de bulles, les combos, les pièces et l’installation.",
+      "language": "Choisir la langue",
+      "english": "English",
+      "arabic": "العربية",
+      "home_intro": "Faites glisser pour viser, puis relâchez pour tirer. Associez au moins trois bulles de la même couleur, utilisez les rebonds sur les murs, enchaînez les combos et gagnez des pièces à mesure que le plateau se complique."
+    },
+    "titles": {
+      "home": "Jeu de bulles arcade | Bubble Fury",
+      "about": "À propos de Bubble Fury | Jeu de bulles",
+      "features": "Fonctionnalités Bubble Fury | Combos",
+      "download": "Télécharger Bubble Fury pour Android",
+      "faq": "FAQ Bubble Fury | Jeu de bulles"
+    },
+    "descriptions": {
+      "home": "Jouez à Bubble Fury, un jeu d’arcade de tir de bulles. Visez, associez les couleurs et enchaînez les combos sur Android.",
+      "about": "Découvrez Bubble Fury, un jeu de bulles avec visée précise, associations de couleurs, rebonds et pièces à gagner.",
+      "features": "Explorez Bubble Fury : visée précise, associations de trois bulles, combos, rebonds sur les murs et défi croissant.",
+      "download": "Téléchargez Bubble Fury pour Android sur Google Play et commencez à éclater les bulles et à créer des combos.",
+      "faq": "Réponses sur Bubble Fury : visée, associations de bulles, combos, rebonds, pièces, publicités et installation."
+    },
+    "app_description": "Bubble Fury est un jeu d’arcade de tir de bulles rapide. Faites glisser pour viser et relâchez pour tirer, associez au moins trois bulles de la même couleur, créez des combos, utilisez les rebonds sur les murs et gagnez des pièces à mesure que le plateau se complique.",
+    "tagline": "Des parties rapides. Des tirs précis. Des scores plus élevés.",
+    "features": [
+      [
+        "Un jeu d’arcade de bulles rapide",
+        "Faites glisser pour viser, relâchez pour tirer et profitez de parties rapides qui mettent votre précision à l’épreuve."
+      ],
+      [
+        "Associez au moins trois bulles",
+        "Associez au moins trois bulles de la même couleur pour les éclater et libérer de l’espace sur le plateau."
+      ],
+      [
+        "Enchaînez les combos et visez un record",
+        "Multipliez les associations réussies pour créer des combos, gagner davantage de points et viser votre meilleur score."
+      ],
+      [
+        "Utilisez les rebonds sur les murs",
+        "Visez avec précision et utilisez les rebonds pour atteindre des angles difficiles et éclater les bulles assorties."
+      ],
+      [
+        "Gagnez des pièces dans un défi croissant",
+        "Gagnez des pièces en jouant et adaptez-vous lorsque de nouveaux types de bulles apparaissent et que le plateau se remplit."
+      ]
+    ],
+    "faq": [
+      [
+        "Qu’est-ce que Bubble Fury?",
+        "Bubble Fury est un jeu d’arcade de tir de bulles où vous visez, tirez, associez les couleurs et enchaînez les combos."
+      ],
+      [
+        "Comment jouer à Bubble Fury?",
+        "Faites glisser pour viser, puis relâchez pour tirer. Associez au moins trois bulles de la même couleur pour les éclater."
+      ],
+      [
+        "Puis-je utiliser les murs pour atteindre les bulles?",
+        "Oui. La description du jeu présente les rebonds sur les murs comme un moyen d’atteindre des angles difficiles."
+      ],
+      [
+        "Comment fonctionnent les combos et les scores?",
+        "Les associations réussies peuvent créer des combos. Les maintenir peut augmenter les points gagnés."
+      ],
+      [
+        "Le jeu devient-il plus difficile?",
+        "Oui. Le plateau se remplit et de nouveaux types de bulles apparaissent à mesure que vous survivez plus longtemps."
+      ],
+      [
+        "Puis-je gagner des pièces en jouant?",
+        "Oui. La description Google Play indique que vous gagnez des pièces en éclatant des bulles et en marquant des points."
+      ],
+      [
+        "Bubble Fury contient-il des publicités?",
+        "Oui. Google Play indique que Bubble Fury contient des publicités."
+      ],
+      [
+        "Où installer Bubble Fury?",
+        "Installez Bubble Fury pour Android depuis sa fiche officielle sur Google Play."
+      ]
+    ],
+    "screenshots": [
+      [
+        "Écran d’accueil de Bubble Fury avec les options Jouer, Boutique et Paramètres",
+        "Écran de démarrage Bubble Fury"
+      ],
+      [
+        "Partie Bubble Fury avec des rangées de bulles colorées et un lanceur",
+        "Visez et éclatez les bulles assorties"
+      ],
+      [
+        "Partie Bubble Fury avec un plateau chargé et un score de combo",
+        "Maintenez les combos"
+      ],
+      [
+        "Boutique au trésor de Bubble Fury affichant des lots de pièces",
+        "Découvrez la boutique de pièces"
+      ],
+      [
+        "Jeu de tir de bulles Bubble Fury avec des bulles colorées",
+        "Libérez le plateau avec précision"
+      ]
+    ]
+  },
+  "es-ES": {
+    "language_name": "Español (España)",
+    "text": {
+      "about": "Acerca de Bubble Fury",
+      "skip_to_content": "Saltar al contenido principal",
+      "features": "Explorar funciones",
+      "faq": "Preguntas frecuentes",
+      "download_nav": "Descargar",
+      "download_title": "Descargar Bubble Fury para Android",
+      "download_intro": "Consigue Bubble Fury, el juego arcade de disparar burbujas, desde su ficha oficial de Google Play. Apunta, combina colores y crea combos.",
+      "download_steps_title": "Instala en tres sencillos pasos",
+      "download_step_1": "Abre la ficha oficial en Google Play.",
+      "download_step_2": "Pulsa Instalar en tu dispositivo Android.",
+      "download_step_3": "Abre Bubble Fury y empieza a explotar burbujas.",
+      "download_note": "Para obtener la versión oficial de Android, instala Bubble Fury desde Google Play.",
+      "download_facts": "Información del juego",
+      "platform": "Plataforma",
+      "developer": "Desarrollador",
+      "package": "Identificador del paquete",
+      "home": "Apunta. Dispara. Explota. Repite.",
+      "cta": "Consíguelo en Google Play",
+      "tag": "JUEGO ARCADE DE BURBUJAS",
+      "gallery": "Descubre Bubble Fury en acción",
+      "gallery_intro": "Capturas de pantalla de la ficha oficial de Google Play.",
+      "download": "Juega a Bubble Fury",
+      "privacy": "Política de privacidad",
+      "support": "Ayuda",
+      "about_intro": "Bubble Fury es un juego arcade de disparar burbujas basado en la precisión, la combinación de colores, los combos y rondas cada vez más difíciles.",
+      "features_intro": "Descubre las funciones de apuntado, combinación, combos y progresión descritas en Google Play.",
+      "faq_intro": "Respuestas sobre Bubble Fury, cómo combinar burbujas, combos, monedas e instalación.",
+      "language": "Elige tu idioma",
+      "english": "English",
+      "arabic": "العربية",
+      "home_intro": "Arrastra para apuntar y suelta para disparar. Combina tres o más burbujas del mismo color, aprovecha los rebotes en las paredes, crea combos y consigue monedas mientras el tablero se vuelve más difícil."
+    },
+    "titles": {
+      "home": "Bubble Fury: juego de burbujas arcade",
+      "about": "Acerca de Bubble Fury | Bubble Shooter",
+      "features": "Funciones de Bubble Fury | Combos y burbujas",
+      "download": "Descargar Bubble Fury para Android | Google Play",
+      "faq": "Preguntas frecuentes de Bubble Fury | Burbujas"
+    },
+    "descriptions": {
+      "home": "Juega a Bubble Fury, un juego arcade de disparar burbujas. Apunta, combina colores y crea combos en Android.",
+      "about": "Conoce Bubble Fury, un juego arcade de burbujas con apuntado preciso, combinaciones, rebotes y monedas.",
+      "features": "Explora Bubble Fury: apuntado preciso, combina tres burbujas, combos, rebotes en paredes y dificultad creciente.",
+      "download": "Descarga Bubble Fury para Android desde Google Play. Empieza a explotar burbujas y a conseguir combos.",
+      "faq": "Respuestas sobre Bubble Fury: apuntar, combinar burbujas, combos, rebotes, monedas, anuncios e instalación."
+    },
+    "app_description": "Bubble Fury es un juego arcade rápido de disparar burbujas. Arrastra para apuntar y suelta para disparar, combina tres o más burbujas del mismo color, crea combos, aprovecha los rebotes en las paredes y consigue monedas mientras el tablero se complica.",
+    "tagline": "Partidas rápidas. Tiros precisos. Puntuaciones más altas.",
+    "features": [
+      [
+        "Acción arcade rápida de burbujas",
+        "Arrastra para apuntar, suelta para disparar y disfruta de partidas rápidas que ponen a prueba tu precisión."
+      ],
+      [
+        "Combina tres o más burbujas",
+        "Combina grupos de al menos tres burbujas del mismo color para explotarlas y despejar espacio."
+      ],
+      [
+        "Crea combos y busca récords",
+        "Encadena combinaciones acertadas para crear combos, conseguir más puntos y superar tu mejor marca."
+      ],
+      [
+        "Aprovecha los rebotes en las paredes",
+        "Apunta con precisión y utiliza los rebotes para alcanzar ángulos difíciles y eliminar burbujas iguales."
+      ],
+      [
+        "Consigue monedas mientras aumenta el reto",
+        "Gana monedas jugando y adáptate cuando aparecen más tipos de burbujas y el tablero se llena."
+      ]
+    ],
+    "faq": [
+      [
+        "¿Qué es Bubble Fury?",
+        "Bubble Fury es un juego arcade de disparar burbujas en el que apuntas, disparas, combinas colores y creas combos."
+      ],
+      [
+        "¿Cómo se juega a Bubble Fury?",
+        "Arrastra para apuntar y suelta para disparar. Combina tres o más burbujas del mismo color para explotarlas."
+      ],
+      [
+        "¿Puedo usar las paredes para alcanzar burbujas?",
+        "Sí. La descripción del juego destaca los rebotes en las paredes para alcanzar ángulos difíciles."
+      ],
+      [
+        "¿Cómo funcionan los combos y la puntuación?",
+        "Las combinaciones acertadas pueden crear cadenas de combos. Mantenerlas puede aumentar los puntos obtenidos."
+      ],
+      [
+        "¿Aumenta la dificultad mientras juego?",
+        "Sí. El tablero se llena más y aparecen tipos adicionales de burbujas cuanto más tiempo sobrevives."
+      ],
+      [
+        "¿Puedo conseguir monedas jugando?",
+        "Sí. La descripción de Google Play indica que consigues monedas al explotar burbujas y sumar puntos."
+      ],
+      [
+        "¿Bubble Fury contiene anuncios?",
+        "Sí. Google Play indica que Bubble Fury contiene anuncios."
+      ],
+      [
+        "¿Dónde puedo instalar Bubble Fury?",
+        "Instala Bubble Fury para Android desde su ficha oficial de Google Play."
+      ]
+    ],
+    "screenshots": [
+      [
+        "Pantalla de inicio de Bubble Fury con opciones Jugar, Tienda y Ajustes",
+        "Pantalla inicial de Bubble Fury"
+      ],
+      [
+        "Partida de Bubble Fury con filas de burbujas de colores y lanzador",
+        "Apunta y explota burbujas iguales"
+      ],
+      [
+        "Partida de Bubble Fury con tablero lleno y puntuación de combo",
+        "Mantén los combos"
+      ],
+      [
+        "Tienda del tesoro de Bubble Fury con paquetes de monedas",
+        "Explora la tienda de monedas"
+      ],
+      [
+        "Juego Bubble Fury con burbujas de colores para combinar",
+        "Despeja el tablero con precisión"
+      ]
+    ]
   },
   "pt-PT": {
     "language_name": "Português (Portugal)",
     "text": {
-      "about": "Sobre o Job Connect",
+      "about": "Sobre o Bubble Fury",
       "skip_to_content": "Saltar para o conteúdo principal",
       "features": "Explorar funcionalidades",
       "faq": "Perguntas frequentes",
       "download_nav": "Transferir",
-      "download_title": "Transferir o Job Connect para Android",
-      "download_intro": "Obtenha a aplicação oficial Job Connect para Android no Google Play para descobrir oportunidades de emprego e organizar as suas favoritas.",
+      "download_title": "Transferir Bubble Fury para Android",
+      "download_intro": "Obtenha Bubble Fury, o jogo arcade de disparar bolhas, na página oficial do Google Play. Mire, combine cores e crie combos.",
       "download_steps_title": "Instale em três passos simples",
       "download_step_1": "Abra a página oficial no Google Play.",
       "download_step_2": "Toque em Instalar no seu dispositivo Android.",
-      "download_step_3": "Abra o Job Connect e explore oportunidades.",
-      "download_note": "Por segurança, instale a aplicação apenas através da página oficial no Google Play.",
-      "download_facts": "Informações da aplicação",
+      "download_step_3": "Abra Bubble Fury e comece a rebentar bolhas.",
+      "download_note": "Para obter a versão oficial para Android, instale Bubble Fury através do Google Play.",
+      "download_facts": "Informações do jogo",
       "platform": "Plataforma",
       "developer": "Programador",
       "package": "ID do pacote",
-      "home": "Descubra a sua próxima oportunidade",
-      "cta": "Ver no Google Play",
-      "tag": "DESCOBERTA DE OPORTUNIDADES DE EMPREGO",
-      "gallery": "Conheça a aplicação",
-      "gallery_intro": "Capturas de ecrã reais da página do Google Play.",
-      "download": "Comece a utilizar o Job Connect",
+      "home": "Mire. Dispare. Rebente. Repita.",
+      "cta": "Obter no Google Play",
+      "tag": "JOGO ARCADE DE BOLHAS",
+      "gallery": "Veja Bubble Fury em ação",
+      "gallery_intro": "Capturas de ecrã da página oficial do Google Play.",
+      "download": "Jogar Bubble Fury",
       "privacy": "Política de privacidade",
       "support": "Apoio",
-      "about_intro": "Saiba como o Job Connect o ajuda a descobrir e organizar oportunidades.",
-      "features_intro": "Explore as funcionalidades de descoberta e organização do Job Connect.",
-      "faq_intro": "Respostas às perguntas mais frequentes sobre o Job Connect.",
-      "language": "Escolha o idioma",
+      "about_intro": "Bubble Fury é um jogo arcade rápido de disparar bolhas, centrado na precisão, combinação de cores, combos e rondas cada vez mais desafiantes.",
+      "features_intro": "Explore as funcionalidades de mira, combinação, combos e progressão descritas no Google Play.",
+      "faq_intro": "Respostas sobre Bubble Fury, combinação de bolhas, combos, moedas e instalação.",
+      "language": "Escolher idioma",
       "english": "English",
       "arabic": "العربية",
-      "home_intro": "Explore oportunidades de emprego, consulte informação útil e acompanhe as funções que lhe interessam."
+      "home_intro": "Arraste para apontar e largue para disparar. Combine três ou mais bolhas da mesma cor, use os ressaltos nas paredes, crie combos e ganhe moedas à medida que o tabuleiro fica mais desafiante."
     },
     "titles": {
-      "home": "App para procurar emprego | Job Connect",
-      "about": "Sobre o Job Connect | Descoberta de oportunidades",
-      "features": "Funcionalidades do Job Connect | Descoberta de empregos",
-      "download": "Transferir o Job Connect para Android | Google Play",
-      "faq": "Perguntas frequentes do Job Connect | Procura de emprego"
+      "home": "Bubble Fury: jogo arcade de bolhas",
+      "about": "Sobre Bubble Fury | Jogo de bolhas",
+      "features": "Funcionalidades Bubble Fury | Combos",
+      "download": "Transferir Bubble Fury para Android",
+      "faq": "FAQ Bubble Fury | Jogo de bolhas"
     },
     "descriptions": {
-      "home": "Descubra oportunidades de emprego com o Job Connect, uma aplicação Android para consultar detalhes das funções e organizar oportunidades a acompanhar.",
-      "about": "Saiba como o Job Connect ajuda a descobrir oportunidades, consultar detalhes das funções e organizar as que pretende acompanhar.",
-      "features": "Explore as funcionalidades do Job Connect para descobrir oportunidades, consultar detalhes e indicadores e organizar funções em coleções pessoais.",
-      "download": "Transfira o Job Connect para Android no Google Play. Descubra oportunidades, consulte detalhes das funções e organize as suas favoritas.",
-      "faq": "Respostas sobre o Job Connect, descoberta de oportunidades, indicadores das funções e coleções pessoais."
+      "home": "Jogue Bubble Fury, um jogo arcade de disparar bolhas. Mire, combine cores e crie combos no Android.",
+      "about": "Conheça Bubble Fury, um jogo arcade de bolhas com mira precisa, combinações, ressaltos e moedas.",
+      "features": "Explore Bubble Fury: mira precisa, combinar três bolhas, combos, ressaltos nas paredes e desafio crescente.",
+      "download": "Transfira Bubble Fury para Android no Google Play. Comece a rebentar bolhas e a criar combos.",
+      "faq": "Respostas sobre Bubble Fury: mira, combinação de bolhas, combos, ressaltos, moedas, anúncios e instalação."
     },
-    "app_description": "Uma aplicação para descobrir oportunidades de emprego, consultar o contexto das funções e organizar coleções pessoais. Os indicadores de remuneração, localização e atualidade são informações de apoio, não garantias.",
-    "tagline": "Descubra oportunidades e organize a sua procura.",
+    "app_description": "Bubble Fury é um jogo arcade rápido de disparar bolhas. Arraste para apontar e largue para disparar, combine três ou mais bolhas da mesma cor, crie combos, use os ressaltos nas paredes e ganhe moedas à medida que o tabuleiro fica mais desafiante.",
+    "tagline": "Partidas rápidas. Disparos precisos. Pontuações maiores.",
     "features": [
       [
-        "Descubra novos sinais de oportunidades",
-        "Explore um feed com oportunidades recentes e indicadores de atualidade."
+        "Ação arcade rápida de disparar bolhas",
+        "Arraste para apontar, largue para disparar e desfrute de partidas rápidas que põem a sua precisão à prova."
       ],
       [
-        "Consulte oportunidades rapidamente",
-        "Compare funções, organizações, localizações e indicadores de remuneração."
+        "Combine três ou mais bolhas",
+        "Combine grupos de pelo menos três bolhas da mesma cor para as rebentar e libertar espaço no tabuleiro."
       ],
       [
-        "Perceba o que distingue uma oportunidade",
-        "Consulte indicadores de remuneração, localização e atualidade. Não são garantias."
+        "Crie combos e procure pontuações máximas",
+        "Encadeie combinações bem-sucedidas para criar combos, ganhar mais pontos e alcançar um novo recorde pessoal."
       ],
       [
-        "Explore métricas de análise",
-        "Consulte estimativas de completude dos dados, atualidade, singularidade e concorrência."
+        "Use os ressaltos nas paredes",
+        "Aponte com precisão e use os ressaltos para alcançar ângulos difíceis e rebentar bolhas correspondentes."
       ],
       [
-        "Organize oportunidades em coleções",
-        "Crie coleções pessoais como Remote Hub, Elite Leap e A minha lista."
+        "Ganhe moedas à medida que o desafio aumenta",
+        "Ganhe moedas durante o jogo e adapte-se quando surgem mais tipos de bolhas e o tabuleiro fica mais cheio."
       ]
     ],
     "faq": [
       [
-        "O que é o Job Connect?",
-        "Uma aplicação para descobrir oportunidades de emprego, consultar o contexto das funções e organizar coleções."
+        "O que é Bubble Fury?",
+        "Bubble Fury é um jogo arcade de disparar bolhas em que aponta, dispara, combina cores e cria combos."
       ],
       [
-        "O que significa um indicador de correspondência?",
-        "É um indicador da aplicação, não uma promessa de adequação ou sucesso."
+        "Como se joga Bubble Fury?",
+        "Arraste para apontar e largue para disparar. Combine três ou mais bolhas da mesma cor para as rebentar."
       ],
       [
-        "O que são as métricas de análise?",
-        "Estimativas de completude dos dados, atualidade, singularidade e concorrência, além de competências detetadas."
+        "Posso usar as paredes para alcançar bolhas?",
+        "Sim. A descrição do jogo destaca os ressaltos nas paredes para alcançar ângulos difíceis."
       ],
       [
-        "Posso organizar oportunidades?",
-        "Sim. Pode criar coleções como Remote Hub, Elite Leap e A minha lista."
+        "Como funcionam os combos e a pontuação?",
+        "As combinações bem-sucedidas podem criar cadeias de combos. Mantê-las pode aumentar os pontos ganhos."
       ],
       [
-        "Onde posso instalar o Job Connect?",
-        "Instale a aplicação Android através da página oficial no Google Play."
+        "O jogo fica mais difícil?",
+        "Sim. O tabuleiro fica mais cheio e surgem tipos adicionais de bolhas à medida que sobrevive mais tempo."
       ],
       [
-        "O Job Connect contém anúncios?",
-        "A página do Google Play indica que a aplicação contém anúncios."
+        "Posso ganhar moedas enquanto jogo?",
+        "Sim. A descrição do Google Play indica que ganha moedas ao rebentar bolhas e marcar pontos."
       ],
       [
-        "O Job Connect candidata-se por mim?",
-        "Não. Ajuda a descobrir e analisar oportunidades. Siga as instruções oficiais da entidade empregadora."
+        "Bubble Fury contém anúncios?",
+        "Sim. O Google Play indica que Bubble Fury contém anúncios."
       ],
       [
-        "Um indicador garante uma candidatura bem-sucedida?",
-        "Não. São estimativas e não garantem entrevistas nem decisões de contratação."
-      ],
-      [
-        "Como posso verificar se um anúncio é legítimo?",
-        "Procure o site oficial da entidade empregadora e tenha cuidado com pedidos de dinheiro, palavras-passe ou códigos."
-      ],
-      [
-        "Todos os empregos são remotos ou estão disponíveis em todos os países?",
-        "Não. A localização depende da entidade empregadora e do anúncio."
-      ],
-      [
-        "Porque pode faltar informação salarial?",
-        "Algumas entidades não publicam remunerações. Peça esclarecimentos diretamente."
-      ],
-      [
-        "Posso instalar o Job Connect fora do Google Play?",
-        "Utilize a página oficial do Job Connect no Google Play ligada a este site."
+        "Onde posso instalar Bubble Fury?",
+        "Instale Bubble Fury para Android através da página oficial no Google Play."
       ]
     ],
     "screenshots": [
       [
-        "Ecrã Descobrir com sinais recentes de oportunidades",
-        "Descubra oportunidades"
+        "Ecrã inicial de Bubble Fury com opções Jogar, Loja e Definições",
+        "Ecrã inicial Bubble Fury"
       ],
       [
-        "Lista de oportunidades com função, salário e localização",
-        "Compare funções e detalhes"
+        "Jogo Bubble Fury com filas de bolhas coloridas e lançador",
+        "Aponte e rebente bolhas iguais"
       ],
       [
-        "Detalhes e motivos para uma oportunidade surgir",
-        "Compreenda a oportunidade"
+        "Jogo Bubble Fury com tabuleiro cheio e pontuação de combo",
+        "Mantenha os combos"
       ],
       [
-        "Métricas de análise e concorrência",
-        "Consulte métricas"
+        "Loja do tesouro Bubble Fury com pacotes de moedas",
+        "Explore a loja de moedas"
       ],
       [
-        "Coleções pessoais de oportunidades",
-        "Organize oportunidades"
+        "Jogo Bubble Fury com bolhas coloridas para combinar",
+        "Limpe o tabuleiro com precisão"
+      ]
+    ]
+  },
+  "fr-FR": {
+    "language_name": "Français (France)",
+    "text": {
+      "about": "À propos de Bubble Fury",
+      "skip_to_content": "Passer au contenu principal",
+      "features": "Découvrir les fonctionnalités",
+      "faq": "Foire aux questions",
+      "download_nav": "Télécharger",
+      "download_title": "Télécharger Bubble Fury pour Android",
+      "download_intro": "Obtenez Bubble Fury, le jeu d’arcade de tir de bulles, depuis sa fiche officielle sur Google Play. Visez, associez les couleurs et enchaînez les combos.",
+      "download_steps_title": "Installer en trois étapes simples",
+      "download_step_1": "Ouvrez la fiche officielle sur Google Play.",
+      "download_step_2": "Touchez Installer sur votre appareil Android.",
+      "download_step_3": "Ouvrez Bubble Fury et commencez à éclater des bulles.",
+      "download_note": "Pour obtenir la version Android officielle, installez Bubble Fury depuis Google Play.",
+      "download_facts": "Renseignements sur le jeu",
+      "platform": "Plateforme",
+      "developer": "Développeur",
+      "package": "Identifiant du package",
+      "home": "Visez. Tirez. Éclatez. Recommencez.",
+      "cta": "Obtenir sur Google Play",
+      "tag": "JEU D’ARCADE DE TIR DE BULLES",
+      "gallery": "Découvrez Bubble Fury en images",
+      "gallery_intro": "Captures d’écran de la fiche officielle Google Play.",
+      "download": "Jouer à Bubble Fury",
+      "privacy": "Politique de confidentialité",
+      "support": "Soutien",
+      "about_intro": "Bubble Fury est un jeu d’arcade de tir de bulles axé sur la précision, les associations de couleurs, les combos et des manches de plus en plus difficiles.",
+      "features_intro": "Découvrez la visée, les associations, les combos et la progression décrits sur Google Play.",
+      "faq_intro": "Réponses sur Bubble Fury, les associations de bulles, les combos, les pièces et l’installation.",
+      "language": "Choisir la langue",
+      "english": "English",
+      "arabic": "العربية",
+      "home_intro": "Faites glisser pour viser, puis relâchez pour tirer. Associez au moins trois bulles de la même couleur, utilisez les rebonds sur les murs, enchaînez les combos et gagnez des pièces à mesure que le plateau se complique."
+    },
+    "titles": {
+      "home": "Bubble Fury : jeu de bulles arcade",
+      "about": "À propos de Bubble Fury | Jeu de bulles",
+      "features": "Fonctionnalités Bubble Fury | Combos",
+      "download": "Télécharger Bubble Fury pour Android",
+      "faq": "FAQ Bubble Fury | Jeu de bulles"
+    },
+    "descriptions": {
+      "home": "Jouez à Bubble Fury, un jeu d’arcade de tir de bulles. Visez, associez les couleurs et enchaînez les combos sur Android.",
+      "about": "Découvrez Bubble Fury, un jeu de bulles avec visée précise, associations de couleurs, rebonds et pièces à gagner.",
+      "features": "Explorez Bubble Fury : visée précise, associations de trois bulles, combos, rebonds sur les murs et défi croissant.",
+      "download": "Téléchargez Bubble Fury pour Android sur Google Play et commencez à éclater les bulles et à créer des combos.",
+      "faq": "Réponses sur Bubble Fury : visée, associations de bulles, combos, rebonds, pièces, publicités et installation."
+    },
+    "app_description": "Bubble Fury est un jeu d’arcade de tir de bulles rapide. Faites glisser pour viser et relâchez pour tirer, associez au moins trois bulles de la même couleur, créez des combos, utilisez les rebonds sur les murs et gagnez des pièces à mesure que le plateau se complique.",
+    "tagline": "Des parties rapides. Des tirs précis. Des scores plus élevés.",
+    "features": [
+      [
+        "Un jeu d’arcade de bulles rapide",
+        "Faites glisser pour viser, relâchez pour tirer et profitez de parties rapides qui mettent votre précision à l’épreuve."
+      ],
+      [
+        "Associez au moins trois bulles",
+        "Associez au moins trois bulles de la même couleur pour les éclater et libérer de l’espace sur le plateau."
+      ],
+      [
+        "Enchaînez les combos et visez un record",
+        "Multipliez les associations réussies pour créer des combos, gagner davantage de points et viser votre meilleur score."
+      ],
+      [
+        "Utilisez les rebonds sur les murs",
+        "Visez avec précision et utilisez les rebonds pour atteindre des angles difficiles et éclater les bulles assorties."
+      ],
+      [
+        "Gagnez des pièces dans un défi croissant",
+        "Gagnez des pièces en jouant et adaptez-vous lorsque de nouveaux types de bulles apparaissent et que le plateau se remplit."
+      ]
+    ],
+    "faq": [
+      [
+        "Qu’est-ce que Bubble Fury?",
+        "Bubble Fury est un jeu d’arcade de tir de bulles où vous visez, tirez, associez les couleurs et enchaînez les combos."
+      ],
+      [
+        "Comment jouer à Bubble Fury?",
+        "Faites glisser pour viser, puis relâchez pour tirer. Associez au moins trois bulles de la même couleur pour les éclater."
+      ],
+      [
+        "Puis-je utiliser les murs pour atteindre les bulles?",
+        "Oui. La description du jeu présente les rebonds sur les murs comme un moyen d’atteindre des angles difficiles."
+      ],
+      [
+        "Comment fonctionnent les combos et les scores?",
+        "Les associations réussies peuvent créer des combos. Les maintenir peut augmenter les points gagnés."
+      ],
+      [
+        "Le jeu devient-il plus difficile?",
+        "Oui. Le plateau se remplit et de nouveaux types de bulles apparaissent à mesure que vous survivez plus longtemps."
+      ],
+      [
+        "Puis-je gagner des pièces en jouant?",
+        "Oui. La description Google Play indique que vous gagnez des pièces en éclatant des bulles et en marquant des points."
+      ],
+      [
+        "Bubble Fury contient-il des publicités?",
+        "Oui. Google Play indique que Bubble Fury contient des publicités."
+      ],
+      [
+        "Où installer Bubble Fury?",
+        "Installez Bubble Fury pour Android depuis sa fiche officielle sur Google Play."
+      ]
+    ],
+    "screenshots": [
+      [
+        "Écran d’accueil de Bubble Fury avec les options Jouer, Boutique et Paramètres",
+        "Écran de démarrage Bubble Fury"
+      ],
+      [
+        "Partie Bubble Fury avec des rangées de bulles colorées et un lanceur",
+        "Visez et éclatez les bulles assorties"
+      ],
+      [
+        "Partie Bubble Fury avec un plateau chargé et un score de combo",
+        "Maintenez les combos"
+      ],
+      [
+        "Boutique au trésor de Bubble Fury affichant des lots de pièces",
+        "Découvrez la boutique de pièces"
+      ],
+      [
+        "Jeu de tir de bulles Bubble Fury avec des bulles colorées",
+        "Libérez le plateau avec précision"
       ]
     ]
   },
   "de-DE": {
     "language_name": "Deutsch (Deutschland)",
     "text": {
-      "about": "Über Job Connect",
+      "about": "Über Bubble Fury",
       "skip_to_content": "Zum Hauptinhalt springen",
       "features": "Funktionen entdecken",
       "faq": "Häufige Fragen",
       "download_nav": "Herunterladen",
-      "download_title": "Job Connect für Android herunterladen",
-      "download_intro": "Laden Sie die offizielle Job-Connect-App bei Google Play herunter, um Stellenangebote zu entdecken, Informationen zu prüfen und interessante Angebote zu organisieren.",
+      "download_title": "Bubble Fury für Android herunterladen",
+      "download_intro": "Hol dir Bubble Fury, das Arcade-Blasenschießspiel, über den offiziellen Google-Play-Eintrag. Ziele, kombiniere Farben und bilde Combos.",
       "download_steps_title": "In drei einfachen Schritten installieren",
-      "download_step_1": "Öffnen Sie den offiziellen Eintrag bei Google Play.",
-      "download_step_2": "Tippen Sie auf Ihrem Android-Gerät auf Installieren.",
-      "download_step_3": "Öffnen Sie Job Connect und entdecken Sie Stellenangebote.",
-      "download_note": "Installieren Sie die App ausschließlich über den offiziellen Google-Play-Eintrag.",
-      "download_facts": "App-Informationen",
+      "download_step_1": "Öffne den offiziellen Eintrag bei Google Play.",
+      "download_step_2": "Tippe auf deinem Android-Gerät auf Installieren.",
+      "download_step_3": "Öffne Bubble Fury und lass die Blasen platzen.",
+      "download_note": "Installiere die offizielle Android-Version von Bubble Fury über Google Play.",
+      "download_facts": "Spielinformationen",
       "platform": "Plattform",
       "developer": "Entwickler",
       "package": "Paket-ID",
-      "home": "Entdecken Sie Ihre nächste berufliche Chance",
-      "cta": "Bei Google Play ansehen",
-      "tag": "STELLENANGEBOTE ENTDECKEN",
-      "gallery": "Einblick in die App",
-      "gallery_intro": "Original-Screenshots aus dem Google-Play-Eintrag.",
-      "download": "Mit Job Connect starten",
+      "home": "Zielen. Schießen. Platzen lassen. Wiederholen.",
+      "cta": "Bei Google Play herunterladen",
+      "tag": "ARCADE-BUBBLE-SHOOTER",
+      "gallery": "Bubble Fury in Aktion",
+      "gallery_intro": "Screenshots aus dem offiziellen Google-Play-Eintrag.",
+      "download": "Bubble Fury spielen",
       "privacy": "Datenschutzerklärung",
       "support": "Support",
-      "about_intro": "Erfahren Sie, wie Job Connect Sie beim Entdecken und Organisieren von Stellenangeboten unterstützt.",
-      "features_intro": "Entdecken Sie die Funktionen zum Finden und Organisieren von Stellenangeboten.",
-      "faq_intro": "Antworten auf häufige Fragen zu Job Connect.",
-      "language": "Sprache auswählen",
+      "about_intro": "Bubble Fury ist ein schnelles Arcade-Blasenschießspiel mit präzisem Zielen, Farbkombinationen, Combo-Ketten und zunehmend anspruchsvollen Runden.",
+      "features_intro": "Entdecke die auf Google Play beschriebenen Funktionen zum Zielen, Kombinieren, für Combos und den Spielfortschritt.",
+      "faq_intro": "Antworten zu Bubble Fury, Blasenkombinationen, Combos, Münzen und Installation.",
+      "language": "Sprache wählen",
       "english": "English",
       "arabic": "العربية",
-      "home_intro": "Entdecken Sie Stellenangebote, prüfen Sie hilfreiche Informationen und behalten Sie interessante Positionen im Blick."
+      "home_intro": "Ziehe zum Zielen und lasse los, um zu schießen. Kombiniere mindestens drei Blasen derselben Farbe, nutze Abpraller an Wänden, bilde Combos und sammle Münzen, während das Spielfeld anspruchsvoller wird."
     },
     "titles": {
-      "home": "App für Jobsuche und Stellenangebote | Job Connect",
-      "about": "Über Job Connect | Stellenangebote entdecken",
-      "features": "Job-Connect-Funktionen für die Jobsuche",
-      "download": "Job Connect für Android herunterladen | Google Play",
-      "faq": "Job Connect FAQ | Jobsuche und App-Funktionen"
+      "home": "Bubble Fury: Arcade Bubble Shooter",
+      "about": "Über Bubble Fury | Bubble Shooter",
+      "features": "Bubble Fury Funktionen | Combos & Blasen",
+      "download": "Bubble Fury für Android herunterladen",
+      "faq": "Bubble Fury FAQ | Bubble Shooter"
     },
     "descriptions": {
-      "home": "Entdecken Sie Stellenangebote mit Job Connect, einer Android-App zum Prüfen von Stelleninformationen und Organisieren interessanter Möglichkeiten.",
-      "about": "Erfahren Sie, wie Job Connect Ihnen hilft, Stellenangebote zu entdecken, Details zu prüfen und interessante Positionen zu organisieren.",
-      "features": "Entdecken Sie Funktionen zum Finden von Stellenangeboten, Prüfen von Details und Organisieren persönlicher Sammlungen.",
-      "download": "Laden Sie Job Connect für Android bei Google Play herunter. Entdecken Sie Stellenangebote, prüfen Sie Details und organisieren Sie Favoriten.",
-      "faq": "Antworten zu Job Connect, Stellenangeboten, Stellenindikatoren und persönlichen Sammlungen."
+      "home": "Spiele Bubble Fury, einen Arcade-Bubble-Shooter. Ziele, kombiniere Farben und bilde Combos auf Android.",
+      "about": "Lerne Bubble Fury kennen: präzises Zielen, Farbkombinationen, Wandabpraller und Münzbelohnungen.",
+      "features": "Entdecke Bubble Fury: präzises Zielen, drei Blasen kombinieren, Combos, Wandabpraller und steigende Herausforderung.",
+      "download": "Lade Bubble Fury für Android bei Google Play herunter und beginne, passende Blasen platzen zu lassen.",
+      "faq": "Antworten zu Bubble Fury: Zielen, Blasen kombinieren, Combos, Abpraller, Münzen, Werbung und Installation."
     },
-    "app_description": "Eine App zum Entdecken von Stellenangeboten mit Fokus auf neue Hinweise, Stellenkontext und persönliche Sammlungen. Angaben zu Gehalt, Standort und Aktualität sind Orientierungshilfen, keine Garantien.",
-    "tagline": "Entdecken und organisieren Sie berufliche Möglichkeiten.",
+    "app_description": "Bubble Fury ist ein schnelles Arcade-Blasenschießspiel. Ziehe zum Zielen und lasse los, um zu schießen, kombiniere mindestens drei Blasen derselben Farbe, bilde Combo-Ketten, nutze Wandabpraller und sammle Münzen, während das Spielfeld anspruchsvoller wird.",
+    "tagline": "Kurze Runden. Präzise Schüsse. Höhere Punktzahlen.",
     "features": [
       [
-        "Neue Hinweise auf Stellenangebote entdecken",
-        "Ein Feed zeigt neu erkannte Stellenangebote und Aktualitätshinweise."
+        "Schnelle Arcade-Bubble-Shooter-Action",
+        "Ziehe zum Zielen, lasse zum Schießen los und spiele schnelle Runden, in denen deine Treffsicherheit zählt."
       ],
       [
-        "Stellenangebote auf einen Blick prüfen",
-        "Vergleichen Sie Positionen, Unternehmen, Standorte und Gehaltshinweise."
+        "Drei oder mehr Blasen kombinieren",
+        "Kombiniere mindestens drei Blasen derselben Farbe, lasse sie platzen und schaffe Platz auf dem Spielfeld."
       ],
       [
-        "Verstehen, warum ein Angebot hervorgehoben wird",
-        "Prüfen Sie Gehalts-, Standort- und Aktualitätshinweise. Keine Garantie."
+        "Combos bilden und Rekorde jagen",
+        "Setze erfolgreiche Kombinationen fort, bilde Combo-Ketten, sammle mehr Punkte und erreiche eine neue Bestleistung."
       ],
       [
-        "Abgeleitete Analysewerte erkunden",
-        "Prüfen Sie Schätzwerte zu Datenvollständigkeit, Aktualität, Einzigartigkeit und Wettbewerb."
+        "Wandabpraller für schwierige Winkel nutzen",
+        "Ziele präzise und nutze Abpraller an Wänden, um schwierige Winkel zu erreichen und passende Blasen zu treffen."
       ],
       [
-        "Stellenangebote in Sammlungen organisieren",
-        "Erstellen Sie persönliche Sammlungen wie Remote Hub, Elite Leap und Merkliste."
+        "Münzen sammeln, während die Herausforderung steigt",
+        "Verdiene Münzen beim Spielen und passe dich an, wenn weitere Blasentypen erscheinen und das Spielfeld voller wird."
       ]
     ],
     "faq": [
       [
-        "Was ist Job Connect?",
-        "Eine App zum Entdecken von Stellenangeboten, Prüfen des Stellenkontexts und Organisieren persönlicher Sammlungen."
+        "Was ist Bubble Fury?",
+        "Bubble Fury ist ein schnelles Arcade-Blasenschießspiel, in dem du zielst, schießt, Farben kombinierst und Combos bildest."
       ],
       [
-        "Was bedeutet ein Übereinstimmungsindikator?",
-        "Ein Hinweis in der App, keine Zusage für eine perfekte Passung oder erfolgreiche Bewerbung."
+        "Wie spielt man Bubble Fury?",
+        "Ziehe zum Zielen und lasse los, um zu schießen. Kombiniere mindestens drei Blasen derselben Farbe, damit sie platzen."
       ],
       [
-        "Was sind die Analysewerte?",
-        "Schätzwerte zu Datenvollständigkeit, Aktualität, Einzigartigkeit und Wettbewerb sowie erkannten Fähigkeiten."
+        "Kann ich die Wände nutzen, um Blasen zu erreichen?",
+        "Ja. Die Spielbeschreibung hebt Wandabpraller hervor, mit denen du schwierige Winkel erreichen kannst."
       ],
       [
-        "Kann ich Stellenangebote organisieren?",
-        "Ja. Nutzen Sie Sammlungen wie Remote Hub, Elite Leap und Merkliste."
+        "Wie funktionieren Combos und Punkte?",
+        "Erfolgreiche Kombinationen können Combo-Ketten bilden. Wenn du die Kette fortsetzt, kannst du mehr Punkte erhalten."
       ],
       [
-        "Wo kann ich Job Connect installieren?",
-        "Installieren Sie die Android-App über den offiziellen Eintrag bei Google Play."
+        "Wird Bubble Fury mit der Zeit schwieriger?",
+        "Ja. Das Spielfeld wird voller und zusätzliche Blasentypen erscheinen, je länger du durchhältst."
       ],
       [
-        "Enthält Job Connect Werbung?",
-        "Laut Google-Play-Eintrag enthält die App Werbung."
+        "Kann ich beim Spielen Münzen sammeln?",
+        "Ja. Laut Google-Play-Beschreibung sammelst du Münzen, wenn du Blasen platzen lässt und Punkte erzielst."
       ],
       [
-        "Bewirbt sich Job Connect für mich?",
-        "Nein. Die App hilft beim Entdecken und Prüfen. Folgen Sie den Anweisungen des Arbeitgebers."
+        "Enthält Bubble Fury Werbung?",
+        "Ja. Google Play kennzeichnet Bubble Fury als App mit Werbung."
       ],
       [
-        "Garantiert ein Indikator eine erfolgreiche Bewerbung?",
-        "Nein. Die Werte sind Schätzungen und garantieren weder eine Einstellung noch ein Gespräch."
-      ],
-      [
-        "Wie prüfe ich eine echte Stellenanzeige?",
-        "Suchen Sie die offizielle Website des Arbeitgebers und seien Sie vorsichtig bei Geld- oder Passwortforderungen."
-      ],
-      [
-        "Sind alle Stellen remote oder überall verfügbar?",
-        "Nein. Arbeitsort und Berechtigung hängen vom Arbeitgeber und der Anzeige ab."
-      ],
-      [
-        "Warum fehlt manchmal eine Gehaltsangabe?",
-        "Manche Arbeitgeber veröffentlichen keine Gehaltsinformationen. Fragen Sie direkt nach."
-      ],
-      [
-        "Kann ich Job Connect außerhalb von Google Play installieren?",
-        "Nutzen Sie den offiziellen, auf dieser Website verlinkten Google-Play-Eintrag."
+        "Wo kann ich Bubble Fury installieren?",
+        "Installiere Bubble Fury für Android über den offiziellen Google-Play-Eintrag."
       ]
     ],
     "screenshots": [
       [
-        "Entdecken-Bildschirm mit neuen Stellenhinweisen",
-        "Neue Stellenangebote entdecken"
+        "Bubble-Fury-Startbildschirm mit Spielen, Shop und Einstellungen",
+        "Bubble Fury Startbildschirm"
       ],
       [
-        "Angebotsliste mit Position, Gehalt und Standort",
-        "Positionen vergleichen"
+        "Bubble-Fury-Arcade-Spiel mit Reihen bunter Blasen und Abschussvorrichtung",
+        "Ziele und kombiniere Blasen"
       ],
       [
-        "Details und Gründe für ein Angebot",
-        "Angebotskontext verstehen"
+        "Bubble-Fury-Spiel mit vollem Spielfeld und Combo-Punktzahl",
+        "Halte Combos aufrecht"
       ],
       [
-        "Analysewerte und Wettbewerbshinweise",
-        "Analyseindikatoren prüfen"
+        "Bubble-Fury-Schatzshop mit Münzpaketen",
+        "Münzshop ansehen"
       ],
       [
-        "Persönliche Sammlungen",
-        "Stellenangebote organisieren"
+        "Bubble-Fury-Blasenspiel mit bunten Blasen zum Kombinieren",
+        "Räume das Spielfeld präzise ab"
       ]
     ]
   },
   "it-IT": {
     "language_name": "Italiano (Italia)",
     "text": {
-      "about": "Informazioni su Job Connect",
+      "about": "Informazioni su Bubble Fury",
       "skip_to_content": "Vai al contenuto principale",
       "features": "Scopri le funzionalità",
       "faq": "Domande frequenti",
       "download_nav": "Scarica",
-      "download_title": "Scarica Job Connect per Android",
-      "download_intro": "Scarica l’app ufficiale Job Connect per Android da Google Play per scoprire opportunità di lavoro e organizzare quelle che ti interessano.",
+      "download_title": "Scarica Bubble Fury per Android",
+      "download_intro": "Ottieni Bubble Fury, il gioco arcade sparabolle, dalla scheda ufficiale su Google Play. Mira, abbina i colori e crea combo.",
       "download_steps_title": "Installa in tre semplici passaggi",
       "download_step_1": "Apri la scheda ufficiale su Google Play.",
       "download_step_2": "Tocca Installa sul tuo dispositivo Android.",
-      "download_step_3": "Apri Job Connect ed esplora le opportunità.",
-      "download_note": "Per sicurezza, installa l’app solo dalla scheda ufficiale su Google Play.",
-      "download_facts": "Informazioni sull’app",
+      "download_step_3": "Apri Bubble Fury e inizia a scoppiare le bolle.",
+      "download_note": "Per la versione ufficiale Android, installa Bubble Fury da Google Play.",
+      "download_facts": "Informazioni sul gioco",
       "platform": "Piattaforma",
       "developer": "Sviluppatore",
       "package": "ID pacchetto",
-      "home": "Scopri la tua prossima opportunità",
-      "cta": "Apri su Google Play",
-      "tag": "SCOPERTA DI OPPORTUNITÀ DI LAVORO",
-      "gallery": "Uno sguardo all’app",
-      "gallery_intro": "Screenshot reali dalla scheda Google Play.",
-      "download": "Inizia con Job Connect",
+      "home": "Mira. Spara. Scoppia. Ripeti.",
+      "cta": "Scarica su Google Play",
+      "tag": "ARCADE SPARABOLLE",
+      "gallery": "Scopri Bubble Fury in azione",
+      "gallery_intro": "Screenshot dalla scheda ufficiale Google Play.",
+      "download": "Gioca a Bubble Fury",
       "privacy": "Informativa sulla privacy",
       "support": "Assistenza",
-      "about_intro": "Scopri come Job Connect ti aiuta a trovare e organizzare opportunità.",
-      "features_intro": "Esplora le funzionalità di scoperta e organizzazione di Job Connect.",
-      "faq_intro": "Risposte alle domande più comuni su Job Connect.",
+      "about_intro": "Bubble Fury è un gioco arcade sparabolle veloce, basato su mira precisa, abbinamenti di colori, combo e round sempre più impegnativi.",
+      "features_intro": "Scopri le funzioni di mira, abbinamento, combo e progressione descritte su Google Play.",
+      "faq_intro": "Risposte su Bubble Fury, abbinamenti di bolle, combo, monete e installazione.",
       "language": "Scegli la lingua",
       "english": "English",
       "arabic": "العربية",
-      "home_intro": "Esplora le opportunità di lavoro, consulta informazioni utili e tieni a portata di mano le posizioni che vuoi seguire."
+      "home_intro": "Trascina per mirare e rilascia per sparare. Abbina almeno tre bolle dello stesso colore, sfrutta i rimbalzi sulle pareti, crea combo e raccogli monete mentre il tabellone diventa più impegnativo."
     },
     "titles": {
-      "home": "App per cercare lavoro e scoprire opportunità | Job Connect",
-      "about": "Informazioni su Job Connect | Scoperta di offerte",
-      "features": "Funzionalità Job Connect per scoprire e organizzare offerte",
-      "download": "Scarica Job Connect per Android | Google Play",
-      "faq": "FAQ Job Connect | Ricerca di lavoro e funzionalità"
+      "home": "Bubble Fury: gioco arcade sparabolle",
+      "about": "Informazioni su Bubble Fury | Sparabolle",
+      "features": "Funzioni Bubble Fury | Combo e bolle",
+      "download": "Scarica Bubble Fury per Android",
+      "faq": "FAQ Bubble Fury | Gioco sparabolle"
     },
     "descriptions": {
-      "home": "Scopri opportunità di lavoro con Job Connect, un’app Android per consultare i dettagli delle posizioni e organizzare quelle da seguire.",
-      "about": "Scopri come Job Connect ti aiuta a trovare opportunità, consultare i dettagli e organizzare le posizioni da rivedere.",
-      "features": "Esplora le funzionalità per scoprire opportunità, consultare dettagli e indicatori e organizzare raccolte personali.",
-      "download": "Scarica Job Connect per Android da Google Play. Scopri opportunità, consulta i dettagli e organizza i tuoi preferiti.",
-      "faq": "Risposte su Job Connect, scoperta di opportunità, indicatori delle posizioni e raccolte personali."
+      "home": "Gioca a Bubble Fury, un arcade sparabolle. Mira, abbina i colori e crea combo su Android.",
+      "about": "Scopri Bubble Fury, un gioco arcade con mira precisa, abbinamenti di colori, rimbalzi e ricompense in monete.",
+      "features": "Esplora Bubble Fury: mira precisa, abbina tre bolle, combo, rimbalzi sulle pareti e difficoltà crescente.",
+      "download": "Scarica Bubble Fury per Android da Google Play. Inizia a scoppiare bolle abbinate e creare combo.",
+      "faq": "Risposte su Bubble Fury: mira, abbinamenti, combo, rimbalzi, monete, annunci e installazione."
     },
-    "app_description": "Un’app per scoprire opportunità di lavoro, con attenzione ai nuovi segnali, al contesto delle posizioni e alle raccolte personali. Gli indicatori su retribuzione, località e aggiornamento sono informazioni di supporto, non garanzie.",
-    "tagline": "Scopri opportunità e organizza la tua ricerca.",
+    "app_description": "Bubble Fury è un gioco arcade sparabolle veloce. Trascina per mirare e rilascia per sparare, abbina almeno tre bolle dello stesso colore, crea combo, sfrutta i rimbalzi sulle pareti e raccogli monete mentre il tabellone diventa più impegnativo.",
+    "tagline": "Partite rapide. Tiri precisi. Punteggi più alti.",
     "features": [
       [
-        "Scopri nuovi segnali di lavoro",
-        "Esplora un feed con opportunità recenti e indicatori di aggiornamento."
+        "Azione arcade sparabolle veloce",
+        "Trascina per mirare, rilascia per sparare e affronta partite rapide che mettono alla prova la tua precisione."
       ],
       [
-        "Valuta le opportunità a colpo d’occhio",
-        "Confronta ruoli, organizzazioni, località e indicazioni sulla retribuzione."
+        "Abbina tre o più bolle",
+        "Abbina gruppi di almeno tre bolle dello stesso colore per farle scoppiare e liberare spazio sul tabellone."
       ],
       [
-        "Scopri perché un’opportunità si distingue",
-        "Consulta indicazioni su retribuzione, località e aggiornamento. Non sono garanzie."
+        "Crea combo e punta ai record",
+        "Continua con abbinamenti riusciti per creare combo, ottenere più punti e raggiungere un nuovo record personale."
       ],
       [
-        "Esplora le metriche di analisi",
-        "Consulta stime su completezza dei dati, aggiornamento, unicità e concorrenza."
+        "Sfrutta i rimbalzi sulle pareti",
+        "Mira con precisione e usa i rimbalzi per raggiungere angoli difficili e colpire le bolle dello stesso colore."
       ],
       [
-        "Organizza le opportunità in raccolte",
-        "Crea raccolte personali come Remote Hub, Elite Leap e La mia lista."
+        "Raccogli monete mentre la sfida aumenta",
+        "Guadagna monete giocando e adattati quando compaiono altri tipi di bolle e il tabellone diventa più affollato."
       ]
     ],
     "faq": [
       [
-        "Che cos’è Job Connect?",
-        "Un’app per scoprire opportunità di lavoro, consultare il contesto delle posizioni e organizzare raccolte personali."
+        "Che cos’è Bubble Fury?",
+        "Bubble Fury è un gioco arcade sparabolle veloce in cui miri, spari, abbini i colori e crei combo."
       ],
       [
-        "Che cosa indica un punteggio di corrispondenza?",
-        "È un indicatore dell’app, non una promessa di adeguatezza o successo."
+        "Come si gioca a Bubble Fury?",
+        "Trascina per mirare e rilascia per sparare. Abbina almeno tre bolle dello stesso colore per farle scoppiare."
       ],
       [
-        "Che cosa sono le metriche di analisi?",
-        "Stime su completezza dei dati, aggiornamento, unicità e concorrenza, oltre a competenze rilevate."
+        "Posso usare le pareti per raggiungere le bolle?",
+        "Sì. La descrizione del gioco evidenzia i rimbalzi sulle pareti per raggiungere angoli difficili."
       ],
       [
-        "Posso organizzare le opportunità?",
-        "Sì. Puoi creare raccolte come Remote Hub, Elite Leap e La mia lista."
+        "Come funzionano combo e punteggi?",
+        "Gli abbinamenti riusciti possono creare catene di combo. Continuarle può aumentare i punti ottenuti."
       ],
       [
-        "Dove posso installare Job Connect?",
-        "Installa l’app Android dalla scheda ufficiale su Google Play."
+        "Bubble Fury diventa più difficile?",
+        "Sì. Il tabellone si riempie e compaiono altri tipi di bolle man mano che resisti più a lungo."
       ],
       [
-        "Job Connect contiene annunci pubblicitari?",
-        "La scheda Google Play indica che l’app contiene annunci pubblicitari."
+        "Posso raccogliere monete mentre gioco?",
+        "Sì. La descrizione su Google Play indica che raccogli monete facendo scoppiare bolle e ottenendo punti."
       ],
       [
-        "Job Connect invia candidature per me?",
-        "No. Job Connect aiuta a scoprire opportunità. Segui le istruzioni ufficiali del datore di lavoro."
+        "Bubble Fury contiene annunci?",
+        "Sì. Google Play indica che Bubble Fury contiene annunci."
       ],
       [
-        "Un indicatore garantisce il successo?",
-        "No. Gli indicatori sono stime e non garantiscono colloqui o assunzioni."
-      ],
-      [
-        "Come verifico un annuncio autentico?",
-        "Cerca il sito ufficiale del datore di lavoro e fai attenzione a richieste di denaro o codici."
-      ],
-      [
-        "Tutti i lavori sono da remoto o disponibili ovunque?",
-        "No. Sede e idoneità dipendono dal datore di lavoro e dall’annuncio."
-      ],
-      [
-        "Perché un annuncio potrebbe non indicare lo stipendio?",
-        "Alcuni datori di lavoro non pubblicano i dettagli retributivi. Chiedi chiarimenti."
-      ],
-      [
-        "Posso installare Job Connect fuori da Google Play?",
-        "Usa la scheda ufficiale Job Connect su Google Play collegata da questo sito."
+        "Dove posso installare Bubble Fury?",
+        "Installa Bubble Fury per Android dalla sua scheda ufficiale su Google Play."
       ]
     ],
     "screenshots": [
       [
-        "Schermata Scopri con nuovi segnali di opportunità",
-        "Scopri nuove opportunità"
+        "Schermata iniziale di Bubble Fury con le opzioni Gioca, Negozio e Impostazioni",
+        "Schermata iniziale di Bubble Fury"
       ],
       [
-        "Elenco con ruolo, stipendio e località",
-        "Confronta ruoli e dettagli"
+        "Partita arcade Bubble Fury con file di bolle colorate e lanciatore",
+        "Mira e fai scoppiare le bolle abbinate"
       ],
       [
-        "Dettagli e motivi di un’opportunità",
-        "Comprendi il contesto"
+        "Partita Bubble Fury con tabellone affollato e punteggio combo",
+        "Mantieni attive le combo"
       ],
       [
-        "Metriche di analisi e concorrenza",
-        "Consulta le metriche"
+        "Negozio del tesoro di Bubble Fury con pacchetti di monete",
+        "Scopri il negozio di monete"
       ],
       [
-        "Raccolte personali",
-        "Organizza le opportunità"
-      ]
-    ]
-  },
-  "fr-FR": {
-    "text": {
-      "about": "À propos de Job Connect",
-      "skip_to_content": "Passer au contenu principal",
-      "features": "Explorer les fonctionnalités",
-      "faq": "Foire aux questions",
-      "download_nav": "Télécharger",
-      "download_title": "Télécharger Job Connect pour Android",
-      "download_intro": "Obtenez l’application Android officielle Job Connect sur Google Play pour découvrir des possibilités d’emploi, consulter leur contexte et organiser vos favoris.",
-      "download_steps_title": "Installer en trois étapes simples",
-      "download_step_1": "Ouvrez la fiche officielle sur Google Play.",
-      "download_step_2": "Touchez Installer sur votre appareil Android.",
-      "download_step_3": "Ouvrez Job Connect et explorez les possibilités.",
-      "download_note": "Pour votre sécurité, installez l’application uniquement à partir de sa fiche officielle sur Google Play.",
-      "download_facts": "Renseignements sur l’application",
-      "platform": "Plateforme",
-      "developer": "Développeur",
-      "package": "Identifiant du package",
-      "home": "Découvrez votre prochaine possibilité",
-      "cta": "Voir sur Google Play",
-      "tag": "DÉCOUVERTE DE POSSIBILITÉS D’EMPLOI",
-      "gallery": "Un aperçu de l’application",
-      "gallery_intro": "Captures d’écran réelles de la fiche Google Play.",
-      "download": "Commencez avec Job Connect",
-      "privacy": "Politique de confidentialité",
-      "support": "Soutien",
-      "about_intro": "Découvrez comment Job Connect vous aide à repérer et à organiser des possibilités d’emploi.",
-      "features_intro": "Explorez les outils de découverte et d’organisation proposés par Job Connect.",
-      "faq_intro": "Réponses aux questions courantes sur Job Connect.",
-      "language": "Choisir la langue",
-      "english": "English",
-      "arabic": "العربية",
-      "home_intro": "Explorez les possibilités d’emploi, consultez les renseignements utiles et gardez à portée de main les postes qui vous intéressent."
-    },
-    "titles": {
-      "home": "Application de recherche d’emploi | Job Connect",
-      "about": "À propos de Job Connect | Découverte d’offres d’emploi",
-      "features": "Fonctionnalités de Job Connect | Découverte d’emploi",
-      "download": "Télécharger Job Connect pour Android | Google Play",
-      "faq": "FAQ Job Connect | Recherche d’emploi et fonctionnalités"
-    },
-    "descriptions": {
-      "home": "Découvrez des opportunités professionnelles avec Job Connect, une application Android pour examiner les postes et organiser ceux à suivre.",
-      "about": "Découvrez comment Job Connect aide à repérer des opportunités, à examiner les informations sur les postes et à organiser les offres à retrouver.",
-      "features": "Explorez les fonctions de découverte, les fiches de postes, les indicateurs et les collections personnelles de Job Connect.",
-      "download": "Téléchargez Job Connect pour Android sur Google Play. Découvrez des opportunités, consultez les détails des postes et organisez vos favoris.",
-      "faq": "Réponses sur Job Connect, la découverte d’opportunités, les indicateurs des postes et les collections personnelles."
-    },
-    "app_description": "Une application de découverte d’opportunités professionnelles axée sur les nouveaux signaux, le contexte des postes et les collections personnelles. Les indicateurs de rémunération, de lieu et d’actualité sont des repères, pas des garanties.",
-    "tagline": "Découvrez des opportunités et organisez votre recherche.",
-    "features": [
-      [
-        "Repérez les nouveaux signaux d’emploi",
-        "Consultez un fil de découverte présentant les possibilités récemment repérées, leur fraîcheur et des indicateurs de correspondance."
-      ],
-      [
-        "Évaluez les possibilités en un coup d’œil",
-        "Comparez les postes, les organisations, les lieux et les indications de rémunération dans des fiches faciles à parcourir."
-      ],
-      [
-        "Comprenez pourquoi une possibilité ressort",
-        "Examinez les indications de rémunération, de lieu, de flexibilité à distance, de fraîcheur et les raisons mises de l’avant par l’application. Ces valeurs ne sont pas des garanties."
-      ],
-      [
-        "Explorez les indicateurs d’analyse",
-        "Consultez les indicateurs de complétude des données, de fraîcheur, d’unicité et de concurrence, ainsi que les compétences et exigences détectées. Il s’agit d’estimations."
-      ],
-      [
-        "Organisez les possibilités en collections",
-        "Créez des collections personnelles comme Remote Hub, Elite Leap et Ma liste de suivi pour classer les possibilités et les retrouver."
-      ]
-    ],
-    "faq": [
-      [
-        "Qu’est-ce que Job Connect?",
-        "Une application de découverte de possibilités d’emploi axée sur les nouveaux signaux, le contexte des postes et les collections personnelles."
-      ],
-      [
-        "Que signifie un indicateur de correspondance?",
-        "Il s’agit d’un indicateur affiché dans l’application, et non d’une promesse qu’un poste vous convient parfaitement ou que votre candidature sera retenue."
-      ],
-      [
-        "Que sont les indicateurs d’analyse?",
-        "L’application présente des indicateurs calculés, comme la complétude des données, la fraîcheur de l’annonce, l’unicité et la concurrence, ainsi que des compétences et exigences détectées. Ce sont des estimations."
-      ],
-      [
-        "Puis-je organiser les possibilités d’emploi?",
-        "Oui. Les collections comprennent des exemples comme Remote Hub, Elite Leap et Ma liste de suivi."
-      ],
-      [
-        "Où puis-je installer Job Connect?",
-        "Installez l’application Android à partir de sa fiche officielle sur Google Play."
-      ],
-      [
-        "Job Connect contient-elle des publicités?",
-        "La fiche Google Play indique que l’application contient des publicités."
-      ],
-      [
-        "Job Connect postule-t-elle à ma place?",
-        "Non. Job Connect vous aide à découvrir et à examiner des possibilités. Suivez les instructions officielles de l’employeur pour présenter votre candidature."
-      ],
-      [
-        "Un indicateur garantit-il que ma candidature sera retenue?",
-        "Non. Les indicateurs de correspondance, de fraîcheur et d’analyse sont des estimations qui facilitent votre examen. Ils ne prédisent pas les décisions d’embauche et ne garantissent pas une entrevue."
-      ],
-      [
-        "Comment vérifier qu’une offre d’emploi est authentique?",
-        "Trouvez le site officiel de l’employeur de façon indépendante, comparez les détails du poste et le domaine utilisé pour postuler, et méfiez-vous des demandes d’argent, de mots de passe ou de codes de vérification."
-      ],
-      [
-        "Tous les emplois sont-ils à distance ou accessibles dans chaque pays?",
-        "Non. Le lieu de travail et l’admissibilité géographique dépendent de chaque employeur et de chaque offre. Consultez l’annonce originale pour connaître les restrictions et les modalités de télétravail."
-      ],
-      [
-        "Pourquoi une offre peut-elle ne pas indiquer le salaire?",
-        "Certains employeurs ne publient pas les détails de rémunération. Demandez des précisions à l’employeur avant de poursuivre."
-      ],
-      [
-        "Puis-je installer Job Connect ailleurs que sur Google Play?",
-        "Pour obtenir l’application officielle en toute sécurité, utilisez la fiche Job Connect sur Google Play accessible à partir de ce site."
-      ]
-    ],
-    "screenshots": [
-      [
-        "Écran Découvrir de Job Connect présentant de nouveaux signaux de possibilités d’emploi",
-        "Découvrez les nouveaux signaux d’emploi"
-      ],
-      [
-        "Liste de possibilités Job Connect avec le poste, le salaire et le lieu",
-        "Comparez les postes et les renseignements clés"
-      ],
-      [
-        "Détails d’une possibilité et raisons de sa mise en évidence dans Job Connect",
-        "Comprenez pourquoi une possibilité est présentée"
-      ],
-      [
-        "Indicateurs d’analyse des possibilités et de concurrence dans Job Connect",
-        "Examinez les indicateurs d’analyse"
-      ],
-      [
-        "Collections personnelles de possibilités d’emploi dans Job Connect",
-        "Organisez vos possibilités"
-      ]
-    ],
-    "language_name": "Français (France)"
-  },
-  "es-ES": {
-    "language_name": "Español (España)",
-    "text": {
-      "about": "Acerca de Job Connect",
-      "skip_to_content": "Saltar al contenido principal",
-      "features": "Explorar funciones",
-      "faq": "Preguntas frecuentes",
-      "download_nav": "Descargar",
-      "download_title": "Descargar Job Connect para Android",
-      "download_intro": "Descarga la aplicación oficial Job Connect para Android desde Google Play para descubrir oportunidades laborales y organizar tus favoritas.",
-      "download_steps_title": "Instala en tres sencillos pasos",
-      "download_step_1": "Abre la ficha oficial en Google Play.",
-      "download_step_2": "Pulsa Instalar en tu dispositivo Android.",
-      "download_step_3": "Abre Job Connect y explora oportunidades.",
-      "download_note": "Por seguridad, instala la aplicación únicamente desde su ficha oficial de Google Play.",
-      "download_facts": "Información de la aplicación",
-      "platform": "Plataforma",
-      "developer": "Desarrollador",
-      "package": "Identificador del paquete",
-      "home": "Descubre tu próxima oportunidad",
-      "cta": "Ver en Google Play",
-      "tag": "DESCUBRIMIENTO DE OPORTUNIDADES LABORALES",
-      "gallery": "Así es la aplicación",
-      "gallery_intro": "Capturas reales de la ficha de Google Play.",
-      "download": "Empieza con Job Connect",
-      "privacy": "Política de privacidad",
-      "support": "Ayuda",
-      "about_intro": "Descubre qué te ayuda a encontrar y organizar Job Connect.",
-      "features_intro": "Explora las funciones de descubrimiento y organización de Job Connect.",
-      "faq_intro": "Respuestas a las preguntas habituales sobre Job Connect.",
-      "language": "Elige tu idioma",
-      "english": "English",
-      "arabic": "العربية",
-      "home_intro": "Explora oportunidades laborales, consulta información útil y guarda los puestos que te interesan."
-    },
-    "titles": {
-      "home": "Buscar empleo y descubrir oportunidades | Job Connect",
-      "about": "Acerca de Job Connect | Descubrimiento de empleo",
-      "features": "Funciones de Job Connect para descubrir y organizar empleos",
-      "download": "Descargar Job Connect para Android | Google Play",
-      "faq": "Preguntas frecuentes de Job Connect | Búsqueda de empleo"
-    },
-    "descriptions": {
-      "home": "Descubre oportunidades laborales con Job Connect, una aplicación Android para revisar puestos y organizar oportunidades que quieras seguir.",
-      "about": "Conoce cómo Job Connect te ayuda a descubrir oportunidades, consultar detalles de los puestos y organizar los que quieras revisar.",
-      "features": "Explora las funciones de Job Connect para descubrir oportunidades, revisar detalles e indicadores y organizar puestos en colecciones personales.",
-      "download": "Descarga Job Connect para Android desde Google Play. Descubre oportunidades laborales, consulta los detalles y organiza tus favoritos.",
-      "faq": "Respuestas sobre Job Connect, el descubrimiento de oportunidades laborales, los indicadores de los puestos y las colecciones personales."
-    },
-    "app_description": "Una aplicación para descubrir oportunidades laborales, consultar información sobre los puestos y organizar oportunidades en colecciones personales. Los indicadores de salario, ubicación y actualidad son orientativos, no garantías.",
-    "tagline": "Descubre oportunidades y organiza tu búsqueda.",
-    "features": [
-      [
-        "Descubre nuevas señales de empleo",
-        "Explora un feed con oportunidades detectadas recientemente e indicadores de actualidad."
-      ],
-      [
-        "Consulta oportunidades de un vistazo",
-        "Compara puestos, organizaciones, ubicaciones e indicadores salariales."
-      ],
-      [
-        "Comprende por qué destaca una oportunidad",
-        "Consulta indicadores de salario, ubicación, flexibilidad remota y actualidad. No son garantías."
-      ],
-      [
-        "Explora métricas de análisis",
-        "Revisa estimaciones de integridad de datos, actualidad, singularidad y competencia."
-      ],
-      [
-        "Organiza oportunidades en colecciones",
-        "Crea colecciones personales como Remote Hub, Elite Leap y Mi lista."
-      ]
-    ],
-    "faq": [
-      [
-        "¿Qué es Job Connect?",
-        "Una aplicación para descubrir oportunidades laborales, consultar el contexto de los puestos y organizar colecciones personales."
-      ],
-      [
-        "¿Qué significa un indicador de afinidad?",
-        "Es un indicador de la aplicación, no una promesa de ajuste perfecto o éxito."
-      ],
-      [
-        "¿Qué son las métricas de análisis?",
-        "Estimaciones de integridad de datos, actualidad, singularidad y competencia, además de aptitudes detectadas."
-      ],
-      [
-        "¿Puedo organizar oportunidades?",
-        "Sí. Puedes crear colecciones como Remote Hub, Elite Leap y Mi lista."
-      ],
-      [
-        "¿Dónde puedo instalar Job Connect?",
-        "Instala la aplicación Android desde su ficha oficial en Google Play."
-      ],
-      [
-        "¿Job Connect contiene anuncios?",
-        "La ficha de Google Play indica que la aplicación contiene anuncios."
-      ],
-      [
-        "¿Job Connect solicita empleos por mí?",
-        "No. La aplicación ayuda a descubrir y revisar oportunidades. Sigue las instrucciones de la empresa."
-      ],
-      [
-        "¿Un indicador garantiza el éxito?",
-        "No. Son estimaciones y no predicen decisiones de contratación ni garantizan entrevistas."
-      ],
-      [
-        "¿Cómo compruebo si una oferta es auténtica?",
-        "Busca la web oficial de la empresa y desconfía de solicitudes de dinero, contraseñas o códigos."
-      ],
-      [
-        "¿Todos los empleos son remotos o están disponibles en cualquier país?",
-        "No. La ubicación y elegibilidad dependen de cada empresa y anuncio."
-      ],
-      [
-        "¿Por qué una oferta puede no indicar el salario?",
-        "Algunas empresas no publican la remuneración. Solicita la información directamente."
-      ],
-      [
-        "¿Puedo instalar Job Connect fuera de Google Play?",
-        "Utiliza la ficha oficial de Job Connect en Google Play enlazada desde este sitio."
-      ]
-    ],
-    "screenshots": [
-      [
-        "Pantalla Descubrir con señales recientes de oportunidades",
-        "Descubre oportunidades"
-      ],
-      [
-        "Lista de oportunidades con puesto, salario y ubicación",
-        "Compara puestos y detalles"
-      ],
-      [
-        "Detalles y motivos de una oportunidad",
-        "Comprende por qué aparece"
-      ],
-      [
-        "Métricas de análisis e indicadores de competencia",
-        "Consulta las métricas"
-      ],
-      [
-        "Colecciones personales de oportunidades",
-        "Organiza tus oportunidades"
+        "Gioco sparabolle Bubble Fury con bolle colorate da abbinare",
+        "Libera il tabellone con precisione"
       ]
     ]
   }

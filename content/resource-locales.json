@@ -1,112 +1,451 @@
 {
+  "en-US": {
+    "language_name": "US English",
+    "nav": {
+      "tips": "Tips",
+      "blog": "Blog",
+      "guide": "User guide",
+      "comparison": "Gameplay"
+    },
+    "labels": {
+      "resource": "TIPS",
+      "nav_aria": "Primary navigation",
+      "skip": "Skip to main content",
+      "home": "Back to Bubble Fury",
+      "privacy": "Privacy policy",
+      "support": "Support",
+      "more": "Explore this resource",
+      "features": "Features"
+    },
+    "pages": {
+      "tips": [
+        "Bubble Shooter Tips | Bubble Fury",
+        "Practical Bubble Fury tips for aiming, matching colors, using wall rebounds and building combos.",
+        "Bubble shooter tips",
+        "Learn the basics of precise shots, matching groups and keeping your run going.",
+        [
+          [
+            "Aim with a plan",
+            "Drag to line up a shot, then release. Look for a path toward a matching color.",
+            "guide"
+          ],
+          [
+            "Match groups of three or more",
+            "Focus on groups of at least three bubbles of the same color to clear space.",
+            "blog"
+          ],
+          [
+            "Use wall rebounds",
+            "Try banked angles when a direct shot cannot reach the group you want.",
+            "comparison"
+          ]
+        ]
+      ],
+      "blog": [
+        "Bubble Fury Blog | Bubble Shooter Guides",
+        "Bubble Fury articles about arcade controls, color matching, combos and high scores.",
+        "Bubble Fury gameplay articles",
+        "Explore practical guides to the mechanics described on Google Play.",
+        [
+          [
+            "Aim with a plan",
+            "Drag to line up a shot, then release. Look for a path toward a matching color.",
+            "guide"
+          ],
+          [
+            "Match groups of three or more",
+            "Focus on groups of at least three bubbles of the same color to clear space.",
+            "blog"
+          ],
+          [
+            "Use wall rebounds",
+            "Try banked angles when a direct shot cannot reach the group you want.",
+            "comparison"
+          ]
+        ]
+      ],
+      "guide": [
+        "Bubble Fury User Guide | How to Play",
+        "Learn to aim, shoot, match three or more bubbles and adapt as the board gets harder.",
+        "How to play Bubble Fury",
+        "Follow a simple gameplay loop using the controls and mechanics described on Google Play.",
+        [
+          [
+            "Aim with a plan",
+            "Drag to line up a shot, then release. Look for a path toward a matching color.",
+            "guide"
+          ],
+          [
+            "Match groups of three or more",
+            "Focus on groups of at least three bubbles of the same color to clear space.",
+            "blog"
+          ],
+          [
+            "Use wall rebounds",
+            "Try banked angles when a direct shot cannot reach the group you want.",
+            "comparison"
+          ]
+        ]
+      ],
+      "comparison": [
+        "Arcade Bubble Shooter Gameplay | Bubble Fury",
+        "Understand Bubble Fury’s arcade bubble shooter format, match-three mechanic and score-focused play.",
+        "The Bubble Fury arcade approach",
+        "A gameplay overview based on the published description, not a ranking of other apps.",
+        [
+          [
+            "Aim with a plan",
+            "Drag to line up a shot, then release. Look for a path toward a matching color.",
+            "guide"
+          ],
+          [
+            "Match groups of three or more",
+            "Focus on groups of at least three bubbles of the same color to clear space.",
+            "blog"
+          ],
+          [
+            "Use wall rebounds",
+            "Try banked angles when a direct shot cannot reach the group you want.",
+            "comparison"
+          ]
+        ]
+      ]
+    }
+  },
+  "en-CA": {
+    "language_name": "English (Canada)",
+    "nav": {
+      "tips": "Tips",
+      "blog": "Blog",
+      "guide": "User guide",
+      "comparison": "Gameplay"
+    },
+    "labels": {
+      "resource": "TIPS",
+      "nav_aria": "Primary navigation",
+      "skip": "Skip to main content",
+      "home": "Back to Bubble Fury",
+      "privacy": "Privacy policy",
+      "support": "Support",
+      "more": "Explore this resource",
+      "features": "Features"
+    },
+    "pages": {
+      "tips": [
+        "Bubble Shooter Tips | Bubble Fury",
+        "Practical tips for aiming, matching colours, using wall rebounds and building combos in Bubble Fury.",
+        "Bubble shooter tips",
+        "Learn the basics of precise shots, matching groups and keeping your run going.",
+        [
+          [
+            "Aim with a plan",
+            "Drag to line up a shot, then release. Look for a path towards a matching colour.",
+            "guide"
+          ],
+          [
+            "Match groups of three or more",
+            "Focus on groups of at least three bubbles of the same colour to clear space.",
+            "blog"
+          ],
+          [
+            "Use wall rebounds",
+            "Try banked angles when a direct shot cannot reach the group you want.",
+            "comparison"
+          ]
+        ]
+      ],
+      "blog": [
+        "Bubble Fury Blog | Bubble Shooter Guides",
+        "Articles about arcade controls, colour matching, combos and high scores in Bubble Fury.",
+        "Bubble Fury gameplay articles",
+        "Explore practical guides to the mechanics described on Google Play.",
+        [
+          [
+            "Aim with a plan",
+            "Drag to line up a shot, then release. Look for a path towards a matching colour.",
+            "guide"
+          ],
+          [
+            "Match groups of three or more",
+            "Focus on groups of at least three bubbles of the same colour to clear space.",
+            "blog"
+          ],
+          [
+            "Use wall rebounds",
+            "Try banked angles when a direct shot cannot reach the group you want.",
+            "comparison"
+          ]
+        ]
+      ],
+      "guide": [
+        "Bubble Fury User Guide | How to Play",
+        "Learn to aim, shoot, match three or more bubbles and adapt as the board gets harder.",
+        "How to play Bubble Fury",
+        "Follow a simple gameplay loop using the controls and mechanics described on Google Play.",
+        [
+          [
+            "Aim with a plan",
+            "Drag to line up a shot, then release. Look for a path towards a matching colour.",
+            "guide"
+          ],
+          [
+            "Match groups of three or more",
+            "Focus on groups of at least three bubbles of the same colour to clear space.",
+            "blog"
+          ],
+          [
+            "Use wall rebounds",
+            "Try banked angles when a direct shot cannot reach the group you want.",
+            "comparison"
+          ]
+        ]
+      ],
+      "comparison": [
+        "Arcade Bubble Shooter Gameplay | Bubble Fury",
+        "Understand Bubble Fury’s arcade format, match-three mechanic and score-focused play.",
+        "The Bubble Fury arcade approach",
+        "A gameplay overview based on the published description, not a ranking of other apps.",
+        [
+          [
+            "Aim with a plan",
+            "Drag to line up a shot, then release. Look for a path towards a matching colour.",
+            "guide"
+          ],
+          [
+            "Match groups of three or more",
+            "Focus on groups of at least three bubbles of the same colour to clear space.",
+            "blog"
+          ],
+          [
+            "Use wall rebounds",
+            "Try banked angles when a direct shot cannot reach the group you want.",
+            "comparison"
+          ]
+        ]
+      ]
+    }
+  },
+  "fr-CA": {
+    "language_name": "Français (Canada)",
+    "nav": {
+      "tips": "Conseils",
+      "blog": "Blogue",
+      "guide": "Guide",
+      "comparison": "Jeu"
+    },
+    "labels": {
+      "resource": "CONSEILS",
+      "nav_aria": "Navigation principale",
+      "skip": "Passer au contenu principal",
+      "home": "Retour à Bubble Fury",
+      "privacy": "Politique de confidentialité",
+      "support": "Soutien",
+      "more": "Explorer cette ressource",
+      "features": "Fonctionnalités"
+    },
+    "pages": {
+      "tips": [
+        "Conseils Bubble Shooter | Bubble Fury",
+        "Conseils pour viser, associer les couleurs, utiliser les rebonds sur les murs et créer des combos.",
+        "Conseils pour tirer des bulles",
+        "Découvrez les bases des tirs précis, des groupes assortis et des parties qui durent.",
+        [
+          [
+            "Visez avec méthode",
+            "Faites glisser pour ajuster la visée, puis relâchez. Cherchez une trajectoire vers une couleur correspondante.",
+            "guide"
+          ],
+          [
+            "Associez au moins trois bulles",
+            "Visez les groupes d’au moins trois bulles de la même couleur pour libérer de l’espace.",
+            "blog"
+          ],
+          [
+            "Utilisez les rebonds",
+            "Essayez les tirs avec rebond lorsqu’un tir direct ne peut pas atteindre le groupe visé.",
+            "comparison"
+          ]
+        ]
+      ],
+      "blog": [
+        "Blogue Bubble Fury | Guides de jeu",
+        "Articles sur les commandes arcade, les associations de couleurs, les combos et les meilleurs scores.",
+        "Articles sur Bubble Fury",
+        "Consultez des guides pratiques sur les mécaniques décrites dans la fiche Google Play.",
+        [
+          [
+            "Visez avec méthode",
+            "Faites glisser pour ajuster la visée, puis relâchez. Cherchez une trajectoire vers une couleur correspondante.",
+            "guide"
+          ],
+          [
+            "Associez au moins trois bulles",
+            "Visez les groupes d’au moins trois bulles de la même couleur pour libérer de l’espace.",
+            "blog"
+          ],
+          [
+            "Utilisez les rebonds",
+            "Essayez les tirs avec rebond lorsqu’un tir direct ne peut pas atteindre le groupe visé.",
+            "comparison"
+          ]
+        ]
+      ],
+      "guide": [
+        "Guide Bubble Fury | Comment jouer",
+        "Apprenez à viser, tirer, associer au moins trois bulles et vous adapter au plateau.",
+        "Comment jouer à Bubble Fury",
+        "Suivez une boucle de jeu simple fondée sur les commandes et mécaniques décrites sur Google Play.",
+        [
+          [
+            "Visez avec méthode",
+            "Faites glisser pour ajuster la visée, puis relâchez. Cherchez une trajectoire vers une couleur correspondante.",
+            "guide"
+          ],
+          [
+            "Associez au moins trois bulles",
+            "Visez les groupes d’au moins trois bulles de la même couleur pour libérer de l’espace.",
+            "blog"
+          ],
+          [
+            "Utilisez les rebonds",
+            "Essayez les tirs avec rebond lorsqu’un tir direct ne peut pas atteindre le groupe visé.",
+            "comparison"
+          ]
+        ]
+      ],
+      "comparison": [
+        "Jeu de tir de bulles arcade | Bubble Fury",
+        "Découvrez le style arcade, les associations de trois bulles et le jeu axé sur le score.",
+        "L’approche arcade de Bubble Fury",
+        "Aperçu du jeu fondé sur sa description publiée, sans classement d’autres applications.",
+        [
+          [
+            "Visez avec méthode",
+            "Faites glisser pour ajuster la visée, puis relâchez. Cherchez une trajectoire vers une couleur correspondante.",
+            "guide"
+          ],
+          [
+            "Associez au moins trois bulles",
+            "Visez les groupes d’au moins trois bulles de la même couleur pour libérer de l’espace.",
+            "blog"
+          ],
+          [
+            "Utilisez les rebonds",
+            "Essayez les tirs avec rebond lorsqu’un tir direct ne peut pas atteindre le groupe visé.",
+            "comparison"
+          ]
+        ]
+      ]
+    }
+  },
   "es-ES": {
     "language_name": "Español (España)",
     "nav": {
       "tips": "Consejos",
       "blog": "Blog",
       "guide": "Guía",
-      "comparison": "Comparar"
+      "comparison": "Juego"
     },
     "labels": {
-      "features": "Funciones",
-      "more": "Más información",
+      "resource": "CONSEJOS",
+      "nav_aria": "Navegación principal",
       "skip": "Saltar al contenido principal",
-      "resource": "RECURSOS PROFESIONALES",
-      "home": "Volver al inicio",
+      "home": "Volver a Bubble Fury",
       "privacy": "Política de privacidad",
       "support": "Ayuda",
-      "nav_aria": "Navegación principal"
+      "more": "Explorar este recurso",
+      "features": "Funciones"
     },
     "pages": {
       "tips": [
-        "Consejos para buscar empleo | Job Connect",
-        "Consejos para evaluar oportunidades, comprobar anuncios y organizar los próximos pasos.",
-        "Consejos para buscar empleo",
-        "Define una búsqueda clara, verifica el anuncio original y utiliza los indicadores como orientación, no como garantías.",
+        "Consejos de Bubble Shooter | Bubble Fury",
+        "Consejos para apuntar, combinar colores, usar rebotes en paredes y crear combos en Bubble Fury.",
+        "Consejos para disparar burbujas",
+        "Aprende las claves de los tiros precisos, las combinaciones y cómo mantener la partida.",
         [
           [
-            "Define tus prioridades",
-            "Elige puestos y criterios relevantes para evaluar oportunidades.",
+            "Apunta con intención",
+            "Arrastra para ajustar la dirección y suelta para disparar. Busca una trayectoria hacia un color coincidente.",
             "guide"
           ],
           [
-            "Comprueba cada anuncio",
-            "Verifica empresa, requisitos, ubicación e instrucciones en la fuente original.",
+            "Combina grupos de tres o más",
+            "Busca grupos de al menos tres burbujas del mismo color para despejar espacio.",
             "blog"
           ],
           [
-            "Interpreta los indicadores",
-            "La actualidad, la afinidad y la competencia son señales, no promesas.",
+            "Aprovecha los rebotes",
+            "Prueba ángulos con rebote cuando un tiro directo no llegue al grupo deseado.",
             "comparison"
           ]
         ]
       ],
       "blog": [
-        "Blog y recursos profesionales | Job Connect",
-        "Consejos prácticos, una guía de uso y una comparación de métodos de búsqueda.",
-        "Recursos profesionales de Job Connect",
-        "Consulta recursos para organizar tu búsqueda y evaluar oportunidades con criterio.",
+        "Blog de Bubble Fury | Guías del juego",
+        "Artículos sobre controles arcade, combinación de colores, combos y puntuaciones en Bubble Fury.",
+        "Artículos de Bubble Fury",
+        "Consulta guías prácticas sobre las mecánicas descritas en la ficha oficial de Google Play.",
         [
           [
-            "Consejos para buscar empleo",
-            "Hábitos útiles para evaluar oportunidades y proteger tu tiempo y tus datos.",
-            "tips"
-          ],
-          [
-            "Guía de usuario",
-            "Un recorrido para descubrir, revisar y organizar oportunidades con Job Connect.",
+            "Apunta con intención",
+            "Arrastra para ajustar la dirección y suelta para disparar. Busca una trayectoria hacia un color coincidente.",
             "guide"
           ],
           [
-            "Comparar métodos",
-            "Cómo una aplicación de descubrimiento complementa otros métodos de búsqueda.",
+            "Combina grupos de tres o más",
+            "Busca grupos de al menos tres burbujas del mismo color para despejar espacio.",
+            "blog"
+          ],
+          [
+            "Aprovecha los rebotes",
+            "Prueba ángulos con rebote cuando un tiro directo no llegue al grupo deseado.",
             "comparison"
           ]
         ]
       ],
       "guide": [
-        "Guía de usuario de Job Connect | Android",
-        "Aprende a explorar oportunidades, revisar detalles y organizar puestos.",
-        "Guía de usuario de Job Connect",
-        "Sigue un proceso sencillo para descubrir oportunidades, revisar detalles y guardar puestos.",
+        "Guía de Bubble Fury | Cómo jugar",
+        "Aprende a apuntar, disparar, combinar tres o más burbujas y adaptarte al tablero.",
+        "Cómo jugar a Bubble Fury",
+        "Sigue un ciclo de juego sencillo con los controles y mecánicas descritos en Google Play.",
         [
           [
-            "Descubre oportunidades",
-            "Explora el feed y decide qué puestos merecen una revisión más detallada.",
-            "tips"
+            "Apunta con intención",
+            "Arrastra para ajustar la dirección y suelta para disparar. Busca una trayectoria hacia un color coincidente.",
+            "guide"
           ],
           [
-            "Revisa los detalles",
-            "Lee responsabilidades y requisitos y verifica la información con la empresa.",
+            "Combina grupos de tres o más",
+            "Busca grupos de al menos tres burbujas del mismo color para despejar espacio.",
             "blog"
           ],
           [
-            "Organiza tu búsqueda",
-            "Agrupa oportunidades que quieras volver a consultar.",
+            "Aprovecha los rebotes",
+            "Prueba ángulos con rebote cuando un tiro directo no llegue al grupo deseado.",
             "comparison"
           ]
         ]
       ],
       "comparison": [
-        "Comparar métodos de búsqueda de empleo | Job Connect",
-        "Comparación descriptiva entre una aplicación de descubrimiento y los métodos tradicionales.",
-        "Comparar métodos de búsqueda",
-        "Descubre dónde puede ayudar una aplicación y qué información debes verificar por tu cuenta.",
+        "Juego arcade de burbujas | Bubble Fury",
+        "Conoce el estilo arcade, la mecánica de combinar tres burbujas y el juego por puntuación.",
+        "El estilo arcade de Bubble Fury",
+        "Resumen basado en la descripción publicada del juego, no en una clasificación de otras apps.",
         [
           [
-            "Encontrar oportunidades",
-            "Un feed dedicado reduce la necesidad de revisar fuentes dispersas manualmente.",
+            "Apunta con intención",
+            "Arrastra para ajustar la dirección y suelta para disparar. Busca una trayectoria hacia un color coincidente.",
             "guide"
           ],
           [
-            "Revisar el contexto",
-            "Los indicadores aportan contexto; el anuncio original sigue siendo la fuente que debes comprobar.",
-            "tips"
+            "Combina grupos de tres o más",
+            "Busca grupos de al menos tres burbujas del mismo color para despejar espacio.",
+            "blog"
           ],
           [
-            "Organizar puestos",
-            "Las colecciones mantienen juntas las oportunidades que quieres revisar más adelante.",
-            "blog"
+            "Aprovecha los rebotes",
+            "Prueba ángulos con rebote cuando un tiro directo no llegue al grupo deseado.",
+            "comparison"
           ]
         ]
       ]
@@ -118,108 +457,108 @@
       "tips": "Dicas",
       "blog": "Blogue",
       "guide": "Guia",
-      "comparison": "Comparar"
+      "comparison": "Jogo"
     },
     "labels": {
-      "features": "Funcionalidades",
-      "more": "Saber mais",
+      "resource": "DICAS",
+      "nav_aria": "Navegação principal",
       "skip": "Saltar para o conteúdo principal",
-      "resource": "RECURSOS DE CARREIRA",
-      "home": "Voltar à página inicial",
+      "home": "Voltar ao Bubble Fury",
       "privacy": "Política de privacidade",
       "support": "Apoio",
-      "nav_aria": "Navegação principal"
+      "more": "Explorar este recurso",
+      "features": "Funcionalidades"
     },
     "pages": {
       "tips": [
-        "Dicas para procurar emprego | Job Connect",
-        "Sugestões para avaliar oportunidades, verificar anúncios e organizar os próximos passos.",
-        "Dicas para procurar emprego",
-        "Defina uma procura focada, confirme o anúncio original e use os indicadores como contexto, não como garantias.",
+        "Dicas Bubble Shooter | Bubble Fury",
+        "Dicas para apontar, combinar cores, usar ressaltos nas paredes e criar combos em Bubble Fury.",
+        "Dicas para disparar bolhas",
+        "Conheça os princípios dos disparos precisos, das combinações e de como prolongar a partida.",
         [
           [
-            "Defina prioridades",
-            "Escolha funções e critérios relevantes para avaliar oportunidades.",
+            "Aponte com intenção",
+            "Arraste para ajustar a mira e largue para disparar. Procure uma trajetória até uma cor correspondente.",
             "guide"
           ],
           [
-            "Verifique cada anúncio",
-            "Confirme entidade empregadora, requisitos, localização e instruções na fonte original.",
+            "Combine grupos de três ou mais",
+            "Procure grupos de pelo menos três bolhas da mesma cor para libertar espaço.",
             "blog"
           ],
           [
-            "Interprete os indicadores",
-            "Atualidade, correspondência e concorrência são sinais, não promessas.",
+            "Use os ressaltos",
+            "Experimente ângulos com ressalto quando um disparo direto não alcança o grupo pretendido.",
             "comparison"
           ]
         ]
       ],
       "blog": [
-        "Blogue e recursos de carreira | Job Connect",
-        "Dicas práticas, um guia de utilização e uma comparação de métodos de procura.",
-        "Recursos de carreira Job Connect",
-        "Consulte recursos para organizar a procura de emprego e avaliar oportunidades com critério.",
+        "Blogue Bubble Fury | Guias de jogo",
+        "Artigos sobre controlos arcade, combinação de cores, combos e pontuações elevadas.",
+        "Artigos Bubble Fury",
+        "Explore guias práticos sobre as mecânicas descritas na página oficial do Google Play.",
         [
           [
-            "Dicas de procura de emprego",
-            "Hábitos úteis para avaliar oportunidades e proteger o seu tempo e informação.",
-            "tips"
-          ],
-          [
-            "Guia de utilização",
-            "Um percurso simples para descobrir, analisar e organizar oportunidades.",
+            "Aponte com intenção",
+            "Arraste para ajustar a mira e largue para disparar. Procure uma trajetória até uma cor correspondente.",
             "guide"
           ],
           [
-            "Comparar métodos",
-            "Como uma aplicação de descoberta complementa os métodos tradicionais de procura.",
+            "Combine grupos de três ou mais",
+            "Procure grupos de pelo menos três bolhas da mesma cor para libertar espaço.",
+            "blog"
+          ],
+          [
+            "Use os ressaltos",
+            "Experimente ângulos com ressalto quando um disparo direto não alcança o grupo pretendido.",
             "comparison"
           ]
         ]
       ],
       "guide": [
-        "Guia de utilização do Job Connect | Android",
-        "Aprenda a explorar oportunidades, analisar funções e organizar empregos.",
-        "Guia de utilização do Job Connect",
-        "Siga um processo simples para descobrir oportunidades, consultar detalhes e guardar funções.",
+        "Guia Bubble Fury | Como jogar",
+        "Aprenda a apontar, disparar, combinar três ou mais bolhas e adaptar-se ao tabuleiro.",
+        "Como jogar Bubble Fury",
+        "Siga um ciclo de jogo simples com os controlos e mecânicas descritos no Google Play.",
         [
           [
-            "Descobrir oportunidades",
-            "Explore o feed e identifique funções que merecem uma análise mais atenta.",
-            "tips"
+            "Aponte com intenção",
+            "Arraste para ajustar a mira e largue para disparar. Procure uma trajetória até uma cor correspondente.",
+            "guide"
           ],
           [
-            "Analisar detalhes",
-            "Leia responsabilidades e requisitos e confirme dados junto da entidade empregadora.",
+            "Combine grupos de três ou mais",
+            "Procure grupos de pelo menos três bolhas da mesma cor para libertar espaço.",
             "blog"
           ],
           [
-            "Organizar a procura",
-            "Agrupe oportunidades que pretende consultar novamente.",
+            "Use os ressaltos",
+            "Experimente ângulos com ressalto quando um disparo direto não alcança o grupo pretendido.",
             "comparison"
           ]
         ]
       ],
       "comparison": [
-        "Comparar métodos de procura de emprego | Job Connect",
-        "Comparação qualitativa entre a descoberta numa aplicação e os métodos tradicionais.",
-        "Comparar métodos de procura de emprego",
-        "Veja como uma aplicação pode ajudar e que informações exigem confirmação independente.",
+        "Jogo arcade de bolhas | Bubble Fury",
+        "Conheça o estilo arcade, a mecânica de combinar três bolhas e o jogo focado na pontuação.",
+        "A abordagem arcade de Bubble Fury",
+        "Visão geral baseada na descrição publicada, sem classificação de outras aplicações.",
         [
           [
-            "Encontrar oportunidades",
-            "Uma área de descoberta reduz a necessidade de consultar várias fontes manualmente.",
+            "Aponte com intenção",
+            "Arraste para ajustar a mira e largue para disparar. Procure uma trajetória até uma cor correspondente.",
             "guide"
           ],
           [
-            "Analisar o contexto",
-            "Os indicadores acrescentam contexto, mas o anúncio original continua a ser a fonte a confirmar.",
-            "tips"
+            "Combine grupos de três ou mais",
+            "Procure grupos de pelo menos três bolhas da mesma cor para libertar espaço.",
+            "blog"
           ],
           [
-            "Organizar funções",
-            "As coleções pessoais agrupam oportunidades para rever mais tarde.",
-            "blog"
+            "Use os ressaltos",
+            "Experimente ângulos com ressalto quando um disparo direto não alcança o grupo pretendido.",
+            "comparison"
           ]
         ]
       ]
@@ -231,108 +570,108 @@
       "tips": "Conseils",
       "blog": "Blog",
       "guide": "Guide",
-      "comparison": "Comparer"
+      "comparison": "Jeu"
     },
     "labels": {
-      "features": "Fonctionnalités",
-      "more": "En savoir plus",
+      "resource": "CONSEILS",
+      "nav_aria": "Navigation principale",
       "skip": "Passer au contenu principal",
-      "resource": "RESSOURCES CARRIÈRE",
-      "home": "Retour à l’accueil",
+      "home": "Retour à Bubble Fury",
       "privacy": "Politique de confidentialité",
       "support": "Assistance",
-      "nav_aria": "Navigation principale"
+      "more": "Explorer cette ressource",
+      "features": "Fonctionnalités"
     },
     "pages": {
       "tips": [
-        "Conseils pour la recherche d’emploi | Job Connect",
-        "Des conseils pour évaluer les opportunités, vérifier les annonces et organiser les prochaines étapes.",
-        "Conseils pour la recherche d’emploi",
-        "Définissez une recherche ciblée, vérifiez l’annonce d’origine et utilisez les indicateurs comme des repères, jamais comme des garanties.",
+        "Conseils Bubble Shooter | Bubble Fury",
+        "Conseils pour viser, associer les couleurs, utiliser les rebonds sur les murs et créer des combos.",
+        "Conseils pour tirer des bulles",
+        "Découvrez les bases des tirs précis, des groupes assortis et des parties qui durent.",
         [
           [
-            "Définir vos priorités",
-            "Choisissez les postes et critères pertinents pour évaluer les opportunités.",
+            "Visez avec méthode",
+            "Faites glisser pour ajuster la visée, puis relâchez. Cherchez une trajectoire vers une couleur correspondante.",
             "guide"
           ],
           [
-            "Vérifier chaque annonce",
-            "Vérifiez l’employeur, les exigences, le lieu et les modalités auprès de la source d’origine.",
+            "Associez au moins trois bulles",
+            "Visez les groupes d’au moins trois bulles de la même couleur pour libérer de l’espace.",
             "blog"
           ],
           [
-            "Interpréter les indicateurs",
-            "L’actualité, la correspondance et la concurrence sont des indices, pas des promesses.",
+            "Utilisez les rebonds",
+            "Essayez les tirs avec rebond lorsqu’un tir direct ne peut pas atteindre le groupe visé.",
             "comparison"
           ]
         ]
       ],
       "blog": [
-        "Blog et ressources carrière | Job Connect",
-        "Conseils pratiques, guide d’utilisation et comparaison des méthodes de recherche.",
-        "Ressources carrière Job Connect",
-        "Consultez des ressources pour organiser votre recherche et examiner les opportunités avec discernement.",
+        "Blog Bubble Fury | Guides de jeu",
+        "Articles sur les commandes arcade, les associations de couleurs, les combos et les meilleurs scores.",
+        "Articles sur Bubble Fury",
+        "Consultez des guides pratiques sur les mécaniques décrites dans la fiche Google Play.",
         [
           [
-            "Conseils de recherche d’emploi",
-            "Des habitudes utiles pour évaluer les opportunités et protéger vos informations.",
-            "tips"
-          ],
-          [
-            "Guide d’utilisation",
-            "Un parcours simple pour découvrir, examiner et organiser les opportunités.",
+            "Visez avec méthode",
+            "Faites glisser pour ajuster la visée, puis relâchez. Cherchez une trajectoire vers une couleur correspondante.",
             "guide"
           ],
           [
-            "Comparer les méthodes",
-            "Comment une application de découverte complète les méthodes traditionnelles.",
+            "Associez au moins trois bulles",
+            "Visez les groupes d’au moins trois bulles de la même couleur pour libérer de l’espace.",
+            "blog"
+          ],
+          [
+            "Utilisez les rebonds",
+            "Essayez les tirs avec rebond lorsqu’un tir direct ne peut pas atteindre le groupe visé.",
             "comparison"
           ]
         ]
       ],
       "guide": [
-        "Guide d’utilisation de Job Connect | Android",
-        "Apprenez à découvrir des opportunités, examiner les postes et organiser votre recherche.",
-        "Guide d’utilisation de Job Connect",
-        "Suivez un parcours simple pour découvrir des opportunités, examiner les détails et retrouver les postes.",
+        "Guide Bubble Fury | Comment jouer",
+        "Apprenez à viser, tirer, associer au moins trois bulles et vous adapter au plateau.",
+        "Comment jouer à Bubble Fury",
+        "Suivez une boucle de jeu simple fondée sur les commandes et mécaniques décrites sur Google Play.",
         [
           [
-            "Découvrir des opportunités",
-            "Explorez le fil de découverte et repérez les postes à examiner.",
-            "tips"
+            "Visez avec méthode",
+            "Faites glisser pour ajuster la visée, puis relâchez. Cherchez une trajectoire vers une couleur correspondante.",
+            "guide"
           ],
           [
-            "Examiner les détails",
-            "Lisez les responsabilités et vérifiez les informations auprès de l’employeur.",
+            "Associez au moins trois bulles",
+            "Visez les groupes d’au moins trois bulles de la même couleur pour libérer de l’espace.",
             "blog"
           ],
           [
-            "Organiser votre recherche",
-            "Regroupez les opportunités à consulter de nouveau dans des collections personnelles.",
+            "Utilisez les rebonds",
+            "Essayez les tirs avec rebond lorsqu’un tir direct ne peut pas atteindre le groupe visé.",
             "comparison"
           ]
         ]
       ],
       "comparison": [
-        "Comparer les méthodes de recherche d’emploi | Job Connect",
-        "Comparaison descriptive entre une application de découverte et les méthodes traditionnelles.",
-        "Comparer les méthodes de recherche d’emploi",
-        "Découvrez comment une application peut aider et quelles informations doivent être vérifiées.",
+        "Jeu de tir de bulles arcade | Bubble Fury",
+        "Découvrez le style arcade, les associations de trois bulles et le jeu axé sur le score.",
+        "L’approche arcade de Bubble Fury",
+        "Aperçu du jeu fondé sur sa description publiée, sans classement d’autres applications.",
         [
           [
-            "Repérer des opportunités",
-            "Un fil dédié limite les recherches manuelles sur plusieurs sources.",
+            "Visez avec méthode",
+            "Faites glisser pour ajuster la visée, puis relâchez. Cherchez une trajectoire vers une couleur correspondante.",
             "guide"
           ],
           [
-            "Examiner le contexte",
-            "Les indicateurs ajoutent du contexte, mais l’annonce originale reste la source à vérifier.",
-            "tips"
+            "Associez au moins trois bulles",
+            "Visez les groupes d’au moins trois bulles de la même couleur pour libérer de l’espace.",
+            "blog"
           ],
           [
-            "Organiser les postes",
-            "Les collections regroupent les opportunités à retrouver plus tard.",
-            "blog"
+            "Utilisez les rebonds",
+            "Essayez les tirs avec rebond lorsqu’un tir direct ne peut pas atteindre le groupe visé.",
+            "comparison"
           ]
         ]
       ]
@@ -343,109 +682,109 @@
     "nav": {
       "tips": "Tipps",
       "blog": "Blog",
-      "guide": "Leitfaden",
-      "comparison": "Vergleichen"
+      "guide": "Anleitung",
+      "comparison": "Spiel"
     },
     "labels": {
-      "features": "Funktionen",
-      "more": "Mehr erfahren",
+      "resource": "TIPPS",
+      "nav_aria": "Hauptnavigation",
       "skip": "Zum Hauptinhalt springen",
-      "resource": "KARRIERE-RESSOURCEN",
-      "home": "Zur Startseite",
+      "home": "Zurück zu Bubble Fury",
       "privacy": "Datenschutzerklärung",
       "support": "Support",
-      "nav_aria": "Hauptnavigation"
+      "more": "Diesen Inhalt entdecken",
+      "features": "Funktionen"
     },
     "pages": {
       "tips": [
-        "Tipps für die Jobsuche | Job Connect",
-        "Praktische Tipps zur Bewertung von Stellenangeboten und Organisation der nächsten Schritte.",
-        "Tipps für die Jobsuche",
-        "Richten Sie Ihre Suche gezielt aus, prüfen Sie die Originalanzeige und nutzen Sie App-Indikatoren als Orientierung, nicht als Garantie.",
+        "Bubble-Shooter-Tipps | Bubble Fury",
+        "Tipps zum Zielen, Kombinieren von Farben, Nutzen von Wandabprallern und Bilden von Combos.",
+        "Tipps für Bubble-Shooter",
+        "Lerne präzise Schüsse, passende Gruppen und längere Spielrunden kennen.",
         [
           [
-            "Suchprioritäten festlegen",
-            "Wählen Sie passende Positionen und Kriterien zur Bewertung von Angeboten.",
+            "Mit Plan zielen",
+            "Ziehe zum Zielen und lasse los. Suche einen Weg zu einer passenden Farbe.",
             "guide"
           ],
           [
-            "Jede Anzeige prüfen",
-            "Prüfen Sie Arbeitgeber, Anforderungen und Standort in der Originalquelle.",
+            "Drei oder mehr Blasen kombinieren",
+            "Kombiniere mindestens drei Blasen derselben Farbe, um Platz zu schaffen.",
             "blog"
           ],
           [
-            "Indikatoren sorgfältig einordnen",
-            "Aktualität, Übereinstimmung und Wettbewerb sind Hinweise, keine Versprechen.",
+            "Wandabpraller nutzen",
+            "Probiere Abpraller, wenn ein direkter Schuss die gewünschte Gruppe nicht erreicht.",
             "comparison"
           ]
         ]
       ],
       "blog": [
-        "Job-Connect-Blog und Karriere-Ressourcen",
-        "Praktische Tipps, ein Benutzerleitfaden und ein Vergleich verschiedener Suchabläufe.",
-        "Job-Connect-Karriere-Ressourcen",
-        "Nutzen Sie Ressourcen, um Ihre Jobsuche zu organisieren und Angebote sorgfältig zu prüfen.",
+        "Bubble Fury Blog | Bubble-Shooter-Guides",
+        "Artikel zu Arcade-Steuerung, Farbkombinationen, Combos und hohen Punktzahlen.",
+        "Bubble-Fury-Spielartikel",
+        "Praktische Anleitungen zu den Funktionen aus dem offiziellen Google-Play-Eintrag.",
         [
           [
-            "Tipps für die Jobsuche",
-            "Nützliche Gewohnheiten zur Bewertung von Angeboten und zum Schutz Ihrer Daten.",
-            "tips"
-          ],
-          [
-            "Benutzerleitfaden",
-            "Ein Überblick zum Entdecken, Prüfen und Organisieren von Stellenangeboten.",
+            "Mit Plan zielen",
+            "Ziehe zum Zielen und lasse los. Suche einen Weg zu einer passenden Farbe.",
             "guide"
           ],
           [
-            "Suchabläufe vergleichen",
-            "Wie eine App zur Entdeckung von Stellenangeboten traditionelle Methoden ergänzt.",
+            "Drei oder mehr Blasen kombinieren",
+            "Kombiniere mindestens drei Blasen derselben Farbe, um Platz zu schaffen.",
+            "blog"
+          ],
+          [
+            "Wandabpraller nutzen",
+            "Probiere Abpraller, wenn ein direkter Schuss die gewünschte Gruppe nicht erreicht.",
             "comparison"
           ]
         ]
       ],
       "guide": [
-        "Job-Connect-Benutzerleitfaden | Android",
-        "Erfahren Sie, wie Sie Stellenangebote entdecken, Details prüfen und Jobs organisieren.",
-        "Job-Connect-Benutzerleitfaden",
-        "Folgen Sie einem einfachen Ablauf, um Angebote zu entdecken, Details zu prüfen und Positionen zu speichern.",
+        "Bubble Fury Anleitung | So wird gespielt",
+        "Lerne die Grundlagen: zielen, schießen, mindestens drei Blasen kombinieren und dich anpassen.",
+        "So spielst du Bubble Fury",
+        "Folge einem einfachen Spielablauf mit den auf Google Play beschriebenen Steuerungen.",
         [
           [
-            "Stellenangebote entdecken",
-            "Erkunden Sie den Feed und wählen Sie Angebote für eine genauere Prüfung aus.",
-            "tips"
+            "Mit Plan zielen",
+            "Ziehe zum Zielen und lasse los. Suche einen Weg zu einer passenden Farbe.",
+            "guide"
           ],
           [
-            "Stellendetails prüfen",
-            "Lesen Sie Aufgaben und Anforderungen und bestätigen Sie Angaben beim Arbeitgeber.",
+            "Drei oder mehr Blasen kombinieren",
+            "Kombiniere mindestens drei Blasen derselben Farbe, um Platz zu schaffen.",
             "blog"
           ],
           [
-            "Jobs organisieren",
-            "Gruppieren Sie interessante Angebote in persönlichen Sammlungen.",
+            "Wandabpraller nutzen",
+            "Probiere Abpraller, wenn ein direkter Schuss die gewünschte Gruppe nicht erreicht.",
             "comparison"
           ]
         ]
       ],
       "comparison": [
-        "Suchmethoden für Jobs vergleichen | Job Connect",
-        "Sachlicher Vergleich zwischen App-gestützter Entdeckung und herkömmlichen Suchabläufen.",
-        "Suchmethoden für Jobs vergleichen",
-        "Erfahren Sie, wobei eine App helfen kann und was Sie selbst prüfen sollten.",
+        "Arcade-Bubble-Shooter | Bubble Fury",
+        "Entdecke den Arcade-Stil, die Drei-Blasen-Mechanik und das punktbasierte Spiel.",
+        "Der Arcade-Stil von Bubble Fury",
+        "Ein Überblick anhand der veröffentlichten Spielbeschreibung, kein Ranking anderer Apps.",
         [
           [
-            "Stellenangebote finden",
-            "Ein eigener Feed kann die manuelle Suche über verstreute Quellen reduzieren.",
+            "Mit Plan zielen",
+            "Ziehe zum Zielen und lasse los. Suche einen Weg zu einer passenden Farbe.",
             "guide"
           ],
           [
-            "Kontext prüfen",
-            "App-Indikatoren liefern Kontext; maßgeblich bleibt die Originalanzeige des Arbeitgebers.",
-            "tips"
+            "Drei oder mehr Blasen kombinieren",
+            "Kombiniere mindestens drei Blasen derselben Farbe, um Platz zu schaffen.",
+            "blog"
           ],
           [
-            "Positionen organisieren",
-            "Sammlungen bündeln Angebote, die Sie später erneut ansehen möchten.",
-            "blog"
+            "Wandabpraller nutzen",
+            "Probiere Abpraller, wenn ein direkter Schuss die gewünschte Gruppe nicht erreicht.",
+            "comparison"
           ]
         ]
       ]
@@ -457,108 +796,108 @@
       "tips": "Consigli",
       "blog": "Blog",
       "guide": "Guida",
-      "comparison": "Confronta"
+      "comparison": "Gioco"
     },
     "labels": {
-      "features": "Funzionalità",
-      "more": "Scopri di più",
+      "resource": "CONSIGLI",
+      "nav_aria": "Navigazione principale",
       "skip": "Vai al contenuto principale",
-      "resource": "RISORSE PROFESSIONALI",
-      "home": "Torna alla home",
+      "home": "Torna a Bubble Fury",
       "privacy": "Informativa sulla privacy",
       "support": "Assistenza",
-      "nav_aria": "Navigazione principale"
+      "more": "Esplora questa risorsa",
+      "features": "Funzionalità"
     },
     "pages": {
       "tips": [
-        "Consigli per cercare lavoro | Job Connect",
-        "Consigli pratici per valutare opportunità, verificare annunci e organizzare i prossimi passi.",
-        "Consigli per cercare lavoro",
-        "Definisci una ricerca mirata, verifica l’annuncio originale e usa gli indicatori come riferimenti, non come garanzie.",
+        "Consigli Bubble Shooter | Bubble Fury",
+        "Consigli per mirare, abbinare i colori, usare i rimbalzi sulle pareti e creare combo.",
+        "Consigli per sparare bolle",
+        "Scopri le basi dei tiri precisi, degli abbinamenti e delle partite più lunghe.",
         [
           [
-            "Definisci le priorità",
-            "Scegli ruoli e criteri pertinenti per valutare le opportunità.",
+            "Mira con criterio",
+            "Trascina per mirare e rilascia per sparare. Cerca una traiettoria verso un colore corrispondente.",
             "guide"
           ],
           [
-            "Verifica ogni annuncio",
-            "Controlla datore di lavoro, requisiti e sede nella fonte originale.",
+            "Abbina gruppi di tre o più",
+            "Cerca gruppi di almeno tre bolle dello stesso colore per liberare spazio.",
             "blog"
           ],
           [
-            "Interpreta gli indicatori",
-            "Attualità, corrispondenza e concorrenza sono indicazioni, non promesse.",
+            "Sfrutta i rimbalzi",
+            "Prova angoli con rimbalzo quando un tiro diretto non raggiunge il gruppo desiderato.",
             "comparison"
           ]
         ]
       ],
       "blog": [
-        "Blog e risorse professionali | Job Connect",
-        "Consigli pratici, guida all’uso e confronto descrittivo dei metodi di ricerca.",
-        "Risorse professionali Job Connect",
-        "Consulta risorse per organizzare la ricerca e valutare le opportunità con attenzione.",
+        "Blog Bubble Fury | Guide di gioco",
+        "Articoli su controlli arcade, abbinamenti di colori, combo e punteggi elevati.",
+        "Articoli di gioco Bubble Fury",
+        "Guide pratiche sulle meccaniche descritte nella scheda ufficiale Google Play.",
         [
           [
-            "Consigli per cercare lavoro",
-            "Abitudini utili per valutare opportunità e proteggere tempo e informazioni.",
-            "tips"
-          ],
-          [
-            "Guida all’uso",
-            "Un percorso per scoprire, esaminare e organizzare opportunità con Job Connect.",
+            "Mira con criterio",
+            "Trascina per mirare e rilascia per sparare. Cerca una traiettoria verso un colore corrispondente.",
             "guide"
           ],
           [
-            "Confronta i metodi",
-            "Come un’app per individuare opportunità affianca i metodi tradizionali.",
+            "Abbina gruppi di tre o più",
+            "Cerca gruppi di almeno tre bolle dello stesso colore per liberare spazio.",
+            "blog"
+          ],
+          [
+            "Sfrutta i rimbalzi",
+            "Prova angoli con rimbalzo quando un tiro diretto non raggiunge il gruppo desiderato.",
             "comparison"
           ]
         ]
       ],
       "guide": [
-        "Guida all’uso di Job Connect | Android",
-        "Scopri come esplorare opportunità, consultare dettagli e organizzare le offerte.",
-        "Guida all’uso di Job Connect",
-        "Segui un percorso semplice per scoprire opportunità, consultarne i dettagli e salvare i ruoli.",
+        "Guida Bubble Fury | Come giocare",
+        "Impara le basi: mira, spara, abbina almeno tre bolle e adattati al tabellone.",
+        "Come giocare a Bubble Fury",
+        "Segui un semplice ciclo di gioco con i comandi e le meccaniche descritte su Google Play.",
         [
           [
-            "Scopri le opportunità",
-            "Esplora il feed e individua i ruoli da esaminare più attentamente.",
-            "tips"
+            "Mira con criterio",
+            "Trascina per mirare e rilascia per sparare. Cerca una traiettoria verso un colore corrispondente.",
+            "guide"
           ],
           [
-            "Esamina i dettagli",
-            "Leggi responsabilità e requisiti e verifica le informazioni con il datore di lavoro.",
+            "Abbina gruppi di tre o più",
+            "Cerca gruppi di almeno tre bolle dello stesso colore per liberare spazio.",
             "blog"
           ],
           [
-            "Organizza la ricerca",
-            "Raggruppa le opportunità da consultare di nuovo in raccolte personali.",
+            "Sfrutta i rimbalzi",
+            "Prova angoli con rimbalzo quando un tiro diretto non raggiunge il gruppo desiderato.",
             "comparison"
           ]
         ]
       ],
       "comparison": [
-        "Confronto dei metodi di ricerca del lavoro | Job Connect",
-        "Confronto descrittivo tra scoperta tramite app e metodi tradizionali di ricerca.",
-        "Confronta i metodi di ricerca del lavoro",
-        "Scopri come un’app può aiutarti e quali informazioni richiedono una verifica indipendente.",
+        "Gioco arcade di bolle | Bubble Fury",
+        "Scopri lo stile arcade, la meccanica delle tre bolle e il gioco basato sul punteggio.",
+        "Lo stile arcade di Bubble Fury",
+        "Panoramica basata sulla descrizione pubblicata, senza classifiche di altre app.",
         [
           [
-            "Trovare opportunità",
-            "Un feed dedicato riduce la necessità di consultare manualmente fonti diverse.",
+            "Mira con criterio",
+            "Trascina per mirare e rilascia per sparare. Cerca una traiettoria verso un colore corrispondente.",
             "guide"
           ],
           [
-            "Valutare il contesto",
-            "Gli indicatori aggiungono contesto, ma l’annuncio originale resta la fonte da verificare.",
-            "tips"
+            "Abbina gruppi di tre o più",
+            "Cerca gruppi di almeno tre bolle dello stesso colore per liberare spazio.",
+            "blog"
           ],
           [
-            "Organizzare i ruoli",
-            "Le raccolte riuniscono le opportunità da rivedere in seguito.",
-            "blog"
+            "Sfrutta i rimbalzi",
+            "Prova angoli con rimbalzo quando un tiro diretto non raggiunge il gruppo desiderato.",
+            "comparison"
           ]
         ]
       ]

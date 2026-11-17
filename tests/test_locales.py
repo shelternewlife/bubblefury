@@ -80,9 +80,9 @@ class MarketLocaleTests(unittest.TestCase):
             folded = metadata.casefold()
             for term in config["excluded_terms"]:
                 self.assertNotIn(term.casefold(), folded, f"Unsupported keyword claim in {locale}: {term}")
-        self.assertIn("job search app", " ".join(clusters["en-US"]["primary"]))
-        self.assertIn("job search app Canada", " ".join(clusters["en-CA"]["primary"]))
-        self.assertIn("application de recherche d’emploi", " ".join(clusters["fr-CA"]["primary"]))
+        self.assertIn("bubble shooter game", " ".join(clusters["en-US"]["primary"]))
+        self.assertIn("bubble shooter Android game", " ".join(clusters["en-CA"]["primary"]))
+        self.assertIn("jeu de tir de bulles", " ".join(clusters["fr-CA"]["primary"]))
 
     def test_only_explicitly_published_locales_are_generated(self):
         expected = {x.lower() for x in STRATEGY["published_locales"]}
@@ -151,8 +151,8 @@ class MarketLocaleTests(unittest.TestCase):
         for locale in ("fr-CA", "fr-FR"):
             source = (DIST / locale.lower() / "index.html").read_text(encoding="utf-8")
             self.assertIn(f'<html lang="{locale}"', source)
-            self.assertIn("Découvrez", source)
-            self.assertIn("Application de recherche d’emploi", source)
+            self.assertIn("Bubble Fury", source)
+            self.assertIn("tir de bulles", source)
             self.assertIn("Foire aux questions", (DIST / locale.lower() / "faq" / "index.html").read_text(encoding="utf-8"))
             self.assertNotIn("Discover your next opportunity", source)
             self.assertNotIn("Frequently asked questions", source)

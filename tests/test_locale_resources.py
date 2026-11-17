@@ -138,16 +138,16 @@ class LocalizedResourceRouteTests(unittest.TestCase):
 
     def test_french_hubs_have_french_titles_and_content(self):
         expected_phrases = {
-            "tips": "Conseils pour la recherche d’emploi",
-            "blog": "Blogue et ressources carrière",
-            "guide": "Guide d’utilisation de Job Connect",
-            "comparison": "Comparer les méthodes de recherche d’emploi",
+            "tips": "Conseils pour tirer des bulles",
+            "blog": "Articles sur Bubble Fury",
+            "guide": "Comment jouer à Bubble Fury",
+            "comparison": "L’approche arcade de Bubble Fury",
         }
         for tail in HUBS:
             source = (DIST / "fr-ca" / tail / "index.html").read_text(encoding="utf-8")
             self.assertIn(expected_phrases[tail], source, tail)
-            self.assertNotIn("Job search tips", source, tail)
-            self.assertNotIn("User guide", source, tail)
+            self.assertNotIn("Bubble shooter tips", source, tail)
+            self.assertNotIn("Bubble Fury guide", source, tail)
             self.assertIn('og:locale" content="fr_CA"', source)
 
     def test_sitemaps_include_all_twelve_localized_resource_routes_once(self):

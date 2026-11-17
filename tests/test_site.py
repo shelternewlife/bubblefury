@@ -58,7 +58,7 @@ class SiteTests(unittest.TestCase):
         self.assertIn("8mOiNMu4Tn477yFaR-IWrNQGhdqH1TpF6NKKoN94Oms", source)
 
     def test_identity_and_store_url(self):
-        self.assertEqual(APP["name"], "Job Connect")
+        self.assertEqual(APP["name"], "Bubble Fury")
         self.assertIn(APP["package_id"], APP["google_play_url"])
 
     def test_all_expected_routes_exist(self):
@@ -69,8 +69,8 @@ class SiteTests(unittest.TestCase):
 
     def test_page_content_is_section_specific(self):
         expected = {
-            "en": {"about": "About Job Connect", "features": "Explore the features", "faq": "Frequently asked questions"},
-            "ar": {"about": "عن Job Connect", "features": "استكشف المزايا", "faq": "الأسئلة الشائعة"},
+            "en": {"about": "About Bubble Fury", "features": "Explore features", "faq": "Frequently asked questions"},
+            "ar": {"about": "عن Bubble Fury", "features": "استكشف المزايا", "faq": "الأسئلة الشائعة"},
         }
         for lang in ("en", "ar"):
             headings = []
@@ -185,8 +185,11 @@ class SiteTests(unittest.TestCase):
                 expected = f"{BASE}/{lang}/" + ("" if section == "home" else f"{section}/")
                 self.assertIn(expected, urls)
 
-    def test_screenshot_asset_exists(self):
-        self.assertTrue((DIST / "assets/screens/screen-1.webp").is_file())
+    def test_site_uses_official_store_screenshots_not_template_artwork(self):
+        self.assertFalse((ROOT / "assets/screens/screen-1.webp").exists())
+        for lang in ("en", "ar"):
+            source = output_path(lang).read_text(encoding="utf-8")
+            self.assertIn("play-lh.googleusercontent.com", source)
 
     def test_homepage_uses_five_distinct_google_play_screenshots(self):
         for lang in ("en", "ar"):
@@ -227,8 +230,8 @@ class SiteTests(unittest.TestCase):
             parser.feed(source)
             self.assertEqual(len(parser.images), 5)
             self.assertIn(APP["google_play_url"], parser.links)
-            self.assertIn('id="feature-discovery"', source)
-            self.assertIn('id="feature-collections"', source)
+            self.assertIn('id="feature-arcade-gameplay"', source)
+            self.assertIn('id="feature-coins-and-progression"', source)
 
     def test_ga4_tracks_google_play_ctas_with_page_context(self):
         measurement_id = APP["ga4_measurement_id"]
@@ -401,8 +404,8 @@ class SiteTests(unittest.TestCase):
 
     def test_keyword_targets_are_documented_without_fake_volume_claims(self):
         targets = json.loads((ROOT / "content/seo-keywords.json").read_text(encoding="utf-8"))
-        self.assertIn("job search app", targets["en"]["primary"])
-        self.assertIn("البحث عن عمل", targets["ar"]["primary"])
+        self.assertIn("bubble shooter game", targets["en"]["primary"])
+        self.assertNotIn("ar", targets)
         self.assertIn("not verified", targets["note"])
 
 
@@ -430,6 +433,7 @@ class SiteTests(unittest.TestCase):
     def test_no_previous_brand(self):
         for path in DIST.rglob("*.html"):
             self.assertNotIn("Mingle", path.read_text(encoding="utf-8"))
+            self.assertNotIn("Job Connect", path.read_text(encoding="utf-8"))
 
 if __name__ == "__main__":
     unittest.main()
