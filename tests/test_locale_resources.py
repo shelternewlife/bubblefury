@@ -7,7 +7,8 @@ from html.parser import HTMLParser
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 DIST = ROOT / "dist"
-BASE = "https://shelternewlife.github.io/tobemotif-app-discovery"
+APP = __import__("json").loads((ROOT / "content/app.json").read_text(encoding="utf-8"))
+BASE = APP["website_url"].rstrip("/")
 STRATEGY = __import__("json").loads((ROOT / "content/market-strategy.json").read_text(encoding="utf-8"))
 LOCALES = tuple(STRATEGY["published_locales"])
 HUBS = ("tips", "blog", "guide", "comparison")
