@@ -1,52 +1,54 @@
 {
-  "en": {
+  "en-US": {
     "primary": [
+      "offline bubble shooter",
       "bubble shooter game",
-      "bubble shooter",
       "arcade bubble shooter"
     ],
     "secondary": [
       "bubble pop game",
       "match three bubbles",
-      "bubble shooting game",
-      "arcade bubble game",
       "bubble shooter Android game",
-      "bubble shooter combos"
+      "bubble shooter combos",
+      "wall bounce bubble shooter",
+      "offline arcade game"
     ]
   },
   "en-CA": {
     "primary": [
+      "offline bubble shooter",
       "bubble shooter game",
-      "bubble shooter Android game",
       "arcade bubble shooter"
     ],
     "secondary": [
       "bubble pop game",
       "match three bubbles",
-      "bubble shooting game",
-      "bubble shooter combos"
+      "bubble shooter Android game",
+      "bubble shooter combos",
+      "wall rebound bubble game"
     ]
   },
   "fr-CA": {
     "primary": [
+      "jeu de bulles hors ligne",
       "jeu de tir de bulles",
-      "jeu de bulles Android",
       "jeu d’arcade de bulles"
     ],
     "secondary": [
       "éclater des bulles",
       "associer trois bulles",
-      "jeu de bulles arcade",
+      "jeu de bulles Android",
       "combos de bulles"
     ]
   },
   "es-ES": {
     "primary": [
+      "juego de burbujas sin conexión",
       "juego de disparar burbujas",
-      "bubble shooter",
       "juego arcade de burbujas"
     ],
     "secondary": [
+      "bubble shooter",
       "rompecabezas de burbujas",
       "combinar tres burbujas",
       "juego de explotar burbujas"
@@ -54,11 +56,12 @@
   },
   "pt-PT": {
     "primary": [
+      "jogo de bolhas offline",
       "jogo de disparar bolhas",
-      "bubble shooter",
       "jogo arcade de bolhas"
     ],
     "secondary": [
+      "bubble shooter",
       "rebentar bolhas",
       "combinar três bolhas",
       "jogo de combinar cores"
@@ -66,11 +69,12 @@
   },
   "fr-FR": {
     "primary": [
+      "jeu de bulles hors ligne",
       "jeu de tir de bulles",
-      "bubble shooter",
       "jeu d’arcade de bulles"
     ],
     "secondary": [
+      "bubble shooter",
       "éclater des bulles",
       "associer trois bulles",
       "combos de bulles"
@@ -78,8 +82,8 @@
   },
   "de-DE": {
     "primary": [
+      "Bubble Shooter offline",
       "Bubble Shooter Spiel",
-      "Bubble Shooter",
       "Bubble Shooter Arcade-Spiel"
     ],
     "secondary": [
@@ -91,16 +95,16 @@
   },
   "it-IT": {
     "primary": [
+      "gioco sparabolle offline",
       "gioco spara bolle",
-      "bubble shooter",
       "gioco arcade di bolle"
     ],
     "secondary": [
+      "bubble shooter",
       "scoppia bolle",
       "abbina tre bolle",
-      "gioco di bolle arcade",
       "combo di bolle"
     ]
   },
-  "note": "Keyword seeds describe the verified Bubble Fury gameplay and store category. Search volume and ranking difficulty are not verified; validate each market in Google Keyword Planner and refine using Search Console."
+  "note": "Keyword targets are based on the current Google Play listing, including its offline arcade positioning and described mechanics. Search volume and ranking difficulty are not verified; validate by country in Google Keyword Planner and refine with Google Search Console impressions, queries and click-through rate."
 }

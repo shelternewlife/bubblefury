@@ -28,27 +28,27 @@
       "support": "Support",
       "about_intro": "Bubble Fury is an arcade bubble shooter built around precise aiming, color matches, combo chains and increasingly challenging rounds.",
       "features_intro": "Explore the aiming, matching, combo and progression features described on Google Play.",
-      "faq_intro": "Answers about Bubble Fury gameplay, matching bubbles, combos, coins and installation.",
+      "faq_intro": "Answers about Bubble Fury offline play, aiming, matching bubbles, combos, coins and installation.",
       "language": "Choose your language",
       "english": "English",
       "arabic": "العربية",
       "home_intro": "Drag to aim and release to shoot. Match three or more bubbles of the same color, use wall rebounds, build combos and collect coins as the board becomes more challenging."
     },
     "titles": {
-      "home": "Bubble Fury: Bubble Shooter Game | Android",
-      "about": "About Bubble Fury | Arcade Bubble Shooter",
-      "features": "Bubble Fury Features | Bubble Pop & Combos",
-      "download": "Download Bubble Fury for Android | Google Play",
-      "faq": "Bubble Fury FAQ | Bubble Shooter Game"
+      "home": "Bubble Fury: Offline Bubble Shooter | Android",
+      "about": "About Bubble Fury | Offline Bubble Shooter",
+      "features": "Bubble Fury Features | Aim, Pop & Combos",
+      "download": "Download Bubble Fury | Google Play",
+      "faq": "Bubble Fury FAQ | Offline Bubble Game"
     },
     "descriptions": {
-      "home": "Play Bubble Fury, an arcade bubble shooter. Aim, match colors, build combos and chase high scores on Android.",
-      "about": "Learn about Bubble Fury, a fast arcade bubble shooter with color matches, combo chains, wall rebounds and coin rewards.",
-      "features": "Explore Bubble Fury gameplay: precise aiming, match-three bubbles, combo scoring, wall rebounds and rising challenge.",
-      "download": "Download Bubble Fury for Android from Google Play. Start aiming, popping matching bubbles and building combo scores.",
-      "faq": "Find answers about Bubble Fury, how to aim and match bubbles, combos, wall rebounds, coins, ads and Android installation."
+      "home": "Play Bubble Fury, an offline arcade bubble shooter. Aim, match colors, build combos and chase high scores on Android.",
+      "about": "Learn about Bubble Fury, an offline arcade bubble shooter with color matches, wall rebounds, combo chains and coin rewards.",
+      "features": "Explore Bubble Fury: precise aiming, match-three bubbles, wall rebounds, combo scoring and fast offline arcade play.",
+      "download": "Download Bubble Fury for Android on Google Play. Play offline, pop matching bubbles and build combo scores.",
+      "faq": "Answers about Bubble Fury offline play, aiming, matching bubbles, combos, wall rebounds, coins, ads and installation."
     },
-    "app_description": "Bubble Fury is a fast arcade bubble shooter. Drag to aim and release to shoot, match three or more bubbles of the same color, build combo chains, use wall rebounds, collect coins, and keep playing as the board grows more challenging.",
+    "app_description": "Bubble Fury is a fast arcade bubble shooter for offline play. Aim, match three or more bubbles, use wall rebounds, build combos, collect coins and chase high scores.",
     "tagline": "Quick runs. Precise shots. Bigger scores.",
     "features": [
       [
@@ -104,6 +104,10 @@
       [
         "Where can I install Bubble Fury?",
         "Install Bubble Fury for Android from its official Google Play listing linked on this website."
+      ],
+      [
+        "Can I play Bubble Fury offline?",
+        "Yes. The Google Play listing describes Bubble Fury as an offline bubble arcade game, so you can enjoy its arcade bubble-shooter gameplay without an internet connection."
       ]
     ],
     "screenshots": [
@@ -158,27 +162,27 @@
       "support": "Support",
       "about_intro": "Bubble Fury is an arcade bubble shooter built around precise aiming, color matches, combo chains and increasingly challenging rounds.",
       "features_intro": "Explore the aiming, matching, combo and progression features described on Google Play.",
-      "faq_intro": "Answers about Bubble Fury gameplay, matching bubbles, combos, coins and installation.",
+      "faq_intro": "Answers about Bubble Fury offline play, aiming, matching bubbles, combos, coins and installation.",
       "language": "Choose your language",
       "english": "English",
       "arabic": "العربية",
       "home_intro": "Drag to aim and release to shoot. Match three or more bubbles of the same color, use wall rebounds, build combos and collect coins as the board becomes more challenging."
     },
     "titles": {
-      "home": "Bubble Fury: Bubble Shooter Game",
+      "home": "Bubble Fury: Offline Bubble Shooter",
       "about": "About Bubble Fury | Bubble Shooter",
       "features": "Bubble Fury Features | Combos & Pops",
-      "download": "Download Bubble Fury for Android",
-      "faq": "Bubble Fury FAQ | Bubble Shooter"
+      "download": "Download Bubble Fury | Google Play",
+      "faq": "Bubble Fury FAQ | Offline Bubble Game"
     },
     "descriptions": {
-      "home": "Play Bubble Fury, an arcade bubble shooter. Aim, match colours, build combos and chase high scores on Android.",
-      "about": "Learn about Bubble Fury, an arcade bubble shooter with precise aiming, colour matches, wall rebounds and coin rewards.",
-      "features": "Explore Bubble Fury gameplay: precise aiming, match-three bubbles, combo scoring, wall rebounds and rising challenge.",
-      "download": "Download Bubble Fury for Android from Google Play. Start popping matching bubbles and building combo scores.",
-      "faq": "Find answers about Bubble Fury gameplay, matching bubbles, combos, wall rebounds, coins, ads and installation."
+      "home": "Play Bubble Fury, an offline arcade bubble shooter. Aim, match colours, build combos and chase high scores on Android.",
+      "about": "Learn about Bubble Fury, an offline bubble shooter with precise aiming, colour matches, wall rebounds and coin rewards.",
+      "features": "Explore Bubble Fury: precise aiming, match-three bubbles, wall rebounds, combo scoring and quick offline arcade play.",
+      "download": "Download Bubble Fury for Android on Google Play. Play offline, pop matching bubbles and build combo scores.",
+      "faq": "Find answers about Bubble Fury offline play, matching bubbles, combos, wall rebounds, coins, ads and installation."
     },
-    "app_description": "Bubble Fury is a fast arcade bubble shooter. Drag to aim and release to shoot, match three or more bubbles of the same color, build combo chains, use wall rebounds, collect coins, and keep playing as the board grows more challenging.",
+    "app_description": "Bubble Fury is a fast offline arcade bubble shooter. Aim, match three or more bubbles, use wall rebounds, build combos, collect coins and chase high scores.",
     "tagline": "Quick runs. Precise shots. Bigger scores.",
     "features": [
       [
@@ -234,6 +238,10 @@
       [
         "Where can I install Bubble Fury?",
         "Install Bubble Fury for Android from its official Google Play listing linked on this website."
+      ],
+      [
+        "Can I play Bubble Fury offline?",
+        "Yes. Google Play describes Bubble Fury as an offline bubble arcade game, so you can enjoy its bubble-shooter gameplay without an internet connection."
       ]
     ],
     "screenshots": [
@@ -295,18 +303,18 @@
       "home_intro": "Faites glisser pour viser, puis relâchez pour tirer. Associez au moins trois bulles de la même couleur, utilisez les rebonds sur les murs, enchaînez les combos et gagnez des pièces à mesure que le plateau se complique."
     },
     "titles": {
-      "home": "Jeu de bulles arcade | Bubble Fury",
+      "home": "Bubble Fury : jeu de bulles hors ligne",
       "about": "À propos de Bubble Fury | Jeu de bulles",
-      "features": "Fonctionnalités Bubble Fury | Combos",
-      "download": "Télécharger Bubble Fury pour Android",
-      "faq": "FAQ Bubble Fury | Jeu de bulles"
+      "features": "Bubble Fury : visée, combos et bulles",
+      "download": "Télécharger Bubble Fury | Google Play",
+      "faq": "FAQ Bubble Fury | Jeu hors ligne"
     },
     "descriptions": {
-      "home": "Jouez à Bubble Fury, un jeu d’arcade de tir de bulles. Visez, associez les couleurs et enchaînez les combos sur Android.",
-      "about": "Découvrez Bubble Fury, un jeu de bulles avec visée précise, associations de couleurs, rebonds et pièces à gagner.",
-      "features": "Explorez Bubble Fury : visée précise, associations de trois bulles, combos, rebonds sur les murs et défi croissant.",
-      "download": "Téléchargez Bubble Fury pour Android sur Google Play et commencez à éclater les bulles et à créer des combos.",
-      "faq": "Réponses sur Bubble Fury : visée, associations de bulles, combos, rebonds, pièces, publicités et installation."
+      "home": "Jouez à Bubble Fury, un jeu de tir de bulles hors ligne. Visez, associez les couleurs et enchaînez les combos sur Android.",
+      "about": "Découvrez Bubble Fury, un jeu de bulles hors ligne avec visée précise, rebonds, associations de couleurs et pièces.",
+      "features": "Explorez Bubble Fury : tirs précis, groupes de trois bulles, rebonds sur les murs, combos et jeu arcade hors ligne.",
+      "download": "Téléchargez Bubble Fury pour Android sur Google Play. Jouez hors ligne, éclatez les bulles et créez des combos.",
+      "faq": "Réponses sur Bubble Fury hors ligne : visée, associations, combos, rebonds, pièces, publicités et installation."
     },
     "app_description": "Bubble Fury est un jeu d’arcade de tir de bulles rapide. Faites glisser pour viser et relâchez pour tirer, associez au moins trois bulles de la même couleur, créez des combos, utilisez les rebonds sur les murs et gagnez des pièces à mesure que le plateau se complique.",
     "tagline": "Des parties rapides. Des tirs précis. Des scores plus élevés.",
@@ -364,6 +372,10 @@
       [
         "Où installer Bubble Fury?",
         "Installez Bubble Fury pour Android depuis sa fiche officielle sur Google Play."
+      ],
+      [
+        "Puis-je jouer à Bubble Fury hors ligne ?",
+        "Oui. La fiche Google Play présente Bubble Fury comme un jeu d’arcade de bulles hors ligne, jouable sans connexion Internet."
       ]
     ],
     "screenshots": [
@@ -425,18 +437,18 @@
       "home_intro": "Arrastra para apuntar y suelta para disparar. Combina tres o más burbujas del mismo color, aprovecha los rebotes en las paredes, crea combos y consigue monedas mientras el tablero se vuelve más difícil."
     },
     "titles": {
-      "home": "Bubble Fury: juego de burbujas arcade",
+      "home": "Bubble Fury: juego de burbujas offline",
       "about": "Acerca de Bubble Fury | Bubble Shooter",
-      "features": "Funciones de Bubble Fury | Combos y burbujas",
-      "download": "Descargar Bubble Fury para Android | Google Play",
-      "faq": "Preguntas frecuentes de Bubble Fury | Burbujas"
+      "features": "Bubble Fury: funciones, combos y tiros",
+      "download": "Descargar Bubble Fury | Google Play",
+      "faq": "FAQ de Bubble Fury | Juego offline"
     },
     "descriptions": {
-      "home": "Juega a Bubble Fury, un juego arcade de disparar burbujas. Apunta, combina colores y crea combos en Android.",
-      "about": "Conoce Bubble Fury, un juego arcade de burbujas con apuntado preciso, combinaciones, rebotes y monedas.",
-      "features": "Explora Bubble Fury: apuntado preciso, combina tres burbujas, combos, rebotes en paredes y dificultad creciente.",
-      "download": "Descarga Bubble Fury para Android desde Google Play. Empieza a explotar burbujas y a conseguir combos.",
-      "faq": "Respuestas sobre Bubble Fury: apuntar, combinar burbujas, combos, rebotes, monedas, anuncios e instalación."
+      "home": "Juega a Bubble Fury, un juego arcade de burbujas sin conexión. Apunta, combina colores y consigue combos en Android.",
+      "about": "Descubre Bubble Fury, un juego de burbujas offline con apuntado preciso, rebotes, combinaciones y monedas.",
+      "features": "Explora Bubble Fury: apuntado preciso, grupos de tres burbujas, rebotes, combos y partidas arcade sin conexión.",
+      "download": "Descarga Bubble Fury para Android desde Google Play. Juega sin conexión, explota burbujas y crea combos.",
+      "faq": "Respuestas sobre Bubble Fury sin conexión: apuntar, combinar burbujas, combos, rebotes, monedas e instalación."
     },
     "app_description": "Bubble Fury es un juego arcade rápido de disparar burbujas. Arrastra para apuntar y suelta para disparar, combina tres o más burbujas del mismo color, crea combos, aprovecha los rebotes en las paredes y consigue monedas mientras el tablero se complica.",
     "tagline": "Partidas rápidas. Tiros precisos. Puntuaciones más altas.",
@@ -494,6 +506,10 @@
       [
         "¿Dónde puedo instalar Bubble Fury?",
         "Instala Bubble Fury para Android desde su ficha oficial de Google Play."
+      ],
+      [
+        "¿Puedo jugar a Bubble Fury sin conexión?",
+        "Sí. Google Play describe Bubble Fury como un juego arcade de burbujas sin conexión, para disfrutar de sus partidas sin Internet."
       ]
     ],
     "screenshots": [
@@ -555,18 +571,18 @@
       "home_intro": "Arraste para apontar e largue para disparar. Combine três ou mais bolhas da mesma cor, use os ressaltos nas paredes, crie combos e ganhe moedas à medida que o tabuleiro fica mais desafiante."
     },
     "titles": {
-      "home": "Bubble Fury: jogo arcade de bolhas",
+      "home": "Bubble Fury: jogo de bolhas offline",
       "about": "Sobre Bubble Fury | Jogo de bolhas",
-      "features": "Funcionalidades Bubble Fury | Combos",
-      "download": "Transferir Bubble Fury para Android",
-      "faq": "FAQ Bubble Fury | Jogo de bolhas"
+      "features": "Bubble Fury: mira, bolhas e combos",
+      "download": "Transferir Bubble Fury | Google Play",
+      "faq": "FAQ Bubble Fury | Jogo offline"
     },
     "descriptions": {
-      "home": "Jogue Bubble Fury, um jogo arcade de disparar bolhas. Mire, combine cores e crie combos no Android.",
-      "about": "Conheça Bubble Fury, um jogo arcade de bolhas com mira precisa, combinações, ressaltos e moedas.",
-      "features": "Explore Bubble Fury: mira precisa, combinar três bolhas, combos, ressaltos nas paredes e desafio crescente.",
-      "download": "Transfira Bubble Fury para Android no Google Play. Comece a rebentar bolhas e a criar combos.",
-      "faq": "Respostas sobre Bubble Fury: mira, combinação de bolhas, combos, ressaltos, moedas, anúncios e instalação."
+      "home": "Jogue Bubble Fury, um jogo arcade de bolhas offline. Mire, combine cores e crie combos no Android.",
+      "about": "Conheça Bubble Fury, um jogo de bolhas offline com mira precisa, ressaltos, combinações de cores e moedas.",
+      "features": "Explore Bubble Fury: mira precisa, grupos de três bolhas, ressaltos nas paredes, combos e jogo arcade offline.",
+      "download": "Transfira Bubble Fury para Android no Google Play. Jogue offline, rebente bolhas e crie combos.",
+      "faq": "Respostas sobre Bubble Fury offline: mira, combinações, combos, ressaltos, moedas, anúncios e instalação."
     },
     "app_description": "Bubble Fury é um jogo arcade rápido de disparar bolhas. Arraste para apontar e largue para disparar, combine três ou mais bolhas da mesma cor, crie combos, use os ressaltos nas paredes e ganhe moedas à medida que o tabuleiro fica mais desafiante.",
     "tagline": "Partidas rápidas. Disparos precisos. Pontuações maiores.",
@@ -624,6 +640,10 @@
       [
         "Onde posso instalar Bubble Fury?",
         "Instale Bubble Fury para Android através da página oficial no Google Play."
+      ],
+      [
+        "Posso jogar Bubble Fury offline?",
+        "Sim. O Google Play descreve Bubble Fury como um jogo arcade de bolhas offline, que pode ser jogado sem ligação à Internet."
       ]
     ],
     "screenshots": [
@@ -685,18 +705,18 @@
       "home_intro": "Faites glisser pour viser, puis relâchez pour tirer. Associez au moins trois bulles de la même couleur, utilisez les rebonds sur les murs, enchaînez les combos et gagnez des pièces à mesure que le plateau se complique."
     },
     "titles": {
-      "home": "Bubble Fury : jeu de bulles arcade",
+      "home": "Bubble Fury : jeu de bulles hors ligne",
       "about": "À propos de Bubble Fury | Jeu de bulles",
-      "features": "Fonctionnalités Bubble Fury | Combos",
-      "download": "Télécharger Bubble Fury pour Android",
-      "faq": "FAQ Bubble Fury | Jeu de bulles"
+      "features": "Bubble Fury : visée, combos et bulles",
+      "download": "Télécharger Bubble Fury | Google Play",
+      "faq": "FAQ Bubble Fury | Jeu hors ligne"
     },
     "descriptions": {
-      "home": "Jouez à Bubble Fury, un jeu d’arcade de tir de bulles. Visez, associez les couleurs et enchaînez les combos sur Android.",
-      "about": "Découvrez Bubble Fury, un jeu de bulles avec visée précise, associations de couleurs, rebonds et pièces à gagner.",
-      "features": "Explorez Bubble Fury : visée précise, associations de trois bulles, combos, rebonds sur les murs et défi croissant.",
-      "download": "Téléchargez Bubble Fury pour Android sur Google Play et commencez à éclater les bulles et à créer des combos.",
-      "faq": "Réponses sur Bubble Fury : visée, associations de bulles, combos, rebonds, pièces, publicités et installation."
+      "home": "Jouez à Bubble Fury, un jeu de tir de bulles hors ligne. Visez, associez les couleurs et enchaînez les combos sur Android.",
+      "about": "Découvrez Bubble Fury, un jeu de bulles hors ligne avec visée précise, rebonds, associations de couleurs et pièces.",
+      "features": "Explorez Bubble Fury : tirs précis, groupes de trois bulles, rebonds sur les murs, combos et jeu arcade hors ligne.",
+      "download": "Téléchargez Bubble Fury pour Android sur Google Play. Jouez hors ligne, éclatez les bulles et créez des combos.",
+      "faq": "Réponses sur Bubble Fury hors ligne : visée, associations, combos, rebonds, pièces, publicités et installation."
     },
     "app_description": "Bubble Fury est un jeu d’arcade de tir de bulles rapide. Faites glisser pour viser et relâchez pour tirer, associez au moins trois bulles de la même couleur, créez des combos, utilisez les rebonds sur les murs et gagnez des pièces à mesure que le plateau se complique.",
     "tagline": "Des parties rapides. Des tirs précis. Des scores plus élevés.",
@@ -754,6 +774,10 @@
       [
         "Où installer Bubble Fury?",
         "Installez Bubble Fury pour Android depuis sa fiche officielle sur Google Play."
+      ],
+      [
+        "Puis-je jouer à Bubble Fury hors ligne ?",
+        "Oui. La fiche Google Play présente Bubble Fury comme un jeu d’arcade de bulles hors ligne, jouable sans connexion Internet."
       ]
     ],
     "screenshots": [
@@ -815,18 +839,18 @@
       "home_intro": "Ziehe zum Zielen und lasse los, um zu schießen. Kombiniere mindestens drei Blasen derselben Farbe, nutze Abpraller an Wänden, bilde Combos und sammle Münzen, während das Spielfeld anspruchsvoller wird."
     },
     "titles": {
-      "home": "Bubble Fury: Arcade Bubble Shooter",
-      "about": "Über Bubble Fury | Bubble Shooter",
-      "features": "Bubble Fury Funktionen | Combos & Blasen",
-      "download": "Bubble Fury für Android herunterladen",
-      "faq": "Bubble Fury FAQ | Bubble Shooter"
+      "home": "Bubble Fury: Offline Bubble Shooter",
+      "about": "Über Bubble Fury | Offline Bubble-Shooter",
+      "features": "Bubble Fury: Funktionen, Combos & Blasen",
+      "download": "Bubble Fury herunterladen | Google Play",
+      "faq": "Bubble Fury FAQ | Offline-Spiel"
     },
     "descriptions": {
-      "home": "Spiele Bubble Fury, einen Arcade-Bubble-Shooter. Ziele, kombiniere Farben und bilde Combos auf Android.",
-      "about": "Lerne Bubble Fury kennen: präzises Zielen, Farbkombinationen, Wandabpraller und Münzbelohnungen.",
-      "features": "Entdecke Bubble Fury: präzises Zielen, drei Blasen kombinieren, Combos, Wandabpraller und steigende Herausforderung.",
-      "download": "Lade Bubble Fury für Android bei Google Play herunter und beginne, passende Blasen platzen zu lassen.",
-      "faq": "Antworten zu Bubble Fury: Zielen, Blasen kombinieren, Combos, Abpraller, Münzen, Werbung und Installation."
+      "home": "Spiele Bubble Fury, einen Offline-Arcade-Bubble-Shooter. Ziele, kombiniere Farben und bilde Combos auf Android.",
+      "about": "Lerne Bubble Fury kennen: ein Offline-Bubble-Shooter mit präzisem Zielen, Wandabprallern und Münzbelohnungen.",
+      "features": "Entdecke präzises Zielen, Drei-Blasen-Kombinationen, Wandabpraller, Combos und schnelles Offline-Arcade-Spiel.",
+      "download": "Lade Bubble Fury für Android bei Google Play herunter. Spiele offline, lasse Blasen platzen und bilde Combos.",
+      "faq": "Antworten zu Bubble Fury offline: Zielen, Blasen kombinieren, Combos, Abpraller, Münzen und Installation."
     },
     "app_description": "Bubble Fury ist ein schnelles Arcade-Blasenschießspiel. Ziehe zum Zielen und lasse los, um zu schießen, kombiniere mindestens drei Blasen derselben Farbe, bilde Combo-Ketten, nutze Wandabpraller und sammle Münzen, während das Spielfeld anspruchsvoller wird.",
     "tagline": "Kurze Runden. Präzise Schüsse. Höhere Punktzahlen.",
@@ -884,6 +908,10 @@
       [
         "Wo kann ich Bubble Fury installieren?",
         "Installiere Bubble Fury für Android über den offiziellen Google-Play-Eintrag."
+      ],
+      [
+        "Kann ich Bubble Fury offline spielen?",
+        "Ja. Google Play beschreibt Bubble Fury als Offline-Bubble-Arcade-Spiel, dessen Bubble-Shooter-Spielablauf ohne Internetverbindung gespielt werden kann."
       ]
     ],
     "screenshots": [
@@ -945,18 +973,18 @@
       "home_intro": "Trascina per mirare e rilascia per sparare. Abbina almeno tre bolle dello stesso colore, sfrutta i rimbalzi sulle pareti, crea combo e raccogli monete mentre il tabellone diventa più impegnativo."
     },
     "titles": {
-      "home": "Bubble Fury: gioco arcade sparabolle",
+      "home": "Bubble Fury: sparabolle offline",
       "about": "Informazioni su Bubble Fury | Sparabolle",
-      "features": "Funzioni Bubble Fury | Combo e bolle",
-      "download": "Scarica Bubble Fury per Android",
-      "faq": "FAQ Bubble Fury | Gioco sparabolle"
+      "features": "Bubble Fury: mira, bolle e combo",
+      "download": "Scarica Bubble Fury | Google Play",
+      "faq": "FAQ Bubble Fury | Gioco offline"
     },
     "descriptions": {
-      "home": "Gioca a Bubble Fury, un arcade sparabolle. Mira, abbina i colori e crea combo su Android.",
-      "about": "Scopri Bubble Fury, un gioco arcade con mira precisa, abbinamenti di colori, rimbalzi e ricompense in monete.",
-      "features": "Esplora Bubble Fury: mira precisa, abbina tre bolle, combo, rimbalzi sulle pareti e difficoltà crescente.",
-      "download": "Scarica Bubble Fury per Android da Google Play. Inizia a scoppiare bolle abbinate e creare combo.",
-      "faq": "Risposte su Bubble Fury: mira, abbinamenti, combo, rimbalzi, monete, annunci e installazione."
+      "home": "Gioca a Bubble Fury, un arcade sparabolle offline. Mira, abbina i colori e crea combo su Android.",
+      "about": "Scopri Bubble Fury, uno sparabolle offline con mira precisa, rimbalzi, abbinamenti di colori e monete.",
+      "features": "Esplora Bubble Fury: mira precisa, gruppi di tre bolle, rimbalzi sulle pareti, combo e gioco arcade offline.",
+      "download": "Scarica Bubble Fury per Android da Google Play. Gioca offline, scoppia bolle e crea combo.",
+      "faq": "Risposte su Bubble Fury offline: mira, abbinamenti, combo, rimbalzi, monete, annunci e installazione."
     },
     "app_description": "Bubble Fury è un gioco arcade sparabolle veloce. Trascina per mirare e rilascia per sparare, abbina almeno tre bolle dello stesso colore, crea combo, sfrutta i rimbalzi sulle pareti e raccogli monete mentre il tabellone diventa più impegnativo.",
     "tagline": "Partite rapide. Tiri precisi. Punteggi più alti.",
@@ -1014,6 +1042,10 @@
       [
         "Dove posso installare Bubble Fury?",
         "Installa Bubble Fury per Android dalla sua scheda ufficiale su Google Play."
+      ],
+      [
+        "Posso giocare a Bubble Fury offline?",
+        "Sì. Google Play descrive Bubble Fury come un gioco arcade di bolle offline, da giocare senza connessione a Internet."
       ]
     ],
     "screenshots": [

@@ -78,5 +78,15 @@
       "en": "Install Bubble Fury for Android from its official Google Play listing linked on this website.",
       "ar": "ثبّت Bubble Fury لنظام Android من صفحة Google Play الرسمية المرتبطة بهذا الموقع."
     }
+  },
+  {
+    "q": {
+      "en": "Can I play Bubble Fury offline?",
+      "ar": "هل يمكنني لعب Bubble Fury دون اتصال بالإنترنت؟"
+    },
+    "a": {
+      "en": "Yes. The Google Play listing describes Bubble Fury as an offline bubble arcade game, so you can enjoy its arcade bubble-shooter gameplay without an internet connection.",
+      "ar": "نعم. تصف صفحة Google Play لعبة Bubble Fury بأنها لعبة فقاعات أركيد تعمل دون اتصال بالإنترنت، ويمكنك الاستمتاع بأسلوب إطلاق الفقاعات دون الحاجة إلى اتصال."
+    }
   }
 ]
